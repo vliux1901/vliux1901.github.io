@@ -67,21 +67,31 @@ npm run images:compress
 ```
 
 Requires ImageMagick 7 (`magick` on PATH). The command searches subfolders and
-writes WebP copies under `tmp/compressed_images/`, preserving the folder structure
-and originals. For example, `tmp/raw_images/trip/photo.jpg` becomes
-`tmp/compressed_images/trip/photo.jpg.webp`. Keeping the source extension avoids
-collisions between files such as `photo.jpg` and `photo.png`.
+writes compressed copies directly into `src/assets/`, preserving relative paths,
+filenames, formats, and originals. For example:
 
-Images are auto-oriented, limited to 2040 × 2040 pixels without enlargement,
-converted to sRGB, stripped of metadata, and encoded at quality 82. Common image
-extensions are recognized (including SVG, which is rasterized); available input
-formats depend on your ImageMagick installation. Non-image files and symlinks
-are skipped. Failed conversions are reported and cause a nonzero exit status.
-Rerunning replaces successful outputs using the originals.
+```text
+tmp/raw_images/aaa/bb/some_img.jpg → src/assets/aaa/bb/some_img.jpg
+```
 
-Review the results and copy selected images into `src/assets/`, then reference
-and stage those copies. Outputs over the 1 MB commit limit or larger than their
-originals produce warnings. The entire root `tmp/` directory is ignored by Git.
+Raster images are auto-oriented, limited to 2040 × 2040 pixels without enlargement,
+converted to sRGB, stripped of metadata, and saved using their original extension.
+Quality 82 is used; its meaning depends on the format (PNG uses lossless compression).
+SVG files are copied unchanged to preserve vector artwork. Available raster formats
+depend on your ImageMagick installation. Non-image files and symlinks are skipped.
+Failed conversions are reported and cause a nonzero exit status. Rerunning replaces
+files at matching destination paths using the originals; unrelated assets remain.
+
+Astro supports nested folders under `src/assets/`. Reference the output in a page
+or post to display it. For example, in `src/content/blog/example.md`:
+
+```yaml
+heroImage: '../../assets/aaa/bb/some_img.jpg'
+```
+
+Review and stage the generated assets. Outputs over the 1 MB commit limit or larger
+than their originals produce warnings. The entire root `tmp/` directory is ignored
+by Git; generated files in `src/assets/` can be committed.
 
 ## Image size check before committing
 
