@@ -58,6 +58,31 @@ All commands are run from the root of the project, from a terminal:
 
 Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
 
+## Batch image compression
+
+Put images under `tmp/raw_images/`, then run:
+
+```sh
+npm run images:compress
+```
+
+Requires ImageMagick 7 (`magick` on PATH). The command searches subfolders and
+writes WebP copies under `tmp/compressed_images/`, preserving the folder structure
+and originals. For example, `tmp/raw_images/trip/photo.jpg` becomes
+`tmp/compressed_images/trip/photo.jpg.webp`. Keeping the source extension avoids
+collisions between files such as `photo.jpg` and `photo.png`.
+
+Images are auto-oriented, limited to 2040 × 2040 pixels without enlargement,
+converted to sRGB, stripped of metadata, and encoded at quality 82. Common image
+extensions are recognized (including SVG, which is rasterized); available input
+formats depend on your ImageMagick installation. Non-image files and symlinks
+are skipped. Failed conversions are reported and cause a nonzero exit status.
+Rerunning replaces successful outputs using the originals.
+
+Review the results and copy selected images into `src/assets/`, then reference
+and stage those copies. Outputs over the 1 MB commit limit or larger than their
+originals produce warnings. The entire root `tmp/` directory is ignored by Git.
+
 ## Image size check before committing
 
 After cloning, install the repository's Git hook (Node.js is required):
