@@ -6,6 +6,8 @@
     "node": ">=22.12.0"
   },
   "scripts": {
+    "check:images": "node scripts/check-staged-images.mjs",
+    "hooks:install": "git config --local core.hooksPath .githooks",
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",

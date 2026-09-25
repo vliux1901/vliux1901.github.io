@@ -58,6 +58,40 @@ All commands are run from the root of the project, from a terminal:
 
 Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
 
+## Image size check before committing
+
+After cloning, install the repository's Git hook (Node.js is required):
+
+```sh
+npm run hooks:install
+```
+
+This sets the local `core.hooksPath` to `.githooks`. If you already use a custom
+hooks directory, integrate this check into your existing hook instead.
+
+The pre-commit hook rejects added or modified staged image files larger than
+1 MB (1,000,000 bytes). It checks the staged content, including renamed images,
+without modifying any files. Deleted files and non-image files are skipped.
+Image detection uses common image filename extensions.
+
+You can also run the check manually:
+
+```sh
+npm run check:images
+```
+
+Keep full-resolution originals outside the repository. Compress images before
+staging them, review the result, and run `git add` again. For example:
+
+```sh
+magick ~/Pictures/blog-originals/trip.jpg \
+  -auto-orient -resize '2040x2040>' -colorspace sRGB -strip -quality 82 \
+  src/assets/trip.webp
+```
+
+Update image references if the filename changes. This hook checks individual
+staged files; it does not enforce the total published site size.
+
 ## Credit
 
 This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
