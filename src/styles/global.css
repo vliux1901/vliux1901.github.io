@@ -139,3 +139,59 @@ hr {
 	/* added line to stop words getting smushed together (as they go onto separate lines and some screen readers do not understand line feeds as a space */
 	white-space: nowrap;
 }
+
+/* Keep paired Markdown photos in equal columns without cropping. */
+.prose .photo-pair {
+	display: grid;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 1rem;
+	margin-block: 2em;
+}
+.prose .photo-pair > p {
+	margin: 0;
+}
+.prose .photo-pair img {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+/* Give dense specification comparisons a clear grid and room to breathe. */
+.prose .spec-comparison {
+	max-width: 100%;
+	overflow-x: auto;
+	margin-block: 2em;
+}
+.prose .spec-comparison:focus-visible {
+	outline: 2px solid var(--accent);
+	outline-offset: 4px;
+}
+.prose .spec-comparison table {
+	min-width: 680px;
+	border-collapse: collapse;
+	table-layout: fixed;
+	font-size: 0.9em;
+	line-height: 1.5;
+}
+.prose .spec-comparison th,
+.prose .spec-comparison td {
+	border: 1px solid #b9c4d5;
+	padding: 0.85em 1em;
+	text-align: left;
+	vertical-align: top;
+}
+.prose .spec-comparison thead th {
+	background: #e2e9f3;
+	color: rgb(var(--black));
+	font-weight: 700;
+}
+.prose .spec-comparison tbody tr:nth-child(even) {
+	background: #f3f6fa;
+}
+.prose .spec-comparison tbody tr:nth-child(odd) {
+	background: #fff;
+}
+.prose .spec-comparison :is(th, td):first-child {
+	width: 20%;
+	font-weight: 700;
+}
