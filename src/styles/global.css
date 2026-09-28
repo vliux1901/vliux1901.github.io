@@ -195,3 +195,11 @@ hr {
 	width: 20%;
 	font-weight: 700;
 }
+
+/* The two-column results table needs less width than the specifications. */
+.prose .chrono-table table {
+	min-width: 360px;
+}
+.prose .chrono-table :is(th, td):first-child {
+	width: 45%;
+}

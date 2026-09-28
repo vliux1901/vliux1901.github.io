@@ -39,7 +39,7 @@ From above, the design becomes almost symmetrical: long outer edges frame a narr
 
 ![Top view of the FAS 6004 showing fine longitudinal grooves between the rear and front sights](../../assets/fas_intro/fas_lines_top.jpg)
 
-Those grooves can also help make aiming easier. By breaking up a broad reflective surface, they can reduce distracting glare along the sight line, helping the sights stand out under bright light. This is the same general purpose served by [anti-glare serrations on sights](https://www.sigsauer.com/shop/black-adjustable-sights). Visually, the parallel lines also lead toward the front sight, although precise alignment still comes from the front blade and rear notch. This is a design-based explanation of their potential benefit, rather than a measured accuracy improvement from the grooves alone.
+Those grooves can also help make aiming easier. By breaking up a broad reflective surface, they can reduce distracting glare along the sight line, helping the sights stand out under bright light. This is the same general purpose served by anti-glare serrations on sights. Visually, the parallel lines also lead toward the front sight, although precise alignment still comes from the front blade and rear notch.
 
 ## Comparisons
 
@@ -51,30 +51,28 @@ The HW75 is a closer comparison mechanically, since both use pre-compressed air.
 
 ![Weihrauch HW75 on the left and FAS 6004 on the right, showing their different grip shapes](../../assets/fas_intro/fas_vs_hw75.jpg)
 
-Another difference visible in these comparisons is how low the FAS's barrel sits relative to the top of the grip. Its high grip and low barrel line give it a layout closer to a dedicated competition pistol than the taller profiles of the HW45 and HW75. Bringing the barrel axis closer to the supporting hand shortens the lever arm through which recoil can rotate the pistol upward—the general principle behind a low bore axis.
-
-That layout can support a more controlled hold and potentially better practical accuracy. Since the FAS is an SSP with very little recoil to begin with, the muzzle-rise benefit is modest; the way the pistol sits in the hand is the more relevant attraction here. The photos illustrate the layout, but do not establish that it will shoot smaller groups than either Weihrauch.
+Another difference visible in these comparisons is how low the FAS's barrel sits relative to the top of the grip. **Its high grip and low barrel line give it a layout of a dedicated 10-m competition pistol**. Bringing the barrel axis closer to the supporting hand shortens the lever arm through which recoil can rotate the pistol upward—the general principle behind a low bore axis. It can support a more controlled hold and potentially better practical accuracy.
 
 ## Metrics
 
-The FAS 6004, Weihrauch HW75, and Air Venturi V10 are all single-shot, .177-caliber SSP pistols. Here is how their published specifications compare. The FAS dimensions and weight below refer to Chiappa's ambidextrous-grip model; the target grip pictured above can affect the overall dimensions and weight.
+The FAS 6004, Weihrauch HW75, and Air Venturi V10 are all single-shot, .177-caliber SSP match pistols. Here is how their published specifications compare. The FAS dimensions and weight below refer to Chiappa's ambidextrous-grip model.
 
 <div class="spec-comparison" role="region" aria-label="Air pistol specifications comparison" tabindex="0">
 
-| Specification | 6004 (ambi grip) | HW75 | V10 |
+| Specification | 6004 | HW75 | V10 |
 | --- | --- | --- | --- |
-| Overall length | 266 mm / 10.5 in | 280 mm / 11.0 in | Approx. 320 mm / 12.6 in |
-| Weight | Approx. 0.91 kg / 2.00 lb | 1.06 kg / 2.34 lb | Approx. 0.88 kg / 1.95 lb |
-| Barrel length | 191 mm / 7.5 in | 170 mm / 6.7 in | Approx. 210 mm / 8.26 in |
+| Overall length | 266 mm / 10.5 in | 280 mm / 11.0 in | 320 mm / 12.6 in |
+| Weight | 0.91 kg / 2.00 lb | 1.06 kg / 2.34 lb | 0.88 kg / 1.95 lb |
+| Barrel length | 191 mm / 7.5 in | 170 mm / 6.7 in |  210 mm / 8.26 in |
 | Trigger | Adjustable pressure, take-up, and stages | Two-stage match trigger | Two-stage adjustable trigger |
-| Grip | Ambidextrous walnut; match-grip versions also available | Ambidextrous walnut sport grip | Contoured wooden target grip; handed versions listed |
-| Advertised velocity | Approx. 100 m/s / 330 fps average | 125 m/s / approx. 410 fps | Up to 122 m/s / 400 fps |
+| Grip | Ambidextrous walnut / match-grip versions | Ambidextrous walnut sport grip | Contoured wooden target grip; handed versions listed |
+| Approx. velocity | 100 m/s / 330 fps | 125 m/s / 410 fps | Up to 122 m/s / 400 fps |
 
 </div>
 
-These velocities are manufacturer figures, rather than results from a common test with the same pellet. Chiappa's current product page gives approximately 330 fps, although its [older FAS 6004 technical sheet](https://cloud.chiappafirearms.com/vfm-admin/vfm-downloader.php?h=512b8b04f3477968c784b97c7cda29d0&q=dXBsb2Fkcy9DaGlhcHBhLUZpcmVhcm1zLzAwNl9JTUFHRVMvUHJvZHVjdC1JbWFnZXMvRkFTLTYwMDQvVGVjaC1TaGVldC9TcGVjcy00NDAtMDQwXzA0MS0wNDNfRkFTLTYwMDQucGRm) lists approximately 400 fps. Actual velocity depends on the pellet and the individual pistol. Despite the factory specification of approximately 330 fps, my pistol consistently delivered around 355–365 fps with RWS R10 Match pellets in my testing, averaging 359.5 fps across 25 shots. Please see the [Chrono section below](#chrono) for the full results.
+These velocities are manufacturer figures, rather than results from a common test with the same pellet. Chiappa's current product page gives approximately 330 fps, although its [older FAS 6004 technical sheet](https://cloud.chiappafirearms.com/vfm-admin/vfm-downloader.php?h=512b8b04f3477968c784b97c7cda29d0&q=dXBsb2Fkcy9DaGlhcHBhLUZpcmVhcm1zLzAwNl9JTUFHRVMvUHJvZHVjdC1JbWFnZXMvRkFTLTYwMDQvVGVjaC1TaGVldC9TcGVjcy00NDAtMDQwXzA0MS0wNDNfRkFTLTYwMDQucGRm) lists approximately 400 fps. Actual velocity depends on the pellet and the individual pistol. In fact, my pistol consistently delivered around 355–365 fps with RWS R10 Match pellets in my testing, averaging 359.5 fps across 25 shots. Please see the [Chrono section below](#chrono) for the full results.
 
-On paper, the FAS is the shortest of these three in its ambidextrous configuration. The HW75 is the heaviest and offers a dedicated dry-fire mechanism, while the V10 pairs a longer barrel with a relatively low overall weight. The FAS's compact size and relatively low weight can make it easier to handle and less tiring to hold, especially compared with the heavier HW75. For a shooter who finds that size and weight comfortable, this can help maintain a steady hold and potentially improve practical accuracy. The benefit depends on grip fit and personal preference, rather than smaller size or lower weight alone guaranteeing better accuracy. Together with its adjustable trigger and distinctive styling, that manageable form is a large part of the FAS's appeal.
+On paper, the FAS is the shortest of these three in its ambidextrous configuration. The HW75 is the heaviest, while the V10 pairs a longer barrel with a relatively low overall weight. The FAS's compact size and relatively low weight can make it easier to handle and less tiring to hold, especially compared with the heavier HW75. For a shooter who finds that size and weight comfortable, this can help maintain a steady hold and potentially improve practical accuracy. The benefit depends on grip fit and personal preference, rather than smaller size or lower weight alone guaranteeing better accuracy. Together with its adjustable trigger and distinctive styling, that manageable form is a large part of the FAS's appeal.
 
 ## Chrono
 
@@ -82,13 +80,17 @@ I used RWS R10 Match pellets for this session. The Garmin chronograph recorded 2
 
 ![Garmin chronograph showing the FAS 6004 results for 25 shots with RWS R10 Match pellets](../../assets/fas_intro/fas_chrono.jpg)
 
-| Measurement | Velocity (fps) | Velocity (m/s, rounded) |
-| --- | ---: | ---: |
-| Minimum | 355.1 | 108.23 |
-| Average | 359.5 | 109.58 |
-| Maximum | 363.6 | 110.83 |
-| Extreme spread | 8.5 | 2.59 |
-| Standard deviation | 2.5 | 0.76 |
+<div class="spec-comparison chrono-table" role="region" aria-label="Chronograph velocity results" tabindex="0">
+
+| Measurement | Velocity (fps / m/s) |
+| --- | ---: |
+| Minimum | 355.1 / 108.23 |
+| Average | 359.5 / 109.58 |
+| Maximum | 363.6 / 110.83 |
+| Extreme spread | 8.5 / 2.59 |
+| Standard deviation | 2.5 / 0.76 |
+
+</div>
 
 The entire 25-shot string stayed within an 8.5 fps range, about 2.4% of the average velocity. The standard deviation was only 2.5 fps, or about 0.7% of the average. That is encouraging consistency for this pistol and pellet combination in this session.
 
