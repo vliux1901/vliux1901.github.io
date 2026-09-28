@@ -7,7 +7,7 @@ heroImage: '../../assets/fas_intro/fas_cased.jpg'
 
 The FAS 6004 is a distinctive single-stroke pneumatic (SSP) air pistol for 10-meter target shooting, combining beautiful Italian design with a self-contained power system. One compression stroke supplies the air for each shot, so there is no separate air cylinder to fill or CO2 cartridge to replace.
 
-## Appearance
+## The Design That Won Me Over
 
 I initially bought the FAS 6004 because, to my eye, it is the most beautiful—and sexiest—SSP air pistol available today. Its slim black upper assembly and sculpted wooden grip give it a distinctive silhouette, with warm wood grain complementing the clean metalwork.
 
@@ -39,7 +39,7 @@ From above, fine parallel grooves emphasize the pistol's slim profile and draw t
 
 The grooves can also reduce distracting glare along the top surface, helping the sights stand out in bright light. They provide a visual lead toward the front sight; precise alignment still comes from the front blade and rear notch.
 
-## Comparisons
+## Alongside the HW45 and HW75
 
 Placed beside the HW45, the FAS has a noticeably different visual character: a narrow upper assembly flowing into a large target grip, alongside the HW45's more conventional pistol outline.
 
@@ -51,7 +51,7 @@ The HW75 is a closer comparison mechanically, since both use pre-compressed air.
 
 Another difference visible in these comparisons is how low the FAS's barrel sits relative to the top of the grip. **Its high grip and low barrel line give it a layout of a dedicated 10-m competition pistol**. Bringing the barrel axis closer to the supporting hand shortens the lever arm through which recoil can rotate the pistol upward—the general principle behind a low bore axis. It can support a more controlled hold and potentially better practical accuracy.
 
-## Metrics
+## Specifications at a Glance
 
 The FAS 6004, Weihrauch HW75, and Air Venturi V10 are all single-shot, .177-caliber SSP match pistols. Here is how their published specifications compare. The FAS dimensions and weight below refer to Chiappa's ambidextrous-grip model.
 
@@ -68,11 +68,11 @@ The FAS 6004, Weihrauch HW75, and Air Venturi V10 are all single-shot, .177-cali
 
 </div>
 
-These velocities are manufacturer figures, rather than results from a common test with the same pellet. Chiappa's current product page gives approximately 330 fps, although its [older FAS 6004 technical sheet](https://cloud.chiappafirearms.com/vfm-admin/vfm-downloader.php?h=512b8b04f3477968c784b97c7cda29d0&q=dXBsb2Fkcy9DaGlhcHBhLUZpcmVhcm1zLzAwNl9JTUFHRVMvUHJvZHVjdC1JbWFnZXMvRkFTLTYwMDQvVGVjaC1TaGVldC9TcGVjcy00NDAtMDQwXzA0MS0wNDNfRkFTLTYwMDQucGRm) lists approximately 400 fps. Actual velocity depends on the pellet and the individual pistol. In fact, my pistol consistently delivered around 355–365 fps with RWS R10 Match pellets in my testing, averaging 359.5 fps across 25 shots. Please see the [Chrono section below](#chrono) for the full results.
+These velocities are manufacturer figures, rather than results from a common test with the same pellet. Chiappa's current product page gives approximately 330 fps, although its [older FAS 6004 technical sheet](https://cloud.chiappafirearms.com/vfm-admin/vfm-downloader.php?h=512b8b04f3477968c784b97c7cda29d0&q=dXBsb2Fkcy9DaGlhcHBhLUZpcmVhcm1zLzAwNl9JTUFHRVMvUHJvZHVjdC1JbWFnZXMvRkFTLTYwMDQvVGVjaC1TaGVldC9TcGVjcy00NDAtMDQwXzA0MS0wNDNfRkFTLTYwMDQucGRm) lists approximately 400 fps. Actual velocity depends on the pellet and the individual pistol. In fact, my pistol consistently delivered around 355–365 fps with RWS R10 Match pellets in my testing, averaging 359.5 fps across 25 shots. Please see the [chronograph results below](#consistency-on-the-chronograph) for the full results.
 
 On paper, the FAS is the shortest of these three in its ambidextrous configuration. The HW75 is the heaviest, while the V10 pairs a longer barrel with a relatively low overall weight. The FAS's compact size and relatively low weight can make it easier to handle and less tiring to hold, especially compared with the heavier HW75. For a shooter who finds that size and weight comfortable, this can help maintain a steady hold and potentially improve practical accuracy. The benefit depends on grip fit and personal preference, rather than smaller size or lower weight alone guaranteeing better accuracy. Together with its adjustable trigger and distinctive styling, that manageable form is a large part of the FAS's appeal.
 
-## Chrono
+## Consistency on the Chronograph
 
 I used RWS R10 Match pellets for this session. The Garmin chronograph recorded 25 shots on September 10, 2026, with the following results:
 
@@ -94,7 +94,7 @@ The entire 25-shot string stayed within an 8.5 fps range, about 2.4% of the aver
 
 The measured average of 359.5 fps falls between Chiappa's current and older published figures. For target shooting, the small variation from shot to shot is the more interesting result here. A chronograph does not establish group size or accuracy on its own, but this string provides a useful indication of how consistently the pistol delivered velocity with RWS R10 Match pellets.
 
-## Final Thoughts
+## My Take So Far
 
 The looks were what persuaded me to buy the FAS 6004, and the consistency in this 25-shot session gives me another reason to appreciate it. For someone drawn to a compact SSP with a sculpted wooden grip and no separate air supply to manage, I think its appeal is easy to understand.
 
