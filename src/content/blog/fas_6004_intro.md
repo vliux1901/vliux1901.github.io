@@ -1,6 +1,6 @@
 ---
-title: 'FAS 6004 Air Pistol Introduction'
-description: 'A closer look at the FAS 6004 air pistol, how it compares with the HW75 and V10, and its consistency with RWS R10 Match pellets.'
+title: 'FAS 6004 Air Pistol Initial Impressions'
+description: 'My initial impressions of the FAS 6004: its design, comparisons with the HW75 and V10, and chronograph results with RWS R10 Match pellets.'
 pubDate: 'Sep 27 2026'
 heroImage: '../../assets/fas_intro/fas_cased.jpg'
 ---
@@ -9,11 +9,11 @@ The FAS 6004 is a distinctive single-stroke pneumatic (SSP) air pistol for 10-me
 
 ## Appearance
 
-The straight, slim upper assembly and sculpted wooden grip give the FAS 6004 a clean silhouette. The black metalwork contrasts beautifully with the grain of the wood, while the curved trigger and rounded trigger guard soften its angular profile.
+I initially bought the FAS 6004 because, to my eye, it is the most beautiful—and sexiest—SSP air pistol available today. Its slim black upper assembly and sculpted wooden grip give it a distinctive silhouette, with warm wood grain complementing the clean metalwork.
 
 ![View from above showing the contours of the FAS 6004 grip](../../assets/fas_intro/fas_griptop.jpg)
 
-The grip deserves a closer look. The photo on the **left shows the ambi (ambidextrous) grip**, while the photo on the **right shows the medium-size match grip**. The match grip has a pronounced adjustable palm shelf, textured contact surfaces, and sweeping contours around the top of the hand, giving it the appearance of a purpose-built target pistol.
+Below, the **ambi (ambidextrous) grip** is on the left and the **medium-size match grip** is on the right. The match grip adds an adjustable palm shelf and more pronounced contours around the hand.
 
 <div class="photo-pair">
 
@@ -23,9 +23,7 @@ The grip deserves a closer look. The photo on the **left shows the ambi (ambidex
 
 </div>
 
-The two contour close-ups show how carefully the wood and metal meet. On the left, the broad sweep of the grip narrows into a crisp edge beside the frame, with the wood grain following its own softer curves. The change from stippled texture to smooth wood adds depth without interrupting the outline.
-
-On the right, the sculpted wood folds into the space above the trigger, echoing the curved shoulder of the metalwork. That transition, followed by the long straight line toward the muzzle, gives the pistol a flowing, unified profile. The rounded trigger guard repeats the same contrast between soft curves and precise edges.
+These close-ups show my favorite detail: the way the curved wood meets the straight frame. The textured grip surfaces and smooth edges give the shape definition without making it look busy.
 
 <div class="photo-pair">
 
@@ -35,11 +33,11 @@ On the right, the sculpted wood folds into the space above the trigger, echoing 
 
 </div>
 
-From above, the design becomes almost symmetrical: long outer edges frame a narrow central strip, and fine parallel grooves carry the eye toward the front sight. The lines make the upper assembly look slender and purposeful.
+From above, fine parallel grooves emphasize the pistol's slim profile and draw the eye toward the front sight.
 
 ![Top view of the FAS 6004 showing fine longitudinal grooves between the rear and front sights](../../assets/fas_intro/fas_lines_top.jpg)
 
-Those grooves can also help make aiming easier. By breaking up a broad reflective surface, they can reduce distracting glare along the sight line, helping the sights stand out under bright light. This is the same general purpose served by anti-glare serrations on sights. Visually, the parallel lines also lead toward the front sight, although precise alignment still comes from the front blade and rear notch.
+The grooves can also reduce distracting glare along the top surface, helping the sights stand out in bright light. They provide a visual lead toward the front sight; precise alignment still comes from the front blade and rear notch.
 
 ## Comparisons
 
@@ -95,6 +93,12 @@ I used RWS R10 Match pellets for this session. The Garmin chronograph recorded 2
 The entire 25-shot string stayed within an 8.5 fps range, about 2.4% of the average velocity. The standard deviation was only 2.5 fps, or about 0.7% of the average. That is encouraging consistency for this pistol and pellet combination in this session.
 
 The measured average of 359.5 fps falls between Chiappa's current and older published figures. For target shooting, the small variation from shot to shot is the more interesting result here. A chronograph does not establish group size or accuracy on its own, but this string provides a useful indication of how consistently the pistol delivered velocity with RWS R10 Match pellets.
+
+## Final Thoughts
+
+The looks were what persuaded me to buy the FAS 6004, and the consistency in this 25-shot session gives me another reason to appreciate it. For someone drawn to a compact SSP with a sculpted wooden grip and no separate air supply to manage, I think its appeal is easy to understand.
+
+These are my initial impressions. I'll cover the shooting experience in a separate post, including how that design translates into time on the range.
 
 ## Sources
 
