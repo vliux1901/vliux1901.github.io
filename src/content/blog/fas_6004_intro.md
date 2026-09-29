@@ -1,13 +1,14 @@
 ---
 title: 'FAS 6004 Air Pistol Initial Impressions'
-description: 'My initial impressions of the FAS 6004: its design, comparisons with the HW75 and V10, and chronograph results with RWS R10 Match pellets.'
+description: 'My initial impressions of the FAS 6004: its design, match grip and sight picture, comparisons with other air pistols, and chronograph results with RWS R10 Match pellets.'
 pubDate: 'Sep 27 2026'
+updatedDate: 'Sep 28 2026'
 heroImage: '../../assets/fas_intro/fas_cased.jpg'
 ---
 
 The FAS 6004 is a distinctive single-stroke pneumatic (SSP) air pistol for 10-meter target shooting, combining beautiful Italian design with a self-contained power system. One compression stroke supplies the air for each shot, so there is no separate air cylinder to fill or CO2 cartridge to replace.
 
-## The Design That Won Me Over
+## The Design
 
 I initially bought the FAS 6004 because, to my eye, it is the most beautiful—and sexiest—SSP air pistol available today. Its slim black upper assembly and sculpted wooden grip give it a distinctive silhouette, with warm wood grain complementing the clean metalwork.
 
@@ -39,7 +40,17 @@ From above, fine parallel grooves emphasize the pistol's slim profile and draw t
 
 The grooves can also reduce distracting glare along the top surface, helping the sights stand out in bright light. They provide a visual lead toward the front sight; precise alignment still comes from the front blade and rear notch.
 
-## Alongside the HW45 and HW75
+Like its predecessor, the FAS 604, the FAS 6004 has a replaceable front sight. The close-up below shows the blade and its mounting at the front of the upper assembly. The rear sight provides both windage and elevation adjustment. I also like its bold, simple shape—especially the broad, uncluttered face that I see from behind the pistol.
+
+<div class="photo-pair">
+
+![Close-up of the FAS 6004 front sight blade and its mounting screw](../../assets/fas_intro/fas_front_sight.jpg)
+
+![FAS 6004 rear sight showing the windage and elevation adjustment screws](../../assets/fas_intro/fas_rear_sight.jpg)
+
+</div>
+
+## Alongside the HW45 / HW75
 
 Placed beside the HW45, the FAS has a noticeably different visual character: a narrow upper assembly flowing into a large target grip, alongside the HW45's more conventional pistol outline.
 
@@ -51,7 +62,23 @@ The HW75 is a closer comparison mechanically, since both use pre-compressed air.
 
 Another difference visible in these comparisons is how low the FAS's barrel sits relative to the top of the grip. **Its high grip and low barrel line give it a layout of a dedicated 10-m competition pistol**. Bringing the barrel axis closer to the supporting hand shortens the lever arm through which recoil can rotate the pistol upward—the general principle behind a low bore axis. It can support a more controlled hold and potentially better practical accuracy.
 
-## Specifications at a Glance
+## Shooting experiences
+
+The match grip feels comfortable and steady in my hand when shooting. Its sculpted shape is more than something I enjoy looking at: it feels right when I hold the pistol up to aim. That fit is personal, of course, but for my hand it is one of the FAS 6004's strongest points.
+
+Aiming with the FAS 6004 feels much better to me than with my HW45 or HW75. The bold rear sight gives me a crisp, clear sight picture, and its simplicity makes it comfortable to look through and focus. Together with the steady feel of the match grip, it makes aiming a particularly enjoyable part of shooting this pistol.
+
+<div class="photo-pair">
+
+![View from behind the FAS 6004 held in hand, showing the broad rear sight and central notch](../../assets/fas_intro/fas_aiming.jpg)
+
+![View along the FAS 6004 upper assembly from behind the rear sight toward the front blade](../../assets/fas_intro/fas_ariming_2.jpg)
+
+</div>
+
+I have seen comments that the front sight blade is too thick. To my eye, its width is just right. I actually feel more comfortable aiming with it at this width; I do not find myself wishing for a thinner blade. That comfortable sight picture makes a real difference to how much I enjoy shooting the FAS.
+
+## Specifications
 
 The FAS 6004, Weihrauch HW75, and Air Venturi V10 are all single-shot, .177-caliber SSP match pistols. Here is how their published specifications compare. The FAS dimensions and weight below refer to Chiappa's ambidextrous-grip model.
 
@@ -98,7 +125,7 @@ The measured average of 359.5 fps falls between Chiappa's current and older publ
 
 The looks were what persuaded me to buy the FAS 6004, and the consistency in this 25-shot session gives me another reason to appreciate it. For someone drawn to a compact SSP with a sculpted wooden grip and no separate air supply to manage, I think its appeal is easy to understand.
 
-These are my initial impressions. I'll cover the shooting experience in a separate post, including how that design translates into time on the range.
+Shooting it has added to that appeal. The match grip feels comfortable and steady, and the crisp, simple sight picture suits me better than those of my HW45 and HW75. These are still my initial impressions, but the FAS is giving me reasons to enjoy it beyond its looks.
 
 ## Sources
 
