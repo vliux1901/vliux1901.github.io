@@ -129,4 +129,7 @@ Shooting it has added to that appeal. The match grip feels comfortable and stead
 
 ## Sources
 
-[Chiappa FAS 6004 specifications](https://www.chiappafirearms.com/product/440.040/), [Weihrauch HW75 specifications](https://www.weihrauch-sport.de/air-pistols/hw-75?lang=en), [Weihrauch's 2024 catalog for the HW75 velocity](https://www.weihrauch-sport.de/wp-content/uploads/2024/05/KATALOG-WEIHRAUCH-SPORT-125-Years-Stand-05-2024-fuers-Web-Doppelseiten-MIT-Mittellinien.pdf), and [Air Venturi V10 specifications](https://www.airventuri.com/products/v10-match-air-pistol).
+- [Chiappa FAS 6004 specifications](https://www.chiappafirearms.com/product/440.040/)
+- [Weihrauch HW75 specifications](https://www.weihrauch-sport.de/air-pistols/hw-75?lang=en)
+- [Weihrauch's 2024 catalog for the HW75 velocity](https://www.weihrauch-sport.de/wp-content/uploads/2024/05/KATALOG-WEIHRAUCH-SPORT-125-Years-Stand-05-2024-fuers-Web-Doppelseiten-MIT-Mittellinien.pdf)
+- [Air Venturi V10 specifications](https://www.airventuri.com/products/v10-match-air-pistol).
