@@ -6,7 +6,7 @@ import { defineConfig, fontProviders } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://vliux1901.github.io',
+	site: 'https://airguncraft.com',
 	integrations: [mdx(), sitemap()],
 	fonts: [
 		{

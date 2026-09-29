@@ -1,6 +1,7 @@
 ---
 title: 'FAS 6004 Maintenance: O-Rings'
 description: 'What I learned from breech O-ring wear on my FAS 6004, why a larger ring did not fit, and a parts reference with seal dimensions and replacement sources.'
+tags: ['FAS 6004', 'Maintenance', 'O-Rings']
 pubDate: 'Sep 29 2026'
 heroImage: '../../assets/fas_maintain/fas_exploded.webp'
 ---

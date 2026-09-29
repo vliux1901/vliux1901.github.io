@@ -1,6 +1,7 @@
 ---
 title: 'FAS 6004 Air Pistol Initial Impressions'
 description: 'My initial impressions of the FAS 6004: its design, match grip and sight picture, comparisons with other air pistols, and chronograph results with RWS R10 Match pellets.'
+tags: ['FAS 6004', 'Reviews', '10m Air Pistol']
 pubDate: 'Sep 27 2026'
 updatedDate: 'Sep 28 2026'
 heroImage: '../../assets/fas_intro/fas_cased.jpg'
@@ -126,6 +127,8 @@ The measured average of 359.5 fps falls between Chiappa's current and older publ
 The looks were what persuaded me to buy the FAS 6004, and the consistency in this 25-shot session gives me another reason to appreciate it. For someone drawn to a compact SSP with a sculpted wooden grip and no separate air supply to manage, I think its appeal is easy to understand.
 
 Shooting it has added to that appeal. The match grip feels comfortable and steady, and the crisp, simple sight picture suits me better than those of my HW45 and HW75. These are still my initial impressions, but the FAS is giving me reasons to enjoy it beyond its looks.
+
+For a follow-up on ownership, see my [FAS 6004 maintenance notes on breech O-ring wear and replacement seals](/blog/fas_6004_maintenance/).
 
 ## Sources
 

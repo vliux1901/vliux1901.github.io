@@ -1,0 +1,99 @@
+---
+import { type CollectionEntry, getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import FormattedDate from '../../components/FormattedDate.astro';
+import { SITE_TITLE } from '../../consts';
+import { type BlogTag, BLOG_TAGS, TAG_DESCRIPTIONS, tagSlug } from '../../tags';
+
+export async function getStaticPaths() {
+	const posts = (await getCollection('blog')).sort(
+		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+	);
+	return BLOG_TAGS.flatMap((tag) => {
+		const matchingPosts = posts.filter((post) => post.data.tags.includes(tag));
+		// Only publish a topic page when it has something to read.
+		return matchingPosts.length > 0
+			? [{ params: { tag: tagSlug(tag) }, props: { tag, posts: matchingPosts } }]
+			: [];
+	});
+}
+
+interface Props {
+	tag: BlogTag;
+	posts: CollectionEntry<'blog'>[];
+}
+
+const { tag, posts } = Astro.props;
+const description = TAG_DESCRIPTIONS[tag];
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`${tag} articles | ${SITE_TITLE}`} description={description} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<a class="back-link" href="/">← All posts</a>
+			<h1>{tag}</h1>
+			<p class="description">{description}</p>
+			<p class="post-count">{posts.length} {posts.length === 1 ? 'post' : 'posts'}</p>
+			<ul class="tag-posts">
+				{posts.map((post) => (
+					<li>
+						<article>
+							<h2><a href={`/blog/${post.id}/`}>{post.data.title}</a></h2>
+							<div class="date"><FormattedDate date={post.data.pubDate} /></div>
+							<p>{post.data.description}</p>
+						</article>
+					</li>
+				))}
+			</ul>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.back-link {
+		display: inline-block;
+		margin-bottom: 1.5rem;
+	}
+	h1 {
+		font-size: clamp(2rem, 7vw, 3rem);
+	}
+	.description {
+		margin-bottom: 1rem;
+	}
+	.post-count, .date {
+		color: rgb(var(--gray));
+		font-size: 0.9em;
+	}
+	.tag-posts {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+	}
+	li {
+		border-top: 1px solid rgb(var(--gray-light));
+		padding-block: 1.5rem;
+	}
+	h2 {
+		font-size: 1.5em;
+	}
+	h2 a {
+		color: rgb(var(--black));
+		text-decoration: none;
+	}
+	h2 a:hover {
+		color: var(--accent);
+		text-decoration: underline;
+	}
+	a:focus-visible {
+		outline: 2px solid var(--accent);
+		outline-offset: 3px;
+	}
+</style>

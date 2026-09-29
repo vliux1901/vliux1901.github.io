@@ -7,7 +7,7 @@ import HeaderLink from './HeaderLink.astro';
 	<nav>
 		<h2><a href="/">{SITE_TITLE}</a></h2>
 		<div class="internal-links">
-			<HeaderLink href="/" isActive={Astro.url.pathname === "/" || Astro.url.pathname === "/blog" || Astro.url.pathname.startsWith("/blog/")}>Blog</HeaderLink>
+			<HeaderLink href="/" isActive={Astro.url.pathname === "/" || Astro.url.pathname === "/blog" || Astro.url.pathname.startsWith("/blog/") || Astro.url.pathname.startsWith("/tags/")}>Blog</HeaderLink>
 			<HeaderLink href="/about">About</HeaderLink>
 		</div>
 	</nav>
