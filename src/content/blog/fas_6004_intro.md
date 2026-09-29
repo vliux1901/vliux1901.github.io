@@ -60,13 +60,13 @@ The HW75 is a closer comparison mechanically, since both use pre-compressed air.
 
 ![Weihrauch HW75 on the left and FAS 6004 on the right, showing their different grip shapes](../../assets/fas_intro/fas_vs_hw75.jpg)
 
-Another difference visible in these comparisons is how low the FAS's barrel sits relative to the top of the grip. **Its high grip and low barrel line give it a layout of a dedicated 10-m competition pistol**. Bringing the barrel axis closer to the supporting hand shortens the lever arm through which recoil can rotate the pistol upward—the general principle behind a low bore axis. It can support a more controlled hold and potentially better practical accuracy.
+Another difference visible in these comparisons is how low the FAS's barrel sits relative to the top of the grip. Its **high grip and low barrel line** give it a layout of a dedicated 10-m competition pistol. Bringing the barrel axis closer to the supporting hand shortens the lever arm through which recoil can rotate the pistol upward—the general principle behind a low bore axis. It can support a more controlled hold and potentially better practical accuracy.
 
 ## Shooting experiences
 
-The match grip feels comfortable and steady in my hand when shooting. Its sculpted shape is more than something I enjoy looking at: it feels right when I hold the pistol up to aim. That fit is personal, of course, but for my hand it is one of the FAS 6004's strongest points.
+The medium-size match grip feels **comfortable and steady in my hand when shooting**. Its sculpted shape is more than something I enjoy looking at: it feels right when I hold the pistol up to aim. That fit is personal, of course, but for my hand it is one of the FAS 6004's strongest points.
 
-Aiming with the FAS 6004 feels much better to me than with my HW45 or HW75. The bold rear sight gives me a crisp, clear sight picture, and its simplicity makes it comfortable to look through and focus. Together with the steady feel of the match grip, it makes aiming a particularly enjoyable part of shooting this pistol.
+Aiming with the FAS 6004 feels much better to me than with my HW45 or HW75. **The bold rear sight gives me a crisp, clear sight picture, and its simplicity makes it comfortable to look through and focus.** Together with the steady feel of the match grip, it makes aiming a particularly enjoyable part of shooting this pistol.
 
 <div class="photo-pair">
 
@@ -76,7 +76,7 @@ Aiming with the FAS 6004 feels much better to me than with my HW45 or HW75. The 
 
 </div>
 
-I have seen comments that the front sight blade is too thick. To my eye, its width is just right. I actually feel more comfortable aiming with it at this width; I do not find myself wishing for a thinner blade. That comfortable sight picture makes a real difference to how much I enjoy shooting the FAS.
+I have seen comments that the front sight blade is too thick. **To my eye, its width is just right.** I actually feel more comfortable aiming with it at this width; I do not find myself wishing for a thinner blade. That comfortable sight picture makes a real difference to how much I enjoy shooting the FAS.
 
 ## Specifications
 
@@ -95,7 +95,7 @@ The FAS 6004, Weihrauch HW75, and Air Venturi V10 are all single-shot, .177-cali
 
 </div>
 
-These velocities are manufacturer figures, rather than results from a common test with the same pellet. Chiappa's current product page gives approximately 330 fps, although its [older FAS 6004 technical sheet](https://cloud.chiappafirearms.com/vfm-admin/vfm-downloader.php?h=512b8b04f3477968c784b97c7cda29d0&q=dXBsb2Fkcy9DaGlhcHBhLUZpcmVhcm1zLzAwNl9JTUFHRVMvUHJvZHVjdC1JbWFnZXMvRkFTLTYwMDQvVGVjaC1TaGVldC9TcGVjcy00NDAtMDQwXzA0MS0wNDNfRkFTLTYwMDQucGRm) lists approximately 400 fps. Actual velocity depends on the pellet and the individual pistol. In fact, my pistol consistently delivered around 355–365 fps with RWS R10 Match pellets in my testing, averaging 359.5 fps across 25 shots. Please see the [chronograph results below](#consistency-on-the-chronograph) for the full results.
+These velocities are manufacturer figures, rather than results from a common test with the same pellet. Chiappa's current product page gives approximately 330 fps, although its [older FAS 6004 technical sheet](https://cloud.chiappafirearms.com/vfm-admin/vfm-downloader.php?h=512b8b04f3477968c784b97c7cda29d0&q=dXBsb2Fkcy9DaGlhcHBhLUZpcmVhcm1zLzAwNl9JTUFHRVMvUHJvZHVjdC1JbWFnZXMvRkFTLTYwMDQvVGVjaC1TaGVldC9TcGVjcy00NDAtMDQwXzA0MS0wNDNfRkFTLTYwMDQucGRm) lists approximately 400 fps. Actual velocity depends on the pellet and the individual pistol. In fact, my pistol consistently delivered around **355–365 fps with RWS R10 Match pellets** in my testing, averaging 359.5 fps across 25 shots. Please see the [chronograph results below](#consistency-on-the-chronograph) for the full results.
 
 On paper, the FAS is the shortest of these three in its ambidextrous configuration. The HW75 is the heaviest, while the V10 pairs a longer barrel with a relatively low overall weight. The FAS's compact size and relatively low weight can make it easier to handle and less tiring to hold, especially compared with the heavier HW75. For a shooter who finds that size and weight comfortable, this can help maintain a steady hold and potentially improve practical accuracy. The benefit depends on grip fit and personal preference, rather than smaller size or lower weight alone guaranteeing better accuracy. Together with its adjustable trigger and distinctive styling, that manageable form is a large part of the FAS's appeal.
 
@@ -117,7 +117,7 @@ I used RWS R10 Match pellets for this session. The Garmin chronograph recorded 2
 
 </div>
 
-The entire 25-shot string stayed within an 8.5 fps range, about 2.4% of the average velocity. The standard deviation was only 2.5 fps, or about 0.7% of the average. That is encouraging consistency for this pistol and pellet combination in this session.
+The entire **25-shot string stayed within an 8.5 fps range**, about 2.4% of the average velocity. The standard deviation was only 2.5 fps, or about 0.7% of the average. That is encouraging consistency for this pistol and pellet combination in this session.
 
 The measured average of 359.5 fps falls between Chiappa's current and older published figures. For target shooting, the small variation from shot to shot is the more interesting result here. A chronograph does not establish group size or accuracy on its own, but this string provides a useful indication of how consistently the pistol delivered velocity with RWS R10 Match pellets.
 
