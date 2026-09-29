@@ -156,6 +156,24 @@ hr {
 	height: auto;
 }
 
+/* Turn a 4:3 landscape photo into a 3:4 portrait without cropping. */
+.prose .photo-portrait-clockwise {
+	position: relative;
+	aspect-ratio: 3 / 4;
+}
+.prose .photo-portrait-clockwise > p {
+	margin: 0;
+}
+.prose .photo-portrait-clockwise img {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: calc(100% * 4 / 3);
+	max-width: none;
+	height: auto;
+	transform: translate(-50%, -50%) rotate(90deg);
+}
+
 /* Give dense specification comparisons a clear grid and room to breathe. */
 .prose .spec-comparison {
 	max-width: 100%;
