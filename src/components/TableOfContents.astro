@@ -1,0 +1,116 @@
+---
+import type { MarkdownHeading } from 'astro';
+
+interface Props {
+	headings: MarkdownHeading[];
+}
+
+const { headings } = Astro.props;
+---
+
+<aside class="contents">
+	<nav class="desktop-contents" aria-label="On this page">
+		<p class="label">On this page</p>
+		<ul>
+			{headings.map(({ depth, slug, text }) => (
+				<li class={`depth-${depth}`}><a href={`#${slug}`}>{text}</a></li>
+			))}
+		</ul>
+	</nav>
+	<details class="mobile-contents">
+		<summary>On this page</summary>
+		<nav aria-label="On this page">
+			<ul>
+				{headings.map(({ depth, slug, text }) => (
+					<li class={`depth-${depth}`}><a href={`#${slug}`}>{text}</a></li>
+				))}
+			</ul>
+		</nav>
+	</details>
+</aside>
+
+<style>
+	.contents {
+		min-width: 0;
+		font-size: 1rem;
+		line-height: 1.4;
+	}
+	.desktop-contents {
+		display: none;
+	}
+	.mobile-contents {
+		max-width: 720px;
+		margin: 0 auto 1rem;
+		border: 1px solid rgb(var(--gray-light));
+		border-radius: 8px;
+		background: white;
+	}
+	summary {
+		padding: 0.85rem 1rem;
+		cursor: pointer;
+		font-weight: 700;
+	}
+	.label {
+		margin: 0 0 0.75rem;
+		font-weight: 700;
+		color: rgb(var(--black));
+	}
+	ul {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+	}
+	.mobile-contents ul {
+		padding: 0 0.5rem 0.5rem;
+	}
+	li {
+		margin: 0;
+	}
+	a {
+		display: block;
+		padding: 0.75rem 0.5rem;
+		border-left: 2px solid transparent;
+		color: rgb(var(--gray-dark));
+		text-decoration: none;
+		overflow-wrap: anywhere;
+	}
+	a:hover {
+		color: var(--accent);
+		border-left-color: var(--accent);
+		background: rgba(var(--gray-light), 40%);
+	}
+	a:focus-visible,
+	summary:focus-visible {
+		outline: 2px solid var(--accent);
+		outline-offset: 2px;
+	}
+	.depth-1 a {
+		font-weight: 700;
+	}
+	.depth-2 a {
+		padding-left: 1rem;
+	}
+	.depth-3 a {
+		padding-left: 2rem;
+	}
+	@media (min-width: 1320px) {
+		.contents {
+			position: sticky;
+			top: 1.5rem;
+			max-height: calc(100dvh - 3rem);
+			overflow-y: auto;
+			box-sizing: border-box;
+			padding: 1.25rem 1rem 0.25rem 0.25rem;
+			border-right: 1px solid rgb(var(--gray-light));
+		}
+		.desktop-contents {
+			display: block;
+		}
+		.mobile-contents {
+			display: none;
+		}
+		a {
+			padding-block: 0.5rem;
+		}
+	}
+</style>
