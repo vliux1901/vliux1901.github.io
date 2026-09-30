@@ -3,10 +3,16 @@ title: 'FAS 6004 Maintenance: O-Rings'
 description: 'What I learned from breech O-ring wear on my FAS 6004, why a larger ring did not fit, and a parts reference with seal dimensions and replacement sources.'
 tags: ['FAS 6004', 'Maintenance', 'O-Rings']
 pubDate: 'Sep 29 2026'
-heroImage: '../../assets/fas_maintain/fas_exploded.webp'
+heroImage: '../../assets/fas_maintain/fas_in_case.jpg'
+heroRotateCounterclockwise: true
 ---
 
 In my [first FAS 6004 review](/blog/fas_6004_intro/), I wrote about the design, shooting experience, and chronograph results. This time, I want to share the maintainence story every airgun owner will eventuall face: the seals.
+<div class="exploded-diagram-crop">
+
+![FAS 6004 exploded parts diagram showing the barrel, valve body, piston assembly, and numbered seals](../../assets/fas_maintain/fas_exploded.webp)
+
+</div>
 
 O-rings are wear items, and it makes sense to plan for replacements over the life of the pistol. The one that has needed my attention so far is the **breech O-ring, reference #27 in the exploded diagram**. On my pistol, its lower edge wore more quickly than I expected. Finding the correct size was only part of the story; the surface it touched during closure mattered too.
 
@@ -49,9 +55,7 @@ For my pistol, the useful lesson was to pay attention to the contact that was da
 
 The [manual's parts list on page 8](https://www.pyramydair.com/airgun-resources/manuals/FAS-6004-Air-Pistol-Manual.pdf#page=8) identifies four O-ring references: **#25, #26, #27, and #28**. The exploded view uses #27 in two places—at the breech and in the valve assembly—and shows two #28 rings. Taken together, the drawing shows six O-rings across those four references.
 
-![FAS 6004 exploded parts diagram showing the barrel, valve body, piston assembly, and numbered seals](../../assets/fas_maintain/fas_exploded.webp)
-
-*Match the reference numbers in this drawing to the table below. The [manual's page 9](https://www.pyramydair.com/airgun-resources/manuals/FAS-6004-Air-Pistol-Manual.pdf#page=9) also provides a zoomable exploded view.*
+*Match the reference numbers in the opening diagram to the table below. The [manual's page 9](https://www.pyramydair.com/airgun-resources/manuals/FAS-6004-Air-Pistol-Manual.pdf#page=9) also provides a zoomable exploded view.*
 
 All dimensions below are **inside diameter × cross-section, in millimeters**. The locations and quantities follow the exploded drawing. The shopping links are specification-based candidates; I have not tested the internal-seal replacements listed here.
 

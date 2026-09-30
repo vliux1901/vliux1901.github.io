@@ -221,3 +221,19 @@ hr {
 .prose .chrono-table :is(th, td):first-child {
 	width: 45%;
 }
+
+/* Show source rows 434–1724, retaining a small margin around all numbered parts. */
+.prose .exploded-diagram-crop {
+    overflow: hidden;
+    aspect-ratio: 1949 / 1290;
+    margin-block: 2rem;
+}
+.prose .exploded-diagram-crop > p {
+    margin: 0;
+}
+.prose .exploded-diagram-crop img {
+    display: block;
+    width: 100%;
+    border-radius: 0;
+    transform: translateY(-22.26783%);
+}

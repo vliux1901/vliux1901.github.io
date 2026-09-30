@@ -1,0 +1,38 @@
+---
+import { Image } from 'astro:assets';
+import type { ImageMetadata } from 'astro';
+
+interface Props {
+    src: ImageMetadata;
+    width: number;
+}
+const { src, width } = Astro.props;
+// Swap the display dimensions while retaining the complete source image.
+const imageWidth = Math.round(width * src.width / src.height);
+---
+
+<span class="rotated-hero" style={`max-width: ${width}px; aspect-ratio: ${src.height} / ${src.width}; --image-width: ${src.width / src.height * 100}%`}>
+    <Image src={src} width={imageWidth} height={width} alt="" />
+</span>
+
+<style>
+    .rotated-hero {
+        display: block;
+        position: relative;
+        width: 100%;
+        margin: 0 auto;
+        overflow: hidden;
+        border-radius: 12px;
+    }
+    .rotated-hero img {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        width: var(--image-width);
+        max-width: none;
+        height: auto;
+        margin: 0;
+        border-radius: 0;
+        transform: translate(-50%, -50%) rotate(-90deg);
+    }
+</style>
