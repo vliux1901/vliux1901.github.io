@@ -68,7 +68,8 @@ npm run images:compress
 
 Requires ImageMagick 7 (`magick` on PATH). The command searches subfolders and
 writes compressed copies directly into `src/assets/`, preserving relative paths,
-filenames, formats, and originals. For example:
+filenames, and formats. After each output is successfully saved, its raw source
+file is deleted from `tmp/raw_images/`. For example:
 
 ```text
 tmp/raw_images/aaa/bb/some_img.jpg → src/assets/aaa/bb/some_img.jpg
@@ -79,8 +80,11 @@ converted to sRGB, stripped of metadata, and saved using their original extensio
 Quality 82 is used; its meaning depends on the format (PNG uses lossless compression).
 SVG files are copied unchanged to preserve vector artwork. Available raster formats
 depend on your ImageMagick installation. Non-image files and symlinks are skipped.
-Failed conversions are reported and cause a nonzero exit status. Rerunning replaces
-files at matching destination paths using the originals; unrelated assets remain.
+Failed conversions or output writes keep the raw source for retry and cause a
+nonzero exit status. A source cleanup failure also causes a nonzero exit status;
+the saved output remains available. Empty source folders are left in place.
+Rerunning processes only remaining or newly added raw images, replacing matching
+destination paths; unrelated assets remain.
 
 Astro supports nested folders under `src/assets/`. Reference the output in a page
 or post to display it. For example, in `src/content/blog/example.md`:

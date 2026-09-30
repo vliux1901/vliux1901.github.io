@@ -32,6 +32,7 @@ async function main() {
   }
 
   let succeeded = 0;
+  let removed = 0;
   for (const source of files) {
     const relative = path.relative(inputRoot, source);
     const destination = path.join(outputRoot, relative);
@@ -54,14 +55,22 @@ async function main() {
       }
       const original = (await stat(source)).size;
       const compressed = (await stat(temporary)).size;
+      if (compressed === 0) throw new Error('Compression produced an empty file; raw source retained.');
       await rename(temporary, destination);
       succeeded++;
       console.log(`${JSON.stringify(relative)}: ${original} → ${compressed} bytes → ${JSON.stringify(path.relative(root, destination))}`);
+      // Only remove the raw file after the completed output is in its final location.
+      try {
+        await rm(source);
+        removed++;
+      } catch (error) {
+        throw new Error(`Output saved, but could not remove raw source: ${error.message}`);
+      }
       if (compressed > 1_000_000) {
         console.warn('  Still exceeds the 1 MB commit limit; reduce dimensions or quality further.');
       }
       if (compressed >= original) {
-        console.warn('  Output is not smaller than the original; compare before using it.');
+        console.warn('  Output is not smaller than the original input.');
       }
     } catch (error) {
       console.error(`Failed ${JSON.stringify(relative)}: ${error.message}`);
@@ -70,7 +79,7 @@ async function main() {
       await rm(scratch, { recursive: true, force: true });
     }
   }
-  console.log(`Compressed ${succeeded}/${files.length} images. Originals are unchanged.`);
+  console.log(`Compressed ${succeeded}/${files.length} images; removed ${removed} raw source files.`);
 }
 
 main().catch((error) => {
