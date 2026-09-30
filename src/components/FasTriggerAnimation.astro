@@ -1,0 +1,321 @@
+---
+import { getImage } from 'astro:assets';
+import reference from '../assets/fas_trigger/fas604ex.jpg';
+const drawing = await getImage({ src: reference, width: 1183, format: 'webp', quality: 95 });
+const stages = [
+  { title: 'Ready', text: 'The sear holds the spring-loaded hammer. The separate trigger spring and connecting lever apply resistance to blade A.' },
+  { title: 'Upper screw contacts first', text: 'Blade A is pulled against the trigger spring through the connecting lever. Upper screw 3 reaches sear B first; lower screw 4 still has a gap.' },
+  { title: 'Lower screw contacts next', text: 'As the pull continues, lower screw 4 reaches sear B. The highlighted contact transfers from screw 3 to screw 4 before release.' },
+  { title: 'Sear release', text: 'The amber sear rotates about its lower pivot, allowing its lower contact to clear the hammer. Travel and contact timing are illustrative.' },
+  { title: 'Hammer action', text: 'The coral hammer rotates about its own pivot after release. The spring’s rear anchor stays fixed while its connection to the hammer moves.' },
+  { title: 'Valve opens', text: 'The valve releases stored compressed air to propel the pellet. Releasing the trigger alone does not recharge or recock this single-stroke pneumatic pistol.' },
+];
+---
+
+<fas-trigger-animation>
+  <div class="animation-heading">
+    <div><span class="eyebrow">FAS 604 · annotated reference</span><h2>From trigger pull to air release</h2></div>
+    <span class="draft">Illustrative motion</span>
+  </div>
+  <p class="scope">A FAS 604 cutaway with the blade detail from a FAS 6004 photo. The faint drawing shows the starting position; colored overlays explain the movement. Travel and timing are illustrative, not a measured FAS 6004 simulation.</p>
+  <div class="drawing-frame">
+    <svg class="drawing" viewBox="195 110 505 330" role="img" aria-label="FAS trigger cutaway: A trigger, B sear, C hammer, D valve. Adjustment screws 1 through 4 use the manual’s numbering. The purple trigger spring and teal connecting lever show the resistance path from screw 1 to blade A.">
+      <image href={drawing.src} width="1183" height="622" opacity="0.3" />
+      <g data-part="valve" class="part valve">
+        <rect x="337" y="142" width="37" height="153" rx="8" />
+      </g>
+      <path data-spring class="spring" d="M242 378L364 315" />
+      <g data-part="hammer" class="part hammer">
+        <path d="M342 260L367 260L375 276Q389 264 402 284L419 307L441 319L417 346L379 350L357 336L369 316L369 293L342 293Z" />
+        <circle cx="387" cy="288" r="4" class="pivot" />
+      </g>
+      <g data-part="sear" class="part sear">
+        <path d="M448 314L452 296L510 256L515 262L475 305L462 320Z" />
+        <circle cx="466" cy="301" r="4" fill="white" fill-opacity="1" />
+      </g>
+      <!-- Linkage outline traced from the cutaway. Keep its spring separate
+           from the coral hammer spring; no measured flex is implied. -->
+      <g data-weight-linkage>
+        <path data-weight-lever class="weight-lever" d="M529 264L550 267L599 267L613 272L647 270Q654 269 654 264Q654 258 648 258L615 260L608 255L647 251Q661 251 661 264Q661 278 647 278L611 278L599 273L549 273L529 269Z" />
+        <circle cx="648" cy="264" r="4" class="weight-pivot" />
+        <path data-weight-spring class="weight-spring" d="M648 264Q648 254 639 255L609 255Q598 255 590 262Q586 266 578 266H551L536 264" />
+      </g>
+      <g class="screws" data-fixed-screws>
+        <g data-manual-screw="1">
+          <title>Screw 1 — trigger weight</title>
+          <path d="M610 254H619V282H623V287H607V282H610Z" />
+          <path class="threads" d="M611 258H618M611 262H618M611 266H618M611 270H618M611 274H618M615 283V287" />
+        </g>
+        <g data-manual-screw="2">
+          <title>Screw 2 — trigger stroke and position</title>
+          <path d="M542 252H551V275H554V280H539V275H542Z" />
+          <path class="threads" d="M543 256H550M543 260H550M543 264H550M543 268H550M546 276V280" />
+        </g>
+      </g>
+      <g class="weight-contact" aria-hidden="true">
+        <path d="M609 255H620" />
+        <circle cx="615" cy="255" r="2" />
+      </g>
+      <g class="screw-labels">
+        <path d="M615 287L625 302H630M547 280L557 292L568 302" />
+        <g data-screw-label="1"><circle cx="637" cy="302" r="7"/><text x="637" y="305">1</text></g>
+        <g data-screw-label="2"><circle cx="575" cy="302" r="7"/><text x="575" y="305">2</text></g>
+      </g>
+      <g data-part="trigger" class="part trigger">
+        <path d="M516 380Q491 352 498 318Q500 310 502 302L495 299L500 291L514 280L520 261Q527 254 535 260L537 270L522 291Q505 314 506 336Q506 358 516 380Z" />
+        <!-- Rear step from the FAS 6004 photo; kept behind the screw contact tips. -->
+        <path data-trigger-step d="M500 291L495 299L502 302" fill="none" stroke-linejoin="miter" />
+        <g data-screws class="screws" aria-label="Two trigger-mounted adjustment screws, numbered 3 and 4 in the manual">
+          <path data-manual-screw="3" data-screw="upper" d="M514 281L507 271L511 267L519 277Z" />
+          <path data-manual-screw="4" data-screw="lower" d="M505 293L498 285L502 281L510 289Z" />
+          <circle data-contact="upper" cx="509" cy="269" r="1.8" opacity="0" />
+          <circle data-contact="lower" cx="500" cy="283" r="1.8" opacity="0" />
+          <path class="threads" d="M509 272L514 278M500 285L505 290" />
+        </g>
+        <circle cx="529" cy="264" r="4" class="pivot" />
+      </g>
+      <g class="screw-labels">
+        <path data-screw-leader="3" d="M519 277L535 310L558 318" />
+        <path data-screw-leader="4" d="M508 289L525 326L558 338" />
+        <g data-screw-label="3"><title>Screw 3 — first-stage drop point</title><circle cx="565" cy="318" r="7"/><text x="565" y="321">3</text></g>
+        <g data-screw-label="4"><title>Screw 4 — second-stage release</title><circle cx="565" cy="338" r="7"/><text x="565" y="341">4</text></g>
+      </g>
+      <g data-pull-arrow opacity="0" stroke="#176592" stroke-width="3" fill="none">
+        <path d="M563 352H527M538 344L527 352L538 360" />
+      </g>
+      <g class="callouts" font-size="13" font-weight="700" text-anchor="middle" fill="white">
+        <circle cx="605" cy="340" r="12" fill="#176592"/><text x="605" y="345">A</text>
+        <circle cx="479" cy="279" r="12" fill="#956208"/><text x="479" y="284">B</text>
+        <circle cx="396" cy="367" r="12" fill="#b04c3b"/><text x="396" y="372">C</text>
+        <circle cx="317" cy="171" r="12" fill="#217b64"/><text x="317" y="176">D</text>
+      </g>
+    </svg>
+    <div class="view-controls" hidden>
+      <button type="button" data-contact-view aria-pressed="false">Inspect screws 1–4</button>
+      <button type="button" data-view aria-pressed="false">Show whole pistol</button>
+    </div>
+  </div>
+  <ul class="legend" aria-label="Diagram key">
+    <li style="--part-color:#176592">A · Trigger</li><li style="--part-color:#956208">B · Sear</li>
+    <li style="--part-color:#b04c3b">C · Hammer</li><li style="--part-color:#217b64">D · Valve</li>
+    <li style="--part-color:#75549b">Trigger spring</li><li style="--part-color:#48777d">Connecting lever</li>
+  </ul>
+  <p class="weight-note"><strong>Why screw 1 changes trigger weight:</strong> it changes the loading on the purple trigger spring. The teal lever links that spring resistance to blade A, so greater spring loading means more force is needed to pull the trigger. The highlighted linkage shows this relationship; spring flex and force are not simulated.</p>
+  <dl class="screw-key" aria-label="Adjustment screws, numbered as in the manual">
+    <div><dt>1 · Trigger weight</dt><dd>Loads the trigger spring through the linkage.</dd></div>
+    <div><dt>2 · Stroke and position</dt><dd>Screw just ahead of blade A.</dd></div>
+    <div><dt>3 · First-stage drop point</dt><dd>Upper screw on blade A; contacts B first.</dd></div>
+    <div><dt>4 · Second-stage release</dt><dd>Lower screw on blade A; contacts B next.</dd></div>
+  </dl>
+  <p class="screw-note">Letters A–D identify the components; numbers 1–4 match the manual’s screws. Screws 3 and 4 move with blade A without turning. Its rear shoulder follows the FAS 6004 photo and stays clear of B in this illustration.</p>
+  <div class="controls" hidden>
+    <div class="buttons">
+      <button type="button" class="primary" data-play>Play sequence</button>
+      <button type="button" data-step>Next stage</button>
+      <button type="button" data-reset>Start over</button>
+    </div>
+    <label class="scrubber">Sequence position <input type="range" min="0" max="100" step="1" value="0" aria-label="Sequence position" /></label>
+    <p class="status" role="status" aria-live="polite"><strong data-title>Ready</strong> <span data-count>1 / 6</span></p>
+  </div>
+  <ol class="stages">
+    {stages.map((stage, index) => <li data-stage={index}><strong>{stage.title}</strong><p>{stage.text}</p></li>)}
+  </ol>
+  <p class="footnote">Slow explanatory sequence, not real-time firing. “Start over” resets this illustration; it does not depict the pistol’s cocking cycle.</p>
+</fas-trigger-animation>
+
+<script>
+  class FasTriggerAnimation extends HTMLElement {
+    private cleanup?: () => void;
+    connectedCallback() {
+      if (this.cleanup) return;
+      const events = new AbortController();
+      const signal = events.signal;
+      const range = this.querySelector<HTMLInputElement>('input[type="range"]')!;
+      const play = this.querySelector<HTMLButtonElement>('[data-play]')!;
+      const view = this.querySelector<HTMLButtonElement>('[data-view]')!;
+      const diagram = this.querySelector<SVGSVGElement>('svg')!;
+      const trigger = this.querySelector<SVGGElement>('[data-part="trigger"]')!;
+      const sear = this.querySelector<SVGGElement>('[data-part="sear"]')!;
+      const hammer = this.querySelector<SVGGElement>('[data-part="hammer"]')!;
+      const weightLinkage = this.querySelector<SVGGElement>('[data-weight-linkage]')!;
+      const spring = this.querySelector<SVGPathElement>('[data-spring]')!;
+      const upperLeader = this.querySelector<SVGPathElement>('[data-screw-leader="3"]')!;
+      const lowerLeader = this.querySelector<SVGPathElement>('[data-screw-leader="4"]')!;
+      const contacts = this.querySelector<HTMLButtonElement>('[data-contact-view]')!;
+      const arrow = this.querySelector<SVGGElement>('[data-pull-arrow]')!;
+      const stageEls = [...this.querySelectorAll<HTMLElement>('[data-stage]')];
+      const parts = [...this.querySelectorAll<SVGGElement>('[data-part]')];
+      const reduced = matchMedia('(prefers-reduced-motion: reduce)');
+      const stops = [0, 30, 50, 62, 76, 100];
+      const contactMarkers = [...this.querySelectorAll<SVGCircleElement>('[data-contact]')];
+      const titles = stageEls.map(el => el.querySelector('strong')!.textContent!);
+      let value = 0, active = -1, frame = 0, last = 0, playing = false;
+      const pause = () => {
+        playing = false;
+        cancelAnimationFrame(frame);
+        play.textContent = value >= 100 ? 'Replay sequence' : 'Play sequence';
+      };
+      const draw = (next: number) => {
+        value = Math.max(0, Math.min(100, next));
+        range.value = String(Math.round(value));
+        if (!playing) play.textContent = value >= 100 ? 'Replay sequence' : 'Play sequence';
+        const stage = value < 18 ? 0 : value < 42 ? 1 : value < 58 ? 2 : value < 66 ? 3 : value < 86 ? 4 : 5;
+        // Pivots are traced from the drawing; angles and timing are illustrative.
+        // Each moving part has its own pivot. The added weight linkage is a static
+        // trace with a pull-stage highlight, not a spring-deflection simulation.
+        const progress = (from: number, to: number) => {
+          const t = Math.max(0, Math.min(1, (value - from) / (to - from)));
+          return t * t * (3 - 2 * t);
+        };
+        const hammerAngle = -18 * progress(66, 84);
+        const triggerAngle = 1.25 * progress(8, 18) + 6.9 * progress(18, 42) + 3.85 * progress(42, 64);
+        // Keep the schematic tips against the drawn sear face. This is a visual
+        // contact constraint, not measured screw lengths or adjustment settings.
+        const rotate = (x: number, y: number, cx: number, cy: number, degrees: number) => {
+          const a = degrees * Math.PI / 180;
+          return [cx + (x - cx) * Math.cos(a) - (y - cy) * Math.sin(a),
+                  cy + (x - cx) * Math.sin(a) + (y - cy) * Math.cos(a)];
+        };
+        const contactAngle = (x: number, y: number) => {
+          const tip = rotate(x, y, 529, 264, triggerAngle);
+          const gap = (angle: number) => {
+            const p = rotate(tip[0], tip[1], 466, 301, -angle);
+            return 43 * (p[0] - 515) + 40 * (p[1] - 262);
+          };
+          if (gap(0) >= 0) return 0;
+          let lo = -20, hi = 0;
+          for (let i = 0; i < 20; i++) {
+            const mid = (lo + hi) / 2;
+            if (gap(mid) > 0) lo = mid; else hi = mid;
+          }
+          return (lo + hi) / 2;
+        };
+        const upperLabelAnchor = rotate(519, 277, 529, 264, triggerAngle);
+        const lowerLabelAnchor = rotate(508, 289, 529, 264, triggerAngle);
+        upperLeader.setAttribute('d', `M${upperLabelAnchor.join(' ')}L535 310L558 318`);
+        lowerLeader.setAttribute('d', `M${lowerLabelAnchor.join(' ')}L525 326L558 338`);
+        const searAngle = Math.min(contactAngle(509, 269), contactAngle(500, 283));
+        trigger.setAttribute('transform', `rotate(${triggerAngle} 529 264)`);
+        sear.setAttribute('transform', `rotate(${searAngle} 466 301)`);
+        contactMarkers.forEach(marker => marker.setAttribute('opacity',
+          (marker.dataset.contact === 'upper' ? stage === 1 : stage >= 2) ? '1' : '0'));
+        hammer.setAttribute('transform', `rotate(${hammerAngle} 387 288)`);
+        const radians = hammerAngle * Math.PI / 180;
+        const springX = 387 - 23 * Math.cos(radians) - 27 * Math.sin(radians);
+        const springY = 288 - 23 * Math.sin(radians) + 27 * Math.cos(radians);
+        spring.setAttribute('d', `M242 378L${springX} ${springY}`);
+        weightLinkage.classList.toggle('loaded', stage === 1 || stage === 2);
+        arrow.setAttribute('opacity', stage === 1 || stage === 2 ? '1' : '0');
+        parts.forEach(part => part.style.opacity = stage === 0 || part.dataset.part === ['','trigger','trigger','sear','hammer','valve'][stage] ? '1' : '0.75');
+        if (stage !== active) {
+          active = stage;
+          stageEls.forEach((el, i) => el.hidden = i !== stage);
+          this.querySelector('[data-title]')!.textContent = titles[stage];
+          this.querySelector('[data-count]')!.textContent = `${stage + 1} / ${stageEls.length}`;
+          range.setAttribute('aria-valuetext', `${titles[stage]}, stage ${stage + 1} of ${stageEls.length}`);
+        }
+      };
+      const tick = (now: number) => {
+        if (!playing) return;
+        const delta = Math.min(now - last, 100);
+        last = now;
+        draw(value + delta / 90);
+        if (value >= 100) pause();
+        else frame = requestAnimationFrame(tick);
+      };
+      const nextStage = () => {
+        pause();
+        draw(stops.find(stop => stop > value + 0.5) ?? 100);
+      };
+      play.addEventListener('click', () => {
+        if (reduced.matches) { if (value >= 100) draw(0); else nextStage(); return; }
+        if (playing) { pause(); return; }
+        if (value >= 100) draw(0);
+        playing = true;
+        play.textContent = 'Pause';
+        last = performance.now();
+        frame = requestAnimationFrame(tick);
+      }, { signal });
+      this.querySelector('[data-step]')!.addEventListener('click', nextStage, { signal });
+      this.querySelector('[data-reset]')!.addEventListener('click', () => { pause(); draw(0); play.textContent = 'Play sequence'; }, { signal });
+      range.addEventListener('input', () => { pause(); draw(Number(range.value)); }, { signal });
+      contacts.addEventListener('click', () => {
+        const close = contacts.getAttribute('aria-pressed') !== 'true';
+        diagram.setAttribute('viewBox', close ? '460 235 205 125' : '195 110 505 330');
+        contacts.setAttribute('aria-pressed', String(close));
+        contacts.textContent = close ? 'Back to mechanism' : 'Inspect screws 1–4';
+        view.setAttribute('aria-pressed', 'false');
+        view.textContent = 'Show whole pistol';
+      }, { signal });
+      view.addEventListener('click', () => {
+        contacts.setAttribute('aria-pressed', 'false');
+        contacts.textContent = 'Inspect screws 1–4';
+        const whole = view.getAttribute('aria-pressed') !== 'true';
+        diagram.setAttribute('viewBox', whole ? '0 0 1183 622' : '195 110 505 330');
+        view.setAttribute('aria-pressed', String(whole));
+        view.textContent = whole ? 'Zoom to trigger' : 'Show whole pistol';
+      }, { signal });
+      document.addEventListener('visibilitychange', () => { if (document.hidden) pause(); }, { signal });
+      reduced.addEventListener('change', pause, { signal });
+      this.querySelectorAll<HTMLElement>('.controls,.view-controls').forEach(el => el.hidden = false);
+      this.classList.add('interactive');
+      draw(0);
+      this.cleanup = () => { pause(); events.abort(); };
+    }
+    disconnectedCallback() { this.cleanup?.(); this.cleanup = undefined; }
+  }
+  if (!customElements.get('fas-trigger-animation')) customElements.define('fas-trigger-animation', FasTriggerAnimation);
+</script>
+
+<style>
+  fas-trigger-animation { display:block; border:1px solid #d7e0e6; border-radius:16px; padding:clamp(1rem,3vw,1.75rem); background:#fff; color:#172b3a; }
+  .animation-heading { display:flex; align-items:flex-start; justify-content:space-between; gap:1rem; }
+  .eyebrow { font-size:.75rem; letter-spacing:.08em; text-transform:uppercase; color:#526674; }
+  h2 { font-size:clamp(1.3rem,3vw,1.8rem); margin:.45rem 0; }
+  .draft { background:#fff0dc; color:#76521c; border-radius:6px; padding:.3rem .6rem; font-size:.7rem; white-space:nowrap; }
+  .scope,.footnote { font-size:.8rem; line-height:1.6; color:#526674; }
+  .drawing-frame { position:relative; background:#f8fafb; border:1px solid #d7e0e6; border-radius:12px; overflow:hidden; }
+  .drawing { display:block; width:100%; height:auto; aspect-ratio:505 / 330; }
+  .part { stroke-width:2; fill-opacity:.65; }
+  .pivot { fill:white; fill-opacity:1; }
+  .weight-lever { fill:#48777d; fill-opacity:.35; stroke:#48777d; stroke-width:1.5; }
+  .weight-pivot { fill:white; stroke:#48777d; stroke-width:1.5; }
+  .weight-spring { fill:none; stroke:#75549b; stroke-width:2.2; stroke-linecap:round; }
+  .weight-contact { fill:#75549b; stroke:#75549b; stroke-width:2.2; }
+  .loaded .weight-lever { fill-opacity:.65; }
+  .loaded .weight-spring { stroke-width:3; }
+  .weight-note { padding:.7rem .85rem; border-left:3px solid #75549b; background:#f6f3f9; font-size:.8rem; line-height:1.6; }
+  .spring { fill:none; stroke:#b04c3b; stroke-width:5; stroke-dasharray:2 3; }
+  .screws { fill:#172b3a; fill-opacity:1; stroke:#172b3a; stroke-width:1; }
+  [data-contact] { fill:#ffcf66; stroke:#172b3a; stroke-width:.6; }
+  .threads { fill:none; stroke:white; stroke-width:.8; }
+  .screw-labels { stroke:#172b3a; stroke-width:.8; fill:none; fill-opacity:1; }
+  .screw-labels circle { fill:white; }
+  .screw-labels text { fill:#172b3a; stroke:none; font-size:8px; font-weight:700; text-anchor:middle; }
+  .screw-key { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:.65rem 1rem; font-size:.8rem; }
+  .screw-key dt { font-weight:700; }
+  .screw-key dd { margin:.15rem 0 0; color:#526674; }
+  .screw-note { font-size:.8rem; line-height:1.6; }
+  .trigger { fill:#176592; stroke:#176592; }
+  .sear { fill:#956208; stroke:#956208; }
+  .hammer { fill:#b04c3b; stroke:#b04c3b; }
+  .valve { fill:#217b64; stroke:#217b64; }
+  .view-controls { padding:.5rem; text-align:right; }
+  .legend { display:flex; flex-wrap:wrap; list-style:none; padding:0; gap:.5rem 1rem; font-size:.8rem; }
+  .legend li { border-bottom:3px solid var(--part-color); padding-bottom:.15rem; }
+  .buttons { display:flex; flex-wrap:wrap; gap:.5rem; }
+  button { font:inherit; font-size:.8rem; min-height:44px; padding:.5rem .85rem; border:1px solid #b7c5cf; border-radius:8px; background:#fff; color:#172b3a; cursor:pointer; }
+  button:hover { background:#edf2f5; }
+  button.primary { background:#172b3a; color:#fff; border-color:#172b3a; }
+  button:focus-visible,input:focus-visible { outline:3px solid #176592; outline-offset:3px; }
+  .scrubber { display:block; font-size:.8rem; margin-top:1rem; }
+  input { display:block; width:100%; min-height:44px; accent-color:#176592; }
+  .status { display:flex; justify-content:space-between; margin:.5rem 0; }
+  [data-count] { font-size:.8rem; color:#526674; }
+  .stages { padding-left:1.3rem; font-size:.9rem; }
+  .stages p { margin:.3rem 0 1rem; }
+  .interactive .stages { list-style:none; padding:0; min-height:5rem; }
+  .interactive .stages strong { display:none; }
+  [hidden] { display:none !important; }
+  @media(max-width:480px) { .screw-key { grid-template-columns:1fr; } .animation-heading { display:block; } .draft { display:inline-block; margin:.3rem 0; } }
+</style>

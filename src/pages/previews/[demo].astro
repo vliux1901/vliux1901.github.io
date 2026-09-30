@@ -1,0 +1,33 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import FasTriggerAnimation from '../../components/FasTriggerAnimation.astro';
+// Review work locally without publishing an unfinished article or sitemap entry.
+export function getStaticPaths() {
+  return import.meta.env.DEV ? [{ params: { demo: 'fas-trigger' } }] : [];
+}
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead title="FAS trigger animation preview | Airgun Craft" description="Local working draft of an annotated FAS 604 trigger sequence." />
+    <meta name="robots" content="noindex, nofollow" />
+  </head>
+  <body>
+    <Header />
+    <main>
+      <FasTriggerAnimation />
+      <details>
+        <summary>Reference notes for the third article</summary>
+        <p>The supplied FAS 604 drawing is the visual reference. It shows component locations, not a measured motion sequence. The four new FAS 6004 photos show the external trigger, not internal sear movement.</p>
+        <p><a href="https://www.airgunbbs.com/showthread.php?747719-Chiappa-FAS-6004">Iain K D’s firsthand FAS 6004 description</a> identifies the trigger–sear–hammer arrangement. The <a href="https://www.pyramydair.com/airgun-resources/manuals/FAS-6004-Air-Pistol-Manual.pdf#page=5">Chiappa manual</a> documents the trigger controls but does not verify the internal travel animated here.</p>
+        <p>The full linkage motion and any differences between the 604 and 6004 need confirmation before treating this as an exact mechanical animation.</p>
+      </details>
+    </main>
+  </body>
+</html>
+<style>
+  main { width:1000px; max-width:calc(100% - 2rem); box-sizing:border-box; padding:1rem 0 3rem; }
+  details { margin-top:1.5rem; font-size:.85rem; }
+  summary { cursor:pointer; }
+</style>
