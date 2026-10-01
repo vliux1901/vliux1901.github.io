@@ -1,5 +1,5 @@
 ---
-title: 'FAS 6004 Air Pistol Initial Impressions'
+title: 'FAS 6004 Shooting Impressions and Chronograph Results'
 description: 'My initial impressions of the FAS 6004: its design, match grip and sight picture, comparisons with other air pistols, and chronograph results with RWS R10 Match pellets.'
 tags: ['FAS 6004', 'Reviews', '10m Air Pistol']
 pubDate: 'Sep 27 2026'
@@ -128,11 +128,14 @@ The looks were what persuaded me to buy the FAS 6004, and the consistency in thi
 
 Shooting it has added to that appeal. The match grip feels comfortable and steady, and the crisp, simple sight picture suits me better than those of my HW45 and HW75. These are still my initial impressions, but the FAS is giving me reasons to enjoy it beyond its looks.
 
-For a follow-up on ownership, see my [FAS 6004 maintenance notes on breech O-ring wear and replacement seals](/blog/fas_6004_maintenance/).
-
 ## Sources
 
 - [Chiappa FAS 6004 specifications](https://www.chiappafirearms.com/product/440.040/)
 - [Weihrauch HW75 specifications](https://www.weihrauch-sport.de/air-pistols/hw-75?lang=en)
 - [Weihrauch's 2024 catalog for the HW75 velocity](https://www.weihrauch-sport.de/wp-content/uploads/2024/05/KATALOG-WEIHRAUCH-SPORT-125-Years-Stand-05-2024-fuers-Web-Doppelseiten-MIT-Mittellinien.pdf)
 - [Air Venturi V10 specifications](https://www.airventuri.com/products/v10-match-air-pistol).
+
+## More about the FAS 6004
+
+- [FAS 6004 maintenance: O-ring sizes and breech seal wear](/blog/fas_6004_maintenance/)
+- [FAS 6004 trigger: adjustment screws and interactive animation](/blog/fas_6004_trigger/)

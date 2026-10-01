@@ -1,5 +1,5 @@
 ---
-title: 'FAS 6004 Maintenance: O-Rings'
+title: 'FAS 6004 O-Rings Sizes, Replacements and Breech Seal Wear'
 description: 'What I learned from breech O-ring wear on my FAS 6004, why a larger ring did not fit, and a parts reference with seal dimensions and replacement sources.'
 tags: ['FAS 6004', 'Maintenance', 'O-Rings']
 pubDate: 'Sep 29 2026'
@@ -90,3 +90,8 @@ I still enjoy shooting this little pistol. Understanding why its breech seal was
 - [TargetTalk: “Improve the FAS 6004,” opening post by slofyr](https://www.targettalk.org/viewtopic.php?p=256605#p256605): related owner discussion of breech-seal contact, not confirmation of the JIS P7 ring's fit.
 - The O-Ring Store product listings linked beside each size above: seller dimensions, materials, hardness ratings, and model numbers.
 - [Bagnall and Kirkwood: Chiappa FAS 6004 parts](https://spares.bagnallandkirkwood.co.uk/chiappa-fas-6004/): model-specific seal-kit listing.
+
+## More about the FAS 6004
+
+- [FAS 6004 review: shooting impressions and chronograph results](/blog/fas_6004_intro/)
+- [FAS 6004 trigger: adjustment screws and interactive animation](/blog/fas_6004_trigger/)
