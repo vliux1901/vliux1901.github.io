@@ -90,7 +90,7 @@ Lighting also affects the sight picture. Under strong light, the sloped upper su
 
 For comparison, I describe the sight picture I prefer in my [FAS 6004 shooting impressions](/blog/fas_6004_intro/#shooting-experiences).
 
-## Grips
+### Grips
 
 The walnut grip feels well made. Its textured surface provides good friction without feeling too rough.
 
@@ -111,6 +111,20 @@ For my hand, the grip is a little slim at the web between my thumb and index fin
 </div>
 
 I've ordered a Rink universal grip to explore that fit, though I haven't tried it yet.
+
+### Trigger-Guard Undercut
+
+The trigger-guard undercut also affects how the HW75 sits in my hand. The underside where the guard meets the grip is flat, without the upward curve of the HW40. Because the HW75's grip does not give my hand enough support, I feel my middle finger taking most of the pistol's weight. The flat undercut keeps the pistol sitting higher on that finger, making my hold feel a little unstable.
+
+The red arrows in the photos below highlight this contact area: the HW75's flatter contour on the left and the HW40's upward curve on the right.
+
+<div class="photo-pair">
+
+![HW75 held in the hand, with a red arrow pointing to the flat underside of the trigger guard resting on the middle finger](../../assets/hw75_intro/hw75_trigger_undercut.jpg)
+
+![HW40 held in the hand, with a red arrow pointing to the upward curve beneath the rear of the trigger guard above the middle finger](../../assets/hw75_intro/hw40_trigger_undercut.jpg)
+
+</div>
 
 ## My take so far
 
