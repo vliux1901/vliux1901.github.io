@@ -3,14 +3,22 @@ import { Image } from 'astro:assets';
 import RotatedHero from '../components/RotatedHero.astro';
 import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
+import BlogTagNavigation from '../components/BlogTagNavigation.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import { BLOG_TAGS } from '../tags';
 
 const posts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
+const tagCounts = BLOG_TAGS.map((tag) => ({
+	tag,
+	count: posts.filter((post) => post.data.tags.includes(tag)).length,
+}))
+	.filter(({ count }) => count > 0)
+	.sort((a, b) => b.count - a.count || a.tag.localeCompare(b.tag, 'en'));
 ---
 
 <!doctype html>
@@ -21,7 +29,19 @@ const posts = (await getCollection('blog')).sort(
 			main {
 				width: 960px;
 			}
-			ul {
+			.post-listing {
+				min-width: 0;
+			}
+			@media (min-width: 1320px) {
+				main.has-tags {
+					width: 1264px;
+					display: grid;
+					grid-template-columns: 240px minmax(0, 1fr);
+					gap: 2rem;
+					align-items: start;
+				}
+			}
+			.posts {
 				display: flex;
 				flex-wrap: wrap;
 				gap: 2rem;
@@ -29,30 +49,30 @@ const posts = (await getCollection('blog')).sort(
 				margin: 0;
 				padding: 0;
 			}
-			ul li {
+			.posts li {
 				width: calc(50% - 1rem);
 			}
-			ul li * {
+			.posts li * {
 				text-decoration: none;
 				transition: 0.2s ease;
 			}
-			ul li:first-child {
+			.posts li:first-child {
 				width: 100%;
 				margin-bottom: 1rem;
 				text-align: center;
 			}
-			ul li:first-child img {
+			.posts li:first-child img {
 				width: 100%;
 			}
-			ul li:first-child .title {
+			.posts li:first-child .title {
 				font-size: 2.369rem;
 			}
-			ul li img,
-			ul li :global(.rotated-hero) {
+			.posts li img,
+			.posts li :global(.rotated-hero) {
 				margin-bottom: 0.5rem;
 				border-radius: 12px;
 			}
-			ul li > a {
+			.posts li > a {
 				display: block;
 			}
 			.title {
@@ -64,25 +84,25 @@ const posts = (await getCollection('blog')).sort(
 				margin: 0;
 				color: rgb(var(--gray));
 			}
-			ul li a:hover h4,
-			ul li a:hover .date {
+			.posts li a:hover h4,
+			.posts li a:hover .date {
 				color: rgb(var(--accent));
 			}
-			ul a:hover img {
+			.posts a:hover img {
 				box-shadow: var(--box-shadow);
 			}
 			@media (max-width: 720px) {
-				ul {
+				.posts {
 					gap: 0.5em;
 				}
-				ul li {
+				.posts li {
 					width: 100%;
 					text-align: center;
 				}
-				ul li:first-child {
+				.posts li:first-child {
 					margin-bottom: 0;
 				}
-				ul li:first-child .title {
+				.posts li:first-child .title {
 					font-size: 1.563em;
 				}
 			}
@@ -90,9 +110,10 @@ const posts = (await getCollection('blog')).sort(
 	</head>
 	<body>
 		<Header />
-		<main>
-			<section>
-				<ul>
+		<main class:list={{ 'has-tags': tagCounts.length > 0 }}>
+			<BlogTagNavigation tags={tagCounts} />
+			<section class="post-listing" aria-label="Blog posts">
+				<ul class="posts">
 					{
 						posts.map((post) => (
 							<li>
