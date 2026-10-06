@@ -141,11 +141,11 @@ Starting with a cold bore, I recorded 25 shots with a Garmin Xero chronograph.
 | Extreme spread | 12.9 fps | 9.9 fps |
 | Standard deviation (population) | 3.50 fps | 2.54 fps |
 
-![Garmin Xero chronograph showing the HW75's 25-shot session, with an average velocity of 430.1 fps](../../assets/hw75_intro/PXL_20261005_234517566.jpg)
+![Garmin Xero chronograph showing the HW75's 25-shot session, with an average velocity of 430.1 fps](../../assets/hw75_intro/hw75_chronograph_results.jpg)
 
 Although the extreme spread across the full session was 12.9 fps, I noticed that **the velocity became more stable after the first 7–8 shots**, settling around **430 fps**. The graph below shows the lower initial readings and the more consistent later shots, with a few dips.
 
-![Velocity graph for the HW75's 25-shot session, showing a low of 421.8 fps, a high of 434.7 fps, and shot 7 at 430.3 fps](../../assets/hw75_intro/Screenshot_20261005-164752.png)
+![Velocity graph for the HW75's 25-shot session, showing a low of 421.8 fps, a high of 434.7 fps, and shot 7 at 430.3 fps](../../assets/hw75_intro/hw75_velocity_graph.png)
 
 ## My take so far
 
