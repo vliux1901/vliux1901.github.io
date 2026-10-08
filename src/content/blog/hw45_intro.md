@@ -1,5 +1,5 @@
 ---
-title: 'HW45 Air Pistol First Impressions'
+title: 'HW45 Air Pistol Review'
 description: 'First impressions of the Weihrauch HW45, with photos, shooting videos, and comparisons of velocity consistency and target groups at both power settings.'
 tags: ['HW45', 'Reviews']
 pubDate: 'Oct 07 2026'
@@ -14,7 +14,13 @@ The appeal is easy to understand from [long-term owner reviews](https://www.pyra
 
 ## First Impressions
 
-The first thing that stands out is the **1911-like outline beneath a much taller upper assembly**. The silver-colored frame, black upper section, and dark checkered grip panels give this example a distinctive appearance. It shares a familiar profile with the [HW75](/blog/hw75_intro/), but the HW45's spring-piston action makes it a very different pistol internally.
+The first thing that stands out is the **1911-like outline beneath a much taller upper assembly**. The silver-colored frame, black upper section, and dark checkered grip panels give this example a distinctive appearance.
+
+Alongside the [HW75](/blog/hw75_intro/), their **metal frames look almost identical externally**. The main differences are in the power plant and grips: the HW45 uses a spring-piston action and 1911-style grip panels, while the HW75 uses a single-stroke pneumatic action and a contoured walnut grip.
+
+![HW75 above the silver-and-black HW45, showing their similar metal frame profiles and different grip shapes](../../assets/hw75_intro/hw75_vs_hw45.jpg)
+
+Despite the HW75's more sculpted grip, I find the **HW45's 1911-style grip more comfortable in my (small) hand**. That is my personal fit preference; another shooter may feel differently.
 
 ### Sights
 
