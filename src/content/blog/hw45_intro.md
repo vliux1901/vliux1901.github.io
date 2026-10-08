@@ -173,6 +173,10 @@ The photo shows full power on the left and low power on the right, both at 15 ya
 
 ## Summary
 
-The HW45 combines familiar 1911-style grips, an adjustable two-stage trigger, and two power settings with a very distinctive shooting feel. Its **strong spring-piston vibration** sets it apart from the calmer HW75 and HW40, and makes a consistent hold important. The broken front-sight rod on my pistol is also a reminder that the exposed fiber-optic insert needs care.
+In my opinion, the HW45 is a distinctive and enjoyable air pistol for recreational shooting and potentially small game hunting, with plenty to explore as a shooter and owner. These are its main strengths for me:
 
-Both power settings delivered **similar velocity consistency**, while the tighter low-power group at 15 yards makes that setting particularly appealing for my target practice. The HW45 takes practice to shoot well, but these early results show why it remains an interesting and capable sporting air pistol.
+1. **Powerful spring-piston action.** It remains one of the most powerful spring-piston air pistols available, consistent with [Weihrauch's description](https://www.weihrauch-sport.de/air-pistols/hw-45?lang=en).
+2. **Good accuracy at both power levels.** I find it capable of good accuracy even at full power, although low power may be more manageable for many shooters. My tighter low-power group at 15 yards reflects that preference.
+3. **Two power settings.** This is still an unusual and useful feature among spring-piston pistols, letting me choose between lower power and the full-power shooting experience.
+4. **Plenty of grip options.** The 1911-style grip opens up many possibilities for replacement panels with different materials, textures, and shapes.
+5. **Quality construction.** The metal frame and upper assembly, paired with checkered walnut grips, give the pistol a solid, well-made feel.
