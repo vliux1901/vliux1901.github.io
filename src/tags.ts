@@ -1,5 +1,5 @@
 // Keep one spelling per topic; the content schema catches unknown tags.
-export const BLOG_TAGS = ['FAS 6004', 'HW75', 'HW45', 'Reviews', '10m Air Pistol', 'Maintenance', 'O-Rings', 'Trigger'] as const;
+export const BLOG_TAGS = ['FAS 6004', 'HW75', 'HW45', 'HW70A', 'Reviews', '10m Air Pistol', 'Maintenance', 'O-Rings', 'Trigger'] as const;
 
 export type BlogTag = (typeof BLOG_TAGS)[number];
 
@@ -7,6 +7,7 @@ export const TAG_DESCRIPTIONS: Record<BlogTag, string> = {
 	'FAS 6004': 'My FAS 6004 ownership notes, from shooting impressions and chronograph results to seal wear and maintenance.',
 	HW75: 'My Weihrauch HW75 ownership notes, covering build quality, controls, and shooting experience.',
 	HW45: 'My Weihrauch HW45 ownership notes, covering its spring-piston action, controls, and shooting experience.',
+	HW70A: 'My Weihrauch HW70A ownership notes, covering its break-barrel action, trigger, and shooting results.',
 	Reviews: 'Firsthand airgun reviews, with shooting impressions, original photos, and measured results where available.',
 	'10m Air Pistol': 'Notes on air pistols for 10-meter target shooting, including grip comfort, sight pictures, and shooting experience.',
 	Maintenance: 'Airgun maintenance experiences, wear observations, and parts references from looking after my own pistols.',
