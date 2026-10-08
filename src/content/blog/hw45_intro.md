@@ -8,9 +8,11 @@ heroImage: '../../assets/hw45/hw45_intro.jpg'
 
 ## A Brief Introduction
 
-The Weihrauch HW45 is a German-made, single-shot **spring-piston air pistol**, also sold as the **Beeman P1**. It combines Beeman's concept for a powerful, 1911-inspired air pistol with Weihrauch's engineering and manufacturing. [Todd Cooper's HW45 history](https://airgunwarriors.com/resources/library/Weihrauch_HW45_by_Todd_Cooper_Web.pdf) traces its commercial introduction to 1985.
+The Weihrauch HW45 is one of the most unusual air pistols I've owned. Its solid metal construction and 1911-style grip feel familiar, while **two power settings and a crisp trigger** add to its appeal.
 
-The appeal is easy to understand from [long-term owner reviews](https://www.pyramydair.com/blog/2011/04/beeman-p1hw-45-air-pistol-part-1/) and the discussion beneath them: solid construction, a good trigger, and useful accuracy. The recurring challenge is learning to shoot it consistently. Its spring-piston recoil makes it sensitive to how it is held, and cocking takes effort. That combination gives the HW45 much of its character: a capable sporting pistol that rewards practice.
+Unlike my smoother HW75 or HW40, it delivers **strong mechanical vibration with every shot**. Its spring-piston action makes accurate shooting more demanding, but learning to manage it is part of the attraction for me.
+
+In my tests, full power averaged **nearly 612 fps with 7-grain pellets**, with consistent velocity at both settings. Yet my low-power group was tighter at 15 yards. More power is only part of this pistol's story.
 
 ## First Impressions
 
@@ -44,6 +46,24 @@ The rear sight is **adjustable for windage and elevation**, with green fiber-opt
 
 </div>
 
+### Replaceable 1911-Style Grips
+
+The grip uses two separate checkered panels, each secured by two screws. It has the familiar shape of a service-pistol grip, without the palm shelf of a dedicated target grip.
+
+<div class="photo-pair">
+
+![HW45 held in the left hand, showing the checkered grip panel and hand placement](../../assets/hw45/hw45_holding_1.jpg)
+
+![HW45 held in the right hand, showing the grip fit and thumb position](../../assets/hw45/hw45_holding_2.jpg)
+
+</div>
+
+One useful feature is compatibility with **standard full-size 1911-style grip panels**, documented in [Gaylord's P1/HW45 review](https://www.pyramydair.com/blog/2007/05/beeman-p1hw45-air-pistol/). This gives the pistol options for different textures and contours. Fit still needs checking for the particular grip, including clearance around the safety.
+
+![HW45 checkered grip panel and manual safety beside a packaged Hogue replacement grip](../../assets/hw45/hw45_grip.jpg)
+
+The Hogue replacement grip pictured alongside the pistol is one example.
+
 ### Two Cocking Positions, Two Power Levels
 
 The hammer-shaped part at the rear is the **latch for the upper assembly**. Releasing it lets the top lift and pivot forward around the front hinge. The upper assembly also acts as the cocking lever.
@@ -64,7 +84,7 @@ Lower power does not necessarily mean much less cocking effort, as [Tom Gaylord 
 
 ### Breech and Seal
 
-With the upper assembly open, the barrel's breech is exposed underneath it. This is a single-shot layout: the pellet goes directly into the barrel, with no magazine or loading tray. The second close-up shows the circular seal around the air outlet in the lower assembly, where it meets the barrel when closed.
+Opening the upper assembly exposes the breech for loading a pellet directly into the barrel. A circular seal around the air outlet seals against the barrel when closed.
 
 <div class="photo-pair">
 
@@ -76,37 +96,19 @@ With the upper assembly open, the barrel's breech is exposed underneath it. This
 
 ### Manual Safety
 
-The **manual safety has a lever on each side**, just behind the trigger and above the grip. It is separate from the hammer-shaped latch. Cocking the pistol does not automatically engage it, a distinction made explicitly in the [HW45 manual](https://www.weihrauch-sport.de/wp-content/uploads/2023/01/HW-45-de-fr.-engl.-03-2020.pdf#page=15).
-
-The grip photo below also shows the safety lever and its **S** marking clearly.
-
-### Replaceable 1911-Style Grips
-
-The grip uses two separate checkered panels, each secured by two screws. It has the familiar shape of a service-pistol grip, without the palm shelf of a dedicated target grip.
-
-<div class="photo-pair">
-
-![HW45 held in the left hand, showing the checkered grip panel and hand placement](../../assets/hw45/hw45_holding_1.jpg)
-
-![HW45 held in the right hand, showing the grip fit and thumb position](../../assets/hw45/hw45_holding_2.jpg)
-
-</div>
-
-One useful feature is compatibility with **standard full-size 1911-style grip panels**, documented in [Gaylord's P1/HW45 review](https://www.pyramydair.com/blog/2007/05/beeman-p1hw45-air-pistol/). This gives the pistol options for different textures and contours. Fit still needs checking for the particular grip, including clearance around the safety.
-
-![HW45 checkered grip panel and manual safety beside a packaged Hogue replacement grip](../../assets/hw45/hw45_grip.jpg)
-
-The Hogue replacement grip pictured alongside the pistol is one example.
+The **manual safety has a lever on each side**, above the grip and behind the trigger. It does not engage automatically when cocking, as noted in the [HW45 manual](https://www.weihrauch-sport.de/wp-content/uploads/2023/01/HW-45-de-fr.-engl.-03-2020.pdf#page=15).
 
 ### Two-Stage Trigger
 
-The trigger has a broad, curved face with vertical grooves. Its **two-stage action** provides initial take-up followed by the second-stage release.
+The grooved trigger has a **two-stage action**, with initial take-up followed by the release.
 
 ![Close-up of the HW45 grooved trigger blade, adjustment openings, and safety lever](../../assets/hw45/hw45_trigger.jpg)
 
-Weihrauch's [trigger-adjustment diagram](https://www.weihrauch-sport.de/wp-content/uploads/2023/01/HW-45-de-fr.-engl.-03-2020.pdf#page=29) identifies two separate functions: **first-stage travel (trigger slack)** and the **second-stage let-off point**. The manual recommends retaining the factory settings or having a qualified airgunsmith make adjustments, since incorrect settings can affect safe engagement.
+The [manual](https://www.weihrauch-sport.de/wp-content/uploads/2023/01/HW-45-de-fr.-engl.-03-2020.pdf#page=29) shows adjustments for **first-stage travel** and the **second-stage let-off point**, and recommends keeping the factory settings or using a qualified airgunsmith.
 
 ## Shooting Experiences
+
+I find the trigger **crisp, with a clear break**, very close in feel to the HW75's match-grade trigger. The first stage is very light, leading to a distinct wall. A little more pressure then produces a crisp release. Although it is a two-stage trigger, that light take-up makes it feel almost like a single-stage trigger to me; the HW75 feels very similar. That predictable release helps me shoot more accurately.
 
 <figure class="video-embed">
   <iframe src="https://www.youtube-nocookie.com/embed/LO8qd6CDHtQ" title="HW45: cocking the pistol at low power and full power" width="560" height="315" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -173,10 +175,17 @@ The photo shows full power on the left and low power on the right, both at 15 ya
 
 ## Summary
 
-In my opinion, the HW45 is a distinctive and enjoyable air pistol for recreational shooting and potentially small game hunting, with plenty to explore as a shooter and owner. These are its main strengths for me:
+In my opinion, the HW45 is a distinctive and enjoyable air pistol for recreational shooting and potentially small game hunting, with plenty to explore as a shooter and owner.
+
+### What I Like
 
 1. **Powerful spring-piston action.** It remains one of the most powerful spring-piston air pistols available, consistent with [Weihrauch's description](https://www.weihrauch-sport.de/air-pistols/hw-45?lang=en).
 2. **Good accuracy at both power levels.** I find it capable of good accuracy even at full power, although low power may be more manageable for many shooters. My tighter low-power group at 15 yards reflects that preference.
 3. **Two power settings.** This is still an unusual and useful feature among spring-piston pistols, letting me choose between lower power and the full-power shooting experience.
 4. **Plenty of grip options.** The 1911-style grip opens up many possibilities for replacement panels with different materials, textures, and shapes.
 5. **Quality construction.** The metal frame and upper assembly, paired with checkered walnut grips, give the pistol a solid, well-made feel.
+
+### What I Don't Like
+
+1. **Slightly top-heavy balance.** I find the pistol a little heavy above the grip, likely due to the bulk and weight of the spring-piston cylinder in the upper assembly.
+2. **Fragile front sight insert.** The exposed fiber-optic rod on mine snapped when it hit the table. I would prefer better protection for this part.
