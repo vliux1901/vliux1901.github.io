@@ -116,7 +116,7 @@ I've ordered a Rink universal grip to explore that fit, though I haven't tried i
 
 ### Trigger-Guard Undercut
 
-The trigger-guard undercut also affects how the HW75 sits in my hand. The underside where the guard meets the grip is flat, **without the upward curve** of the HW40. Because the HW75's grip does not give my hand enough support, I feel my middle finger taking most of the pistol's weight. The flat undercut keeps the pistol sitting higher on that finger, making my hold feel a little unstable.
+The trigger-guard undercut also affects how the HW75 sits in my hand. The underside where the guard meets the grip is flat (just like the 1911 pistols), **without the upward curve** of the HW40. Because the HW75's grip does not give my hand enough support, I feel my middle finger taking most of the pistol's weight. The flat undercut keeps the pistol sitting higher on that finger, making my hold feel a little unstable.
 
 The red arrows in the photos below highlight this contact area: the HW75's flatter contour on the left and the HW40's upward curve on the right.
 
