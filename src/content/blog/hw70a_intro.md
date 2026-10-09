@@ -8,11 +8,11 @@ heroImage: '../../assets/hw70a/hw70a_hero_img.jpg'
 
 ## A Brief Introduction
 
-The Weihrauch HW70A looks like **a small spring rifle in pistol form**. Its long exposed barrel, black synthetic stock, and hooded front sight give it a character of its own beside my [HW45](/blog/hw45_intro/) and [HW75](/blog/hw75_intro/). The resemblance carries through to the break-barrel action and, for me, the feel of the trigger.
+The Weihrauch HW70A looks like a small spring rifle in pistol form. Its long exposed barrel, black synthetic stock, and hooded front sight give it a character of its own beside my [HW45](/blog/hw45_intro/) and [HW75](/blog/hw75_intro/). The resemblance carries through to the break-barrel action and, for me, the feel of the trigger.
 
-The HW70 family is the **only break-barrel design in Weihrauch's current air-pistol range**, which also includes the HW40, HW44, HW45, and HW75. Weihrauch lists this model as the [HW70](https://www.weihrauch-sport.de/air-pistols/hw-70?lang=en), and that is also the marking on mine.
+The HW70 family is the **only break-barrel design in Weihrauch's current air-pistol range**. Weihrauch lists this model as the [HW70](https://www.weihrauch-sport.de/air-pistols/hw-70?lang=en), and that is also the marking on mine.
 
-My 15-shot chronograph test averaged **449.3 fps with 7-grain pellets**, with good velocity consistency. On target, **where I rested the pistol made a considerable difference**: supporting the stock worked best, while supporting the barrel worked worst. Those two findings shape my impressions of the HW70A so far.
+My 15-shot chronograph test averaged 449.3 fps with 7-grain pellets, with good velocity consistency. On target, where I rested the pistol made a considerable difference: supporting the stock worked best, while supporting the barrel worked worst. Those two findings shape my impressions of the HW70A so far.
 
 ## First Impressions
 
@@ -48,7 +48,7 @@ The barrel pivots downward to cock the spring-piston action, exposing the breech
 
 ![HW70 model and .177 caliber markings beside the barrel pivot](../../assets/hw70a/hw70a_barrel.jpg)
 
-The underside photo shows the cocking linkage. With the barrel open, the circular breech seal and the rounded locking ball below it are visible.
+The underside photo shows the cocking linkage. With the barrel open, the circular breech seal and the rounded locking ball below it are visible (similar to HW30S).
 
 <div class="photo-pair">
 
@@ -72,7 +72,7 @@ The safety is a sliding control on the left side of the stock. According to the 
 
 ### Polymer Trigger
 
-The **trigger blade is also polymer**. Weihrauch describes the mechanism as an adjustable two-stage match trigger. Its feel deserves a closer look in [Shooting Experiences](#a-different-trigger-feel).
+The trigger blade is also polymer. Weihrauch describes the mechanism as an adjustable two-stage match trigger. Its feel deserves a closer look in [Shooting Experiences](#a-different-trigger-feel).
 
 ![Close-up of the HW70A polymer trigger blade and integral trigger guard](../../assets/hw70a/hw70a_trigger.jpg)
 
@@ -80,7 +80,7 @@ The **trigger blade is also polymer**. Weihrauch describes the mechanism as an a
 
 ### A Different Trigger Feel
 
-When I pull the HW70A's trigger, it feels **as though I am pressing against a substantial spring**. The break is acceptable, but it is **not as crisp as the HW45 or HW75**. Those two pistols give me a more distinct wall and release.
+When I pull the HW70A's trigger, it feels as though I am pressing against a substantial spring. The break is acceptable, but it is **not as crisp as the HW45 or HW75**. Those two pistols give me a more distinct wall and release.
 
 The springy resistance reminds me more of the triggers on Weihrauch's spring-piston rifles. This is a comparison of feel, not mechanism or measured pull weight.
 
@@ -88,7 +88,7 @@ The springy resistance reminds me more of the triggers on Weihrauch's spring-pis
 
 ### A Baby HW30S?
 
-The **“baby HW30S” comparison makes sense to me**. The long cylinder, hinged barrel, and stock beneath the action give it a familiar spring-rifle layout. Placed beside my Beeman R7, the family resemblance is easy to see.
+The “baby HW30S” comparison makes sense to me. The long cylinder, hinged barrel, and stock beneath the action give it a familiar spring-rifle layout. Placed beside my Beeman R7, the family resemblance is easy to see.
 
 ![Beeman R7 rifle above the HW70A pistol, showing their similar break-barrel layouts](../../assets/hw70a/hw70a_vs_r7.jpg)
 
@@ -96,9 +96,9 @@ That resemblance is part of its character; the trigger and shooting behavior sti
 
 ### Rest Position Makes a Difference
 
-The biggest practical difference I noticed was **where the pistol contacted the rest**. Supporting the synthetic stock gave me my best results; supporting the barrel gave me my worst results.
+The biggest practical difference I noticed was where the pistol contacted the rest. Supporting the synthetic stock gave me my best results; supporting the barrel gave me my worst results.
 
-The photos below show **stock support first**, followed by **barrel support**.
+The photos below show stock support first, followed by barrel support.
 
 <div class="photo-pair">
 
@@ -108,13 +108,17 @@ The photos below show **stock support first**, followed by **barrel support**.
 
 </div>
 
-Changing the contact point may change how the pistol moves during the spring-piston firing cycle. That is a possible explanation, but I do not yet have measured groups to establish the size of the effect or isolate its cause. **Stock support is my starting point for further accuracy testing.**
+Target results at 15 yards: stock support on the left, barrel support on the right.
+
+![HW70A targets at 15 yards: tighter stock-supported group on the left; barrel-supported impacts mostly high and left with greater vertical spread on the right](../../assets/hw70a/hw70a_target_results.jpg)
+
+Stock support produced a tighter group around the bull, with another cluster toward the upper left. Barrel-supported shots landed mostly high and left, with greater vertical spread and several hits outside the sticker. These results support my impression that **rest position matters considerably with this pistol**.
+
+The contact point may affect the pistol's movement during firing, but I have not confirmed the cause. I will use stock support for further testing and measure repeated groups to check consistency.
 
 ## Test Results
 
-### Muzzle Velocity
-
-I recorded **15 shots with Meisterkugeln 7-grain pellets**. The table includes the complete string, shots 1–15, using the figures reported by the chronograph app.
+I recorded 15 shots with Meisterkugeln 7-grain pellets. The table includes the complete string, shots 1–15, using the figures reported by the chronograph app.
 
 | Measurement | HW70A |
 | --- | --- |
@@ -135,11 +139,9 @@ I recorded **15 shots with Meisterkugeln 7-grain pellets**. The table includes t
 
 *Data note: The app reports a 12.7 fps spread; subtracting the rounded endpoints gives 12.6 fps. Rounding may explain the difference. The screenshots do not identify whether the standard deviation uses the population or sample formula.*
 
-### What the Results Show
+**Velocity consistency was good in this 15-shot test.** The reported standard deviation is about 0.65% of the average velocity, and the extreme spread is about 2.8%. The chart shows a fairly steady string, without an obvious sustained rise or fall.
 
-**Velocity consistency was good in this 15-shot test.** The reported standard deviation is about **0.65% of the average velocity**, and the extreme spread is about **2.8%**. The chart shows a fairly steady string, without an obvious sustained rise or fall.
-
-Using the nominal 7-grain pellet weight and displayed average velocity gives a calculated muzzle energy of approximately **3.14 ft-lb, or 4.25 J**.
+Using the nominal 7-grain pellet weight and displayed average velocity gives a calculated muzzle energy of approximately 3.14 ft-lb, or 4.25 J.
 
 My [HW45 tests](/blog/hw45_intro/#test-results) provide a useful reference. Each session used 15 shots with Meisterkugeln 7-grain pellets:
 
@@ -151,21 +153,23 @@ My [HW45 tests](/blog/hw45_intro/#test-results) provide a useful reference. Each
 
 The HW70A produced less power than the HW45 at either setting. Its velocity spread was a little wider, but the standard deviations were close. These were separate sessions, so the comparison gives context rather than a controlled ranking.
 
-The chronograph results are encouraging. **Consistent velocity does not guarantee small groups**, however; the next step is to measure groups with a repeatable support position.
-
 ## Summary
 
-The HW70A's strongest qualities so far are its **protected front sight, traditional break-barrel action, and consistent velocity**. The main compromises for me are a less crisp trigger than the HW45 or HW75 and the difference that rest position makes to my results.
+The HW70A's strongest qualities so far are its protected front sight, traditional break-barrel action, and consistent velocity. The main compromises for me are a less crisp trigger than the HW45 or HW75 and the difference that rest position makes to my results.
+
+### Who Is It For?
+
+I see the HW70A as a pistol for **recreational target shooters** and **spring-piston enthusiasts**, especially Weihrauch rifle owners who enjoy its familiar break-barrel character. Its springy trigger and sensitivity to support position reward patience and consistent technique.
 
 ### What I Like
 
-1. **Protected front sight.** The surrounding ring shields the blade, and its housing doubles as a useful cocking handle.
-2. **Familiar break-barrel layout.** The action gives the pistol much of its small-spring-rifle character.
-3. **Good velocity consistency in this test.** The 15-shot string stayed within a reported 12.7 fps spread, with a 2.9 fps standard deviation.
+1. Protected front sight. The surrounding ring shields the blade, and its housing doubles as a useful cocking handle.
+2. Familiar break-barrel layout. The action gives the pistol much of its small-spring-rifle character.
+3. Good velocity consistency in this test. The 15-shot string stayed within a reported 12.7 fps spread, with a 2.9 fps standard deviation.
 
 ### What I Don't Like
 
-1. **Less crisp trigger feel.** The springy resistance is more noticeable to me than on the HW45 and HW75, even though the final break is acceptable.
-2. **Sensitivity to rest position.** Supporting the barrel gave me worse results than supporting the stock. That makes my initial accuracy impressions more dependent on the setup.
+1. Less crisp trigger feel. The springy resistance is more noticeable to me than on the HW45 and HW75, even though the final break is acceptable.
+2. Sensitivity to rest position. Supporting the barrel gave me worse results than supporting the stock. That makes my initial accuracy impressions more dependent on the setup.
 
-For me, the HW70A's appeal lies in its small-spring-rifle character. The velocity results give it a promising start; measured groups will help show how consistently I can turn that performance into accuracy on target.
+For me, the HW70A's appeal is its small-spring-rifle character. Its consistent velocity and better stock-supported result at 15 yards are encouraging.
