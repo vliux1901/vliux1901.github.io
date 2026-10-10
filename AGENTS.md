@@ -1,3 +1,9 @@
+## Airgun blog posts
+
+For new airgun reviews and initial-impressions posts, use the `$airgun-blog` skill and read [the current review template](docs/airgun-review-template.md). Follow its section priorities, including Chronograph Results and Accuracy as core coverage; keep untested results clearly marked. If the skill is unavailable, follow the template directly.
+
+For focused maintenance or mechanism posts, apply only the relevant parts of the template. For edits to existing posts, preserve the current structure and voice unless restructuring is requested.
+
 ## Development
 
 When starting the dev server, use background mode:
