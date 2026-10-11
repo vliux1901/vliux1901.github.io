@@ -7,15 +7,11 @@ pubDate: 'Oct 11 2026'
 heroImage: '../../assets/1701p/1701p_hero.jpg'
 ---
 
-> **Working draft:** These are my impressions so far. Measured target groups and further handling notes are still to come; TBD notes mark the remaining gaps.
-
 ## A Brief Introduction
 
-The Crosman 1701P Silhouette has a long, slim profile: an exposed barrel above the air reservoir, a compact grip below, and a bolt at the back of the breech. My example wears checkered wooden grips and a Williams rear sight. Those two additions give it a different appearance from the basic black-gripped pistol.
+The [Crosman 1701P Silhouette](https://www.crosman.com/product/crosman-1701p-silhouette-competition-pcp-air-pistol-177-caliber/) is a PCP air pistol designed for silhouette competition shooting. It has a long, slim profile: an exposed barrel above the air reservoir, a compact grip below, and a bolt at the back of the breech. It comes from the factory with black plastic grips and no rear sight. I added the checkered wooden grips and Williams rear sight shown in my photos.
 
 What I like most is its **simple shape, very quiet report, and accuracy with the setup that works well for me**. With JSB Exact 8.44-grain pellets and a starting fill of roughly **2,225–2,500 psi**, my tests have given me about **32–34 shots around 445–455 fps**. Getting roughly 32 consistent shots from one fill is a real positive for me. Loading takes care, though, and the grip is one area I would improve.
-
-**TBD — ownership context:** How long I have owned it, why I chose it, and my main use for it.
 
 ## Appearance and Build
 
@@ -25,17 +21,15 @@ I like the 1701P's simple shape. Its two parallel tubes and angular breech give 
 
 The close-ups show the different surface finishes clearly: fine machining lines on the breech and sight housing, a textured reservoir, and the curved silver-colored trigger against the dark frame. The wooden grips provide the strongest visual contrast.
 
-The factory plastic grips feel cheap to me. I can also feel a little grip movement when cocking, which detracts from the otherwise simple, purposeful design.
-
 ## Key Features and My Setup
 
 Crosman describes the 1701P as a **.177, single-shot, bolt-action PCP pistol** with a Lothar Walther barrel and a reversible bolt. Its listed overall length is 14.75 inches, with a product weight of 2.8 lb; that is a factory specification, not a weighing of my equipped pistol. See the [Crosman product specifications](https://www.crosman.com/product/crosman-1701p-silhouette-competition-pcp-air-pistol-177-caliber/).
 
-My photographed setup has wooden grip panels, a Williams adjustable rear sight, and the bolt handle on the left side. The exact grip maker and rear-sight model are **TBD**.
+My photographed setup has wooden grip panels, a Williams adjustable rear sight, and the bolt handle on the left side.
 
 ### Filling and the Pressure Gauge
 
-The fill connection sits beneath a removable cap at the front of the reservoir. The gauge is underneath the pistol rather than at the end of the tube.
+The fill connection sits beneath a removable cap at the front of the reservoir. I like the downward-facing pressure gauge: I can read it from underneath the pistol without putting my face in front of the muzzle. It is a thoughtful design detail.
 
 <div class="photo-pair">
 
@@ -53,11 +47,11 @@ In my tests, starting fills of roughly **2,225–2,500 psi** have worked well wi
 
 ## Grip, Ergonomics, and Balance
 
-The wooden grips have checkered panels and a pronounced ledge near the top. The photograph below places them beside the black synthetic panels, showing the difference in surface texture and construction.
+The wooden grips I fitted have checkered panels and a pronounced ledge near the top. The photograph below shows them on the pistol beside the original black plastic grip panels supplied from the factory.
 
-![Wooden grips fitted to the 1701P beside a pair of black synthetic grip panels](../../assets/1701p/1701p_grips.jpg)
+![My added wooden grips fitted to the 1701P beside the original factory black plastic grip panels](../../assets/1701p/1701p_grips.jpg)
 
-The factory plastic panels are one of my least favorite parts of the pistol. The grip panels use a single screw each, and I can feel a small amount of grip movement when cocking. I would prefer a more secure feel.
+**The factory plastic grips feel cheap to me**. I can also feel a little grip movement when cocking, which detracts from the otherwise simple, purposeful design. The grip panels use a single screw each; I would prefer a more secure feel.
 
 **TBD — personal fit:** Grip size and comfort, trigger reach, balance in a one-handed hold, fatigue during longer sessions, and whether the wooden panels improve on the synthetic ones for me.
 
@@ -73,6 +67,8 @@ Crosman specifies a **two-stage adjustable drop-sear trigger**. My close-up show
 
 ### Williams Rear Sight
 
+The 1701P **does not come with a rear sight from the factory**, as noted in the [Crosman manual](https://support.crosman.com/hc/en-us/article_attachments/201669374/1701P-515.pdf). I chose the [Crosman Williams rear sight](https://www.pyramydair.com/product/crosman-williams-rear-sight-notched-blade-elevation-windage-adj-3-8?a=2008) because I want to keep the pistol lightweight and plan to enter silhouette competitions using open sights.
+
 The Williams sight on mine has a plain rear notch, separate knurled adjustment knobs, and visible reference scales for elevation and windage.
 
 <div class="photo-pair">
@@ -82,8 +78,6 @@ The Williams sight on mine has a plain rear notch, separate knurled adjustment k
 ![Top view of the Williams rear sight showing its windage adjustment and mounting arrangement](../../assets/1701p/1701p_william_rear_sight_2.jpg)
 
 </div>
-
-The rear sight is an addition to the base pistol: the [Crosman manual](https://support.crosman.com/hc/en-us/article_attachments/201669374/1701P-515.pdf) states that one is not included and documents both Williams and LPA mounting options.
 
 ### Rotating Front Sight
 
@@ -97,7 +91,7 @@ The front blade can rotate to change its apparent width in the rear notch. The s
 
 </div>
 
-The second photograph also records the three dimples on the housing. Their purpose has not been confirmed for this draft.
+I investigated the three small recesses on the front-sight housing by shining a flashlight into the muzzle opening. I could not see any light coming through them. Together with their shallow appearance in the photograph, this suggests they are **dimples rather than gas ports**, although the flashlight test alone is not conclusive. Their intended purpose remains unconfirmed.
 
 **TBD — sight picture:** My preferred blade width, visibility in my usual lighting, adjustment feel, and whether the sight holds its setting.
 
@@ -123,7 +117,7 @@ The 1701P is **very quiet to my ears**, and I find its noise level friendly to b
 
 ## Chronograph Results
 
-My Garmin session dated **October 7, 2026** records **72 shots** with the projectile labeled **JSB Exact 8.44gr**. The device screen and app summary agree on the figures below.
+My Garmin session records **72 shots** with the projectile labeled **JSB Exact 8.44gr**. The device screen and app summary agree on the figures below.
 
 | Measurement | Session result |
 | --- | --- |
@@ -143,39 +137,22 @@ My Garmin session dated **October 7, 2026** records **72 shots** with the projec
 
 </div>
 
-The second screenshot displays **shots 14–43, a 30-shot portion of the session**, rather than the full string. That visible portion sits mostly around the mid-440s to mid-450s fps. The selected point is shot 21 at 445.4 fps. The table beneath the chart also shows the first two readings, 429.1 and 433.9 fps.
+For my use, the more useful result is the roughly **32–34 shots around 445–455 fps** that I get with JSB Exact 8.44-grain pellets when starting at **right above 2,250 psi** and ending at **1750 psi**. I identified shots 21–52 inclusive — 32 shots — as a consistent run in my testing. Around 32 consistent shots from one fill feels like plenty to me.
 
-### The Useful Shot String
+| Shot # | Air pressure | Velocity |
+| --- | --- | --- |
+| 21 | 2250+ psi | 445.4 fps |
+| 36 | 2000 psi | 456.7 fps |
+| 52 | 1750 psi | 445.8 fps |
 
-For my use, the more useful result is the roughly **32–34 shots around 445–455 fps** that I get with JSB Exact 8.44-grain pellets when starting at about **2,225–2,500 psi**. I identified **shots 21–52 inclusive — 32 shots —** as a consistent run in my testing. Around 32 consistent shots from one fill feels like plenty to me.
-
-These pressure and velocity ranges summarize my testing notes. The supplied chart view ends at shot 43, so it does not show all of the reported 21–52 run. Its visible peak of 456.7 fps also means **445–455 fps is an approximate description**, not a strict cutoff verified for every shot. The complete readings are needed to calculate that subset's exact average, spread, and SD.
-
-The **72-shot session summary** above includes a wider range of velocities, with a full-session spread of approximately **7.8% of the average**. It should be read separately from my useful-shot count per fill.
-
-The SD above is transcribed from Garmin; the screenshots do not identify whether it uses a sample or population calculation. Energy is left unreported because the app displays no energy result; an estimate from pellet weight and average velocity would be a separate calculation.
-
-**TBD — test conditions:** Exact starting and ending pressures for the pictured 72-shot session, whether any refill or setting change occurred within it, temperature, chronograph placement, and any excluded readings.
-
-## Accuracy
-
-In my shooting, the 1701P has been **very accurate with the setup that works well for me**: JSB Exact 8.44-grain pellets and the fill range described above. That is my firsthand impression from shooting it; the chronograph numbers describe velocity consistency separately.
-
-**TBD — measured target results:** Distance, shooting position, target photographs, and group measurements are still to be added. I have not documented a comparison with other pellets here.
-
-The accuracy update should record distance, shooting position and support, pellet model and weight, shots per group, and center-to-center group size. Several groups with each pellet or setup will make the comparison more useful than a single best target.
-
-## Ownership and Value
-
-The setup includes more than the pistol itself: the rear sight, wooden grips, and a source of compressed air all belong in the ownership picture.
-
-**TBD — ownership notes:** Reliability, pressure retention during storage, maintenance so far, and any accessory costs worth including. A value comparison with my other pistols should explain what the 1701P adds to my shooting, once those impressions are recorded.
+PS, tested multiple times all got very close conclusions.
 
 ## My Verdict So Far
 
 ### What I Like
 
 - **Simple shape.** The clean, uncomplicated profile appeals to me.
+- **Downward-facing pressure gauge.** I can read it from underneath the pistol without putting my face in front of the muzzle.
 - **Quiet shooting.** Its report is very quiet to my ears and suits my backyard setup.
 - **Accuracy with my preferred setup.** I am pleased with how it shoots using JSB Exact 8.44-grain pellets in the pressure range that has worked well for me.
 - **Useful shot count.** Roughly 32 consistent shots from one fill gives me plenty of shooting between refills.
@@ -184,6 +161,7 @@ The setup includes more than the pistol itself: the rear sight, wooden grips, an
 
 - **Loading needs care.** I have to guide the pellet head into the barrel entrance to keep it from catching in the breech.
 - **Factory grip material.** The plastic panels feel cheap to me.
-- **Slight grip movement.** With the single-screw panel mounting, I can feel a little movement when cocking.
+- **Slight grip movement.** With the single-screw panel mounting, I can feel a little movement when cocking. I would prefer a second screw on each panel for a firmer fit.
+- **Coarse pressure-gauge markings.** There are no intermediate marks between 2,000 and 2,500 psi, making it difficult to read the pressure precisely.
 
 So far, the quiet report and useful run of consistent shots are the strongest practical positives for me. Loading and grip security are the main annoyances. I will add more impressions as I spend more time with the pistol, along with measured target results and a fuller account of the trigger and balance.
