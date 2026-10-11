@@ -11,7 +11,7 @@ heroImage: '../../assets/1701p/1701p_hero.jpg'
 
 The [Crosman 1701P Silhouette](https://www.crosman.com/product/crosman-1701p-silhouette-competition-pcp-air-pistol-177-caliber/) is a PCP air pistol designed for silhouette competition shooting. It has a long, slim profile: an exposed barrel above the air reservoir, a compact grip below, and a bolt at the back of the breech. It comes from the factory with black plastic grips and no rear sight. I added the checkered wooden grips and Williams rear sight shown in my photos.
 
-What I like most is its **simple shape, very quiet report, and accuracy with the setup that works well for me**. With JSB Exact 8.44-grain pellets and a starting fill of roughly **2,225–2,500 psi**, my tests have given me about **32–34 shots around 445–455 fps**. Getting roughly 32 consistent shots from one fill is a real positive for me. Loading takes care, though, and the grip is one area I would improve.
+What I like most is its **simple shape, very quiet report, and accuracy with the setup that works well for me**. With JSB Exact 8.44-grain pellets and a starting fill of roughly **2,250–2,500 psi**, my tests have given me about **32–34 shots around 445–455 fps**. Getting roughly 32 consistent shots from one fill is a real positive for me. Loading takes care, though, and the grip is one area I would improve.
 
 ## Appearance and Build
 
@@ -41,7 +41,7 @@ The fill connection sits beneath a removable cap at the front of the reservoir. 
 
 The [owner's manual](https://support.crosman.com/hc/en-us/article_attachments/201669374/1701P-515.pdf) specifies a **3,000 psi maximum fill pressure** and a Foster #12FS or #12FSS quick-disconnect connection. The appropriate working fill depends on the pistol's tune. The gauge photograph is a separate detail view, not a record of the chronograph session's starting pressure.
 
-In my tests, starting fills of roughly **2,225–2,500 psi** have worked well with JSB Exact 8.44-grain pellets, giving about **32–34 consistent shots around 445–455 fps**. These are my results with this pistol and setup.
+In my tests, starting fills of roughly **2,250–2,500 psi** have worked well with JSB Exact 8.44-grain pellets, giving about **32–34 consistent shots around 445–455 fps**. These are my results with this pistol and setup.
 
 **TBD — filling details:** My pump or tank setup and the pressure at the end of the useful string.
 
@@ -97,9 +97,11 @@ I investigated the three small recesses on the front-sight housing by shining a 
 
 ## Loading and Shooting Experience
 
-The open breech exposes the loading trough and pellet probe. **Loading needs attention:** I have to guide the pellet head into the barrel entrance so it does not get caught in the breech when I close the bolt. It is a small detail, but one I need to get right on every shot.
+The open breech exposes the loading trough and pellet probe. **Loading needs attention:** if the pellet is not properly aligned with the barrel entrance, it sometimes catches in the breech instead of feeding smoothly.
 
-![Open 1701P loading port showing the pellet trough and bolt probe](../../assets/1701p/1701p_loading_port.jpg)
+The photo below shows a loading failure I have encountered. When this happens, I have to guide the pellet head into the barrel entrance by hand, then push the bolt forward to seat the rest of the pellet. It is a small but recurring inconvenience that makes careful pellet alignment important.
+
+![Misaligned pellet caught at the barrel entrance in the Crosman 1701P breech](../../assets/1701p/1701p_loading_failure.jpg)
 
 The manual crossbolt safety sits just behind the trigger. These two photographs show its two positions; the exposed red ring indicates **off safe**, according to the [owner's manual](https://support.crosman.com/hc/en-us/article_attachments/201669374/1701P-515.pdf).
 
@@ -117,9 +119,15 @@ The 1701P is **very quiet to my ears**, and I find its noise level friendly to b
 
 ## Chronograph Results
 
-My Garmin session records **72 shots** with the projectile labeled **JSB Exact 8.44gr**. The device screen and app summary agree on the figures below.
+**The result that matters most to me is the consistent 32-shot run within this session: shots 21–52.** The first table summarizes all 72 shots; the [second table](#the-useful-result-32-consistent-shots) focuses on the useful pressure range and selected readings from that run.
 
-| Measurement | Session result |
+### Full Session: All 72 Shots
+
+My Garmin session records **72 shots** (starting from cold barrel) with the projectile labeled **JSB Exact 8.44gr**. These figures include shots outside the consistent run, so they describe the whole session rather than the consistency of shots 21–52 alone.
+
+<div class="spec-comparison chrono-table" role="region" aria-label="Full chronograph session: all 72 shots" tabindex="0">
+
+| Measurement | Full 72-shot session |
 | --- | --- |
 | Pellet | JSB Exact, 8.44 grains, .177 |
 | Recorded shots | 72 |
@@ -129,6 +137,8 @@ My Garmin session records **72 shots** with the projectile labeled **JSB Exact 8
 | Extreme spread | 34.5 fps |
 | Standard deviation | 8.4 fps, as reported by Garmin |
 
+</div>
+
 <div class="photo-pair">
 
 ![Garmin summary of 72 shots with JSB Exact 8.44-grain pellets, averaging 444.2 fps](../../assets/1701p/1701p_chrono_1.png)
@@ -137,15 +147,23 @@ My Garmin session records **72 shots** with the projectile labeled **JSB Exact 8
 
 </div>
 
-For my use, the more useful result is the roughly **32–34 shots around 445–455 fps** that I get with JSB Exact 8.44-grain pellets when starting at **right above 2,250 psi** and ending at **1750 psi**. I identified shots 21–52 inclusive — 32 shots — as a consistent run in my testing. Around 32 consistent shots from one fill feels like plenty to me.
+### The Useful Result: 32 Consistent Shots
 
-| Shot # | Air pressure | Velocity |
+**Shots 21–52 inclusive give me 32 consistent shots from one fill**, starting just above **2,250 psi** and ending at about **1,750 psi** with JSB Exact 8.44-grain pellets. This is the part of the session I find most useful for planning my shooting and refills.
+
+The table below shows **three checkpoints within that 32-shot run**, not the full shot-by-shot record. Pressures are approximate gauge readings.
+
+<div class="spec-comparison chrono-table chrono-shot-table" role="region" aria-label="Checkpoints in the consistent 32-shot run, shots 21 through 52" tabindex="0">
+
+| Shot in session | Approx. air pressure | Velocity |
 | --- | --- | --- |
-| 21 | 2250+ psi | 445.4 fps |
-| 36 | 2000 psi | 456.7 fps |
-| 52 | 1750 psi | 445.8 fps |
+| 21 — start | Just above 2,250 psi | 445.4 fps |
+| 36 | 2,000 psi | 456.7 fps |
+| 52 — end | 1,750 psi | 445.8 fps |
 
-PS, tested multiple times all got very close conclusions.
+</div>
+
+Repeated tests have given me similar results: roughly **32–34 useful shots per fill**. Around 32 consistent shots feels like plenty to me.
 
 ## My Verdict So Far
 
@@ -159,7 +177,7 @@ PS, tested multiple times all got very close conclusions.
 
 ### What I Don't Like
 
-- **Loading needs care.** I have to guide the pellet head into the barrel entrance to keep it from catching in the breech.
+- **Pellets sometimes catch during loading.** If a pellet is misaligned, it can get stuck in the breech. I then have to guide the pellet head into the barrel entrance by hand before pushing the bolt forward to seat it fully.
 - **Factory grip material.** The plastic panels feel cheap to me.
 - **Slight grip movement.** With the single-screw panel mounting, I can feel a little movement when cocking. I would prefer a second screw on each panel for a firmer fit.
 - **Coarse pressure-gauge markings.** There are no intermediate marks between 2,000 and 2,500 psi, making it difficult to read the pressure precisely.

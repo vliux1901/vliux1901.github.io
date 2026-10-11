@@ -236,6 +236,9 @@ hr {
 .prose .chrono-table :is(th, td):first-child {
 	width: 45%;
 }
+.prose .chrono-shot-table :is(th, td):first-child {
+	width: 30%;
+}
 
 /* Show source rows 434–1724, retaining a small margin around all numbered parts. */
 .prose .exploded-diagram-crop {
