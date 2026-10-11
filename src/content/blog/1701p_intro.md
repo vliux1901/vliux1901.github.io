@@ -29,7 +29,9 @@ My photographed setup has wooden grip panels, a Williams adjustable rear sight, 
 
 ### Filling and the Pressure Gauge
 
-The fill connection sits beneath a removable cap at the front of the reservoir. I like the downward-facing pressure gauge: I can read it from underneath the pistol without putting my face in front of the muzzle. It is a thoughtful design detail.
+The fill connection sits beneath a removable cap at the front of the reservoir. **I like how easily it connects to my air pump:** the female quick-disconnect (QD) connector on my pump hose fits directly onto the pistol's fill port, with no extra adapter needed.
+
+I also like the downward-facing pressure gauge: I can read it from underneath the pistol without putting my face in front of the muzzle. It is a thoughtful design detail.
 
 <div class="photo-pair">
 
@@ -41,9 +43,9 @@ The fill connection sits beneath a removable cap at the front of the reservoir. 
 
 The [owner's manual](https://support.crosman.com/hc/en-us/article_attachments/201669374/1701P-515.pdf) specifies a **3,000 psi maximum fill pressure** and a Foster #12FS or #12FSS quick-disconnect connection. The appropriate working fill depends on the pistol's tune. The gauge photograph is a separate detail view, not a record of the chronograph session's starting pressure.
 
-In my tests, starting fills of roughly **2,250–2,500 psi** have worked well with JSB Exact 8.44-grain pellets, giving about **32–34 consistent shots around 445–455 fps**. These are my results with this pistol and setup.
+With the pistol's relatively small reservoir, **fill slowly when using a large air tank** and watch the pressure closely. Crosman's manual also instructs tank users to open the valve slowly: rapid filling generates heat that can affect the pressure reading.
 
-**TBD — filling details:** My pump or tank setup and the pressure at the end of the useful string.
+In my tests, starting fills of roughly **2,250–2,500 psi** have worked well with JSB Exact 8.44-grain pellets, giving about **32–34 consistent shots around 445–455 fps**. These are my results with this pistol and setup.
 
 ## Grip, Ergonomics, and Balance
 
