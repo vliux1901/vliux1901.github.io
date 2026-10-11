@@ -1,7 +1,7 @@
 ---
 import { Image } from 'astro:assets';
 import RotatedHero from '../components/RotatedHero.astro';
-import { getCollection } from 'astro:content';
+import { getBlogPosts } from '../lib/blog';
 import BaseHead from '../components/BaseHead.astro';
 import BlogTagNavigation from '../components/BlogTagNavigation.astro';
 import Footer from '../components/Footer.astro';
@@ -10,7 +10,7 @@ import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 import { BLOG_TAGS } from '../tags';
 
-const posts = (await getCollection('blog')).sort(
+const posts = (await getBlogPosts()).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 const tagCounts = BLOG_TAGS.map((tag) => ({
@@ -123,7 +123,7 @@ const tagCounts = BLOG_TAGS.map((tag) => ({
 											? <RotatedHero src={post.data.heroImage} width={720} />
 											: <Image width={720} height={360} src={post.data.heroImage} alt="" />
 									)}
-									<h4 class="title">{post.data.title}</h4>
+									<h4 class="title">{post.data.title}{post.data.draft && <span> (Draft)</span>}</h4>
 									<p class="date">
 										<FormattedDate date={post.data.pubDate} />
 									</p>

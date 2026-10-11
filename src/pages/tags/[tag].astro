@@ -1,5 +1,6 @@
 ---
-import { type CollectionEntry, getCollection } from 'astro:content';
+import { type CollectionEntry } from 'astro:content';
+import { getBlogPosts } from '../../lib/blog';
 import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
@@ -8,7 +9,7 @@ import { SITE_TITLE } from '../../consts';
 import { type BlogTag, BLOG_TAGS, TAG_DESCRIPTIONS, tagSlug } from '../../tags';
 
 export async function getStaticPaths() {
-	const posts = (await getCollection('blog')).sort(
+	const posts = (await getBlogPosts()).sort(
 		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 	);
 	return BLOG_TAGS.flatMap((tag) => {
@@ -45,7 +46,7 @@ const description = TAG_DESCRIPTIONS[tag];
 				{posts.map((post) => (
 					<li>
 						<article>
-							<h2><a href={`/blog/${post.id}/`}>{post.data.title}</a></h2>
+							<h2><a href={`/blog/${post.id}/`}>{post.data.title}{post.data.draft && <span> (Draft)</span>}</a></h2>
 							<div class="date"><FormattedDate date={post.data.pubDate} /></div>
 							<p>{post.data.description}</p>
 						</article>

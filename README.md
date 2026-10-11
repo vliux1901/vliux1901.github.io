@@ -58,6 +58,26 @@ All commands are run from the root of the project, from a terminal:
 
 Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
 
+## Draft blog posts
+
+Add `draft: true` to a post's frontmatter while it is a work in progress:
+
+```yaml
+---
+title: 'My next review'
+draft: true
+# Other required frontmatter goes here.
+---
+```
+
+- `npm run dev` includes drafts in post pages, the home listing, tag pages, and the local RSS feed. Drafts are labeled on pages and listings. To run in the background, use `npm run dev -- --background`.
+- `npm run build` excludes drafts from post routes, listings, tag counts/pages, RSS, and the generated sitemap. `npm run preview` shows this production build, so drafts are hidden there too. GitHub Pages uses this same build command.
+- To publish, change the flag to `draft: false` or remove it, then commit and push. Posts without the flag remain published by default.
+
+Use `getBlogPosts()` from `src/lib/blog.ts` for any new blog listing, route, or feed so it follows the same rule. This follows [Astro's collection filtering approach](https://docs.astro.build/en/guides/content-collections/#filtering-collection-queries).
+
+Commit and push draft Markdown/MDX files and their reviewed assets to back them up remotely. This flag controls article visibility, not privacy: draft source remains readable in a public GitHub repository, and Astro may still copy referenced draft images into the build output. Files under `tmp/`, including raw photo originals, are ignored and need a separate backup.
+
 ## Batch image compression
 
 Put images under `tmp/raw_images/`, then run:

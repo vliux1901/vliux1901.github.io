@@ -12,7 +12,7 @@ import Header from '../components/Header.astro';
 
 type Props = CollectionEntry<'blog'>['data'] & { headings: MarkdownHeading[] };
 
-const { title, description, pubDate, updatedDate, heroImage, headings, tags, heroRotateCounterclockwise } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, headings, tags, heroRotateCounterclockwise, draft } = Astro.props;
 // Keep the title anchor distinct from any Markdown heading slug.
 let titleId = 'post-title';
 while (headings.some((heading) => heading.slug === titleId)) titleId += '-title';
@@ -112,6 +112,7 @@ const navigation = [{ depth: 1, slug: titleId, text: title }, ...headings.filter
 								}
 							</div>
 							<h1 id={titleId}>{title}</h1>
+							{draft && <p><strong>Draft — local preview only</strong></p>}
 							<PostTags tags={tags} centered />
 							<hr />
 						</div>

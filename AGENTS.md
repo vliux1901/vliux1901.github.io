@@ -4,6 +4,8 @@ For new airgun reviews and initial-impressions posts, use the `$airgun-blog` ski
 
 For focused maintenance or mechanism posts, apply only the relevant parts of the template. For edits to existing posts, preserve the current structure and voice unless restructuring is requested.
 
+Mark work-in-progress posts with `draft: true` in frontmatter. Drafts appear in `npm run dev` but are excluded from production builds, including GitHub Pages. Preserve draft status unless publishing is requested. Use `getBlogPosts()` from `src/lib/blog.ts` for all blog routes, listings, and feeds.
+
 ## Development
 
 When starting the dev server, use background mode:
