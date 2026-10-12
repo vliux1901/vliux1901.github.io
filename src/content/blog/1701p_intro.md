@@ -181,6 +181,7 @@ Repeated tests have given me similar results: roughly **32–34 useful shots per
 ### What I Like
 
 - **Clean shape.** The clean, uncomplicated profile appeals to me.
+- **Balance in hand.** (TBD)
 - **Accuracy with my preferred setup.** I am pleased with how it shoots using JSB Exact 8.44-grain pellets in the pressure range that has worked well for me.
 - **Quiet shooting.** Its report is very quiet to my ears and suits backyard setup.
 - **Useful shot count.** Roughly 32 consistent shots from one fill gives me plenty of shooting between refills.
@@ -188,9 +189,10 @@ Repeated tests have given me similar results: roughly **32–34 useful shots per
 
 ### What I Don't Like
 
+- **A little bit pricey without a rear sight.** (TBD)
+- **Coarse pressure-gauge markings.** There are no intermediate marks between every 500 psi, making it difficult to read the pressure precisely.
 - **Pellets sometimes catch during loading.** If a pellet is misaligned, it can get stuck in the breech. I then have to guide the pellet head into the barrel entrance by hand before pushing the bolt forward to seat it fully.
 - **Factory grip material.** The plastic panels feel cheap to me.
 - **Slight grip movement.** With the single-screw panel mounting, I can feel a little movement when cocking. I would prefer a second screw on each panel for a firmer fit.
-- **Coarse pressure-gauge markings.** There are no intermediate marks between every 500 psi, making it difficult to read the pressure precisely.
 
 So far, the quiet report and useful run of consistent shots are the strongest practical positives for me. Loading and grip security are the main but minimal annoyances. I will add more impressions as I spend more time with the pistol, along with measured target results and a fuller account of the trigger and balance.
