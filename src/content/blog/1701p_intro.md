@@ -2,30 +2,33 @@
 title: 'Crosman 1701P Owner Review'
 draft: true
 description: 'My Crosman 1701P owner review: simple styling, quiet shooting, about 32 consistent shots per fill, and the loading and grip details I would improve.'
-tags: ['1701P', 'Reviews']
+tags: ['1701P', 'Reviews', 'Silhouette', 'Air Pistol', 'PCP']
 pubDate: 'Oct 11 2026'
 heroImage: '../../assets/1701p/1701p_hero.jpg'
 ---
 
 ## A Brief Introduction
 
-The [Crosman 1701P Silhouette](https://www.crosman.com/product/crosman-1701p-silhouette-competition-pcp-air-pistol-177-caliber/) is a PCP air pistol designed for silhouette competition shooting. It has a long, slim profile: an exposed barrel above the air reservoir, a compact grip below, and a bolt at the back of the breech. It comes from the factory with black plastic grips and no rear sight. I added the checkered wooden grips and Williams rear sight shown in my photos.
-
-What I like most is its **simple shape, very quiet report, and accuracy with the setup that works well for me**. With JSB Exact 8.44-grain pellets and a starting fill of roughly **2,250–2,500 psi**, my tests have given me about **32–34 shots around 445–455 fps**. Getting roughly 32 consistent shots from one fill is a real positive for me. Loading takes care, though, and the grip is one area I would improve.
+The Crosman 1701P Silhouette is a PCP air pistol built for silhouette competition. Its **quiet report, accuracy with my preferred setup, and roughly 32 consistent shots per fill** make it enjoyable to shoot. The simple shape appeals to me, too. Loading can be fiddly, though, and the grips leave room for improvement—details that matter once I start shooting.
 
 ## Appearance and Build
 
-I like the 1701P's simple shape. Its two parallel tubes and angular breech give it a clean, uncomplicated profile. The barrel extends well forward of the hand, ending in a substantial front-sight housing. A pressure gauge projects below the reservoir, just ahead of the trigger guard.
+The slim barrel, exposed reservoir, and angular breech give the 1701P a clean, purposeful look. Fine machining lines and a silver-colored trigger add detail, while my wooden grips bring some warmth to the dark metalwork.
 
 ![Side profile of the Crosman 1701P showing the exposed barrel, air reservoir, wooden grip, and Williams rear sight](../../assets/1701p/1701p_hero_3.jpg)
 
-The close-ups show the different surface finishes clearly: fine machining lines on the breech and sight housing, a textured reservoir, and the curved silver-colored trigger against the dark frame. The wooden grips provide the strongest visual contrast.
-
 ## Key Features and My Setup
 
-Crosman describes the 1701P as a **.177, single-shot, bolt-action PCP pistol** with a Lothar Walther barrel and a reversible bolt. Its listed overall length is 14.75 inches, with a product weight of 2.8 lb; that is a factory specification, not a weighing of my equipped pistol. See the [Crosman product specifications](https://www.crosman.com/product/crosman-1701p-silhouette-competition-pcp-air-pistol-177-caliber/).
+Crosman describes the 1701P as a **.177, single-shot, bolt-action PCP pistol** with a reversible bolt. Its published length is 14.75 inches and factory weight is 2.8 lb; I have not weighed my equipped pistol.
 
-My photographed setup has wooden grip panels, a Williams adjustable rear sight, and the bolt handle on the left side.
+The **Lothar Walther barrel is a key factory feature for accuracy**. [Crosman describes the German-made precision barrel as providing consistent accuracy](https://www.crosman.com/product/crosman-1701p-silhouette-competition-pcp-air-pistol-177-caliber/)—a useful strength when aiming at small silhouette targets. My measured target groups are still to come.
+
+I made two changes to the factory setup:
+
+- **[Wooden grips](#grip-ergonomics-and-balance):** I replaced the original black plastic panels with the checkered wooden grips shown in my photos.
+- **[Williams rear sight](#williams-rear-sight):** The pistol comes without a rear sight. I added the Williams adjustable sight to keep the setup lightweight for open-sight silhouette competition.
+
+My photographed setup also has the bolt handle on the left side.
 
 ### Filling and the Pressure Gauge
 
@@ -53,9 +56,11 @@ The wooden grips I fitted have checkered panels and a pronounced ledge near the 
 
 ![My added wooden grips fitted to the 1701P beside the original factory black plastic grip panels](../../assets/1701p/1701p_grips.jpg)
 
-**The factory plastic grips feel cheap to me**. I can also feel a little grip movement when cocking, which detracts from the otherwise simple, purposeful design. The grip panels use a single screw each; I would prefer a more secure feel.
+**The factory plastic grips feel cheap to me**. I can also feel a little **grip movement when cocking**, which detracts from the otherwise simple, purposeful design. The grip panels use a single screw each; I would prefer a more secure feel.
 
-**TBD — personal fit:** Grip size and comfort, trigger reach, balance in a one-handed hold, fatigue during longer sessions, and whether the wooden panels improve on the synthetic ones for me.
+The grip feels comfortable in my hand, but it is a little thin and offers limited support at the base of my hand. **For one-handed shooting, I would like more support.** For silhouette matches, I would therefore prefer to use a two-handed hold.
+
+**The pistol feels very well balanced.** Most of the weight feels concentrated near the grip, with only a barely noticeable forward bias.
 
 ## Trigger and Sights
 
