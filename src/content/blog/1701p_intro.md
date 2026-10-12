@@ -100,9 +100,17 @@ The front blade can rotate to change its apparent width in the rear notch. The s
 
 </div>
 
-I investigated the three small recesses on the front-sight housing by shining a flashlight into the muzzle opening. I could not see any light coming through them. Together with their shallow appearance in the photograph, this suggests they are **dimples rather than gas ports**, although the flashlight test alone is not conclusive. Their intended purpose remains unconfirmed.
+> **P.S.** I shone a flashlight into the muzzle opening and saw no light through the three small recesses on the front-sight housing. Their shallow appearance also suggests **dimples rather than gas ports**, though this test is not conclusive. Their purpose remains unconfirmed.
 
-**TBD — sight picture:** My preferred blade width, visibility in my usual lighting, adjustment feel, and whether the sight holds its setting.
+### Sight Picture and Aiming
+
+**The sight picture is clear and easy to aim with.** I like the clean, plain front sight paired with the Williams rear sight for target shooting.
+
+![Sight picture through the Williams rear notch toward the plain front blade on my Crosman 1701P](../../assets/1701p/1701p_sight_picture.jpg)
+
+However, **the rear notch feels a little narrow to me**. For a rear sight costing me about $90 extra, I would expect adjustable notch width so I could tailor the sight picture to my preference.
+
+So far the sight holds its setting quite well. I will give update if I notice any issue over time.
 
 ## Loading and Shooting Experience
 
