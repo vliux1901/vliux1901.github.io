@@ -66,11 +66,13 @@ The grip feels comfortable in my hand, but it is a little thin and offers limite
 
 ### Trigger
 
-Crosman specifies a **two-stage adjustable drop-sear trigger**. My close-up shows the curved blade and the adjustment hardware around the trigger guard. That describes the hardware; the feel of the stages and release still needs my firsthand account. [Crosman trigger description](https://www.crosman.com/product/crosman-1701p-silhouette-competition-pcp-air-pistol-177-caliber/).
+Crosman specifies a **two-stage adjustable drop-sear trigger**. My close-up shows the curved blade and the adjustment hardware around the trigger guard. [Crosman trigger description](https://www.crosman.com/product/crosman-1701p-silhouette-competition-pcp-air-pistol-177-caliber/).
 
 ![Curved trigger blade and adjustment hardware on the Crosman 1701P](../../assets/1701p/1701p_trigger.jpg)
 
-**TBD — trigger impressions:** First-stage travel, second-stage definition, creep, break, overtravel, and reset. Measured pull weight and any changes from the received setting are also pending.
+At the factory setting, the **pull feels quite light to me**. The **first stage is short**, followed by a clear wall marking the second stage. A little more pull fires the pistol, with **very little second-stage travel**, similar to my [HW45](/blog/hw45_intro/) and [HW75](/blog/hw75_intro/). Although the wall is easy to feel, the release is not quite as crisp as either Weihrauch's trigger to me. But overall it's a good trigger that contributes to the accuracy.
+
+The **overtravel screw in the trigger guard** acts as an adjustable stop, limiting how far the trigger continues moving after the shot releases. It lets the shooter reduce excess movement after the break for a more controlled follow-through. Crosman explains its purpose in [section 9E of the owner's manual](https://support.crosman.com/hc/en-us/article_attachments/201669374/1701P-515.pdf#page=7).
 
 ### Williams Rear Sight
 
