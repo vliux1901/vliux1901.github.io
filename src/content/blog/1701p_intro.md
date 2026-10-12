@@ -1,6 +1,5 @@
 ---
 title: 'Crosman 1701P Owner Review'
-draft: true
 description: 'My Crosman 1701P owner review: simple styling, quiet shooting, about 32 consistent shots per fill, and the loading and grip details I would improve.'
 tags: ['1701P', 'Reviews', 'Silhouette', 'Air Pistol', 'PCP']
 pubDate: 'Oct 11 2026'
@@ -10,6 +9,8 @@ heroImage: '../../assets/1701p/1701p_hero.jpg'
 ## A Brief Introduction
 
 The Crosman 1701P Silhouette is a PCP air pistol built for silhouette competition. Its **quiet report, accuracy with my preferred setup, and roughly 32 consistent shots per fill** make it enjoyable to shoot. The simple shape appeals to me, too. Loading can be fiddly, though, and the grips leave room for improvement—details that matter once I start shooting.
+
+**In a hurry?** [Jump to my verdict: what I like and what I don't like.](#my-verdict-so-far)
 
 ## Appearance and Build
 
@@ -42,9 +43,9 @@ I also like the **downward-facing pressure gauge**: I can read it from underneat
 
 </div>
 
-With the pistol's relatively small reservoir, **fill slowly when using a large air tank** and watch the pressure closely. On the other hand, rapid filling generates heat that can affect the pressure reading.
+With the pistol's relatively small reservoir, **fill slowly when using a large air tank** and watch the pressure closely. Rapid filling generates heat that can affect the pressure reading.
 
-In my tests, starting fills right above 2,250 psi have worked well with JSB Exact 8.44-grain pellets, giving about 32–34 consistent shots around 445–455 fps. See chapter [Chronograph Results](#chronograph-results).
+In my tests, starting fills just above 2,250 psi have worked well with JSB Exact 8.44-grain pellets, giving about 32–34 useful shots per fill. The recorded checkpoints range from 445.4 to 456.7 fps; see [Chronograph Results](#chronograph-results).
 
 ## Grip, Ergonomics, and Balance
 
@@ -52,7 +53,7 @@ The wooden grips I fitted have checkered panels and a pronounced ledge near the 
 
 ![My added wooden grips fitted to the 1701P beside the original factory black plastic grip panels](../../assets/1701p/1701p_grips.jpg)
 
-**The factory plastic grips feel cheap to me**. I can also feel a little **grip panel movement when cocking**. That's probably because the grip panels are thin and use a single screw each; I would prefer a more secure feel. I suggest to replace them with more solid aftermarket grips.
+**The factory plastic grips feel cheap to me**. I can also feel a little **grip panel movement when cocking**. The thin panels and single-screw mounting may contribute, though I have not confirmed the cause. I would prefer a more secure feel and suggest considering more solid aftermarket grips.
 
 The grip feels comfortable in my hand. But for one-handed shooting, it might be a little thin and offers limited support at the base of my hand. For silhouette matches, I would therefore **prefer to use a two-handed hold**.
 
@@ -106,7 +107,7 @@ The sight picture is **clear and easy to aim with.** I like the clean, plain fro
 
 However, **the rear notch feels a little narrow to me**. For a rear sight costing me about $90+ extra, I would expect adjustable notch width so I could tailor the sight picture to my preference.
 
-So far the sight holds its setting quite well. I will give update if I notice any issue over time.
+So far the sight holds its setting quite well. I will update this review if I notice any issues over time.
 
 ## Loading and Shooting Experience
 
@@ -126,7 +127,7 @@ The manual crossbolt safety sits just behind the trigger. These two photographs 
 
 </div>
 
-Shooting is very comfortable. The pistol feels **light to hold**, and I have not found holding it tiring during my sessions (72 shoots). I feel almost **no recoil**, and it shoots **very accurately** for me with [my preferred setup](#chronograph-results). It is also **very quiet**, probably one of the quietest airguns I own (on par with FAS 6004). That noise assessment is a personal impression, not a sound-level measurement yet.
+Shooting is very comfortable. The pistol feels **light to hold**, and I have not found holding it tiring, including during my 72-shot session. I feel almost **no recoil**, and I am pleased with its accuracy using [my preferred setup](#key-features-and-my-setup). It is also **very quiet**, probably one of the quietest airguns I own (on par with FAS 6004). That noise assessment is a personal impression, not a sound-level measurement yet.
 
 ## Chronograph Results
 
@@ -134,7 +135,7 @@ The result that matters most to me is the **consistent 32-shot run within this s
 
 ### Full Session: All 72 Shots
 
-My Garmin session records **72 shots** (starting from cold barrel) with JSB Exact 8.44gr pellets. These figures include shots outside the consistent run, so they describe the whole session rather than the consistency of shots 21–52 alone.
+My Garmin session records **72 shots**, starting with a cold barrel, with JSB Exact pellets of nominal 8.44-grain weight. These figures are copied from Garmin and include shots outside the consistent run, so they describe the whole session rather than the consistency of shots 21–52 alone.
 
 <div class="spec-comparison chrono-table" role="region" aria-label="Full chronograph session: all 72 shots" tabindex="0">
 
@@ -162,7 +163,7 @@ My Garmin session records **72 shots** (starting from cold barrel) with JSB Exac
 
 **Shots 21–52 inclusive give me 32 consistent shots from one fill**, starting just above **2,250 psi** and ending at about **1,750 psi** with JSB Exact 8.44-grain pellets. This is the part of the session I find most useful for planning my shooting and refills.
 
-The table below shows three checkpoints within that 32-shot run. Pressures are approximate gauge readings.
+The table below shows three checkpoints within that 32-shot run. Pressures are approximate gauge readings. The screenshots do not show every shot in this interval, so these checkpoints are not a complete min–max or standard-deviation calculation for the subset. Here, “useful” describes the pressure range that has worked well for me, rather than a formally tested velocity cutoff.
 
 <div class="spec-comparison chrono-table chrono-shot-table" role="region" aria-label="Checkpoints in the consistent 32-shot run, shots 21 through 52" tabindex="0">
 
@@ -181,18 +182,18 @@ Repeated tests have given me similar results: roughly **32–34 useful shots per
 ### What I Like
 
 - **Clean shape.** The clean, uncomplicated profile appeals to me.
-- **Balance in hand.** (TBD)
+- **Balance in hand.** Most of the weight feels concentrated near the grip, with only a slight forward bias. It feels comfortable to hold, and I have not found it tiring during my shooting sessions.
 - **Accuracy with my preferred setup.** I am pleased with how it shoots using JSB Exact 8.44-grain pellets in the pressure range that has worked well for me.
-- **Quiet shooting.** Its report is very quiet to my ears and suits backyard setup.
+- **Quiet shooting.** Its report is very quiet to my ears.
 - **Useful shot count.** Roughly 32 consistent shots from one fill gives me plenty of shooting between refills.
 - **Downward-facing pressure gauge.** I can read it from underneath the pistol without putting my face in front of the muzzle.
 
 ### What I Don't Like
 
-- **A little bit pricey without a rear sight.** (TBD)
+- **A little pricey without a rear sight.** Having to buy a rear sight separately makes the complete setup feel a little expensive to me.
 - **Coarse pressure-gauge markings.** There are no intermediate marks between every 500 psi, making it difficult to read the pressure precisely.
 - **Pellets sometimes catch during loading.** If a pellet is misaligned, it can get stuck in the breech. I then have to guide the pellet head into the barrel entrance by hand before pushing the bolt forward to seat it fully.
 - **Factory grip material.** The plastic panels feel cheap to me.
 - **Slight grip movement.** With the single-screw panel mounting, I can feel a little movement when cocking. I would prefer a second screw on each panel for a firmer fit.
 
-So far, the quiet report and useful run of consistent shots are the strongest practical positives for me. Loading and grip security are the main but minimal annoyances. I will add more impressions as I spend more time with the pistol, along with measured target results and a fuller account of the trigger and balance.
+So far, the quiet report, comfortable balance, and useful run of consistent shots are the strongest practical positives for me. Loading and grip security are minor annoyances, while the separate rear sight adds to the overall cost. I will add measured target results and longer-term impressions as I spend more time with the pistol.
