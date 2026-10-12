@@ -106,7 +106,7 @@ I investigated the three small recesses on the front-sight housing by shining a 
 
 ## Loading and Shooting Experience
 
-The open breech exposes the loading trough and pellet probe. **Loading needs attention:** if the pellet is not properly aligned with the barrel entrance, it sometimes catches in the breech instead of feeding smoothly.
+**Loading is mostly smooth, and the bolt moves very smoothly.** Occasionally, a pellet that is not properly aligned with the barrel entrance catches in the breech instead of feeding cleanly.
 
 The photo below shows a loading failure I have encountered. When this happens, I have to guide the pellet head into the barrel entrance by hand, then push the bolt forward to seat the rest of the pellet. It is a small but recurring inconvenience that makes careful pellet alignment important.
 
@@ -122,9 +122,7 @@ The manual crossbolt safety sits just behind the trigger. These two photographs 
 
 </div>
 
-The 1701P is **very quiet to my ears**, and I find its noise level friendly to backyard shooting in my setup. That is a personal impression, not a sound-level measurement.
-
-**TBD — further shooting impressions:** Bolt effort, shooting rhythm, and movement on firing.
+**Shooting is very comfortable.** The pistol feels light to hold, and I have not found holding it tiring during my sessions (72 shoots). I feel almost no recoil, and it shoots very accurately for me with [my preferred setup](#chronograph-results). It is also **very quiet to my ears**, with a report that suits backyard shooting. That noise assessment is a personal impression, not a sound-level measurement.
 
 ## Chronograph Results
 
