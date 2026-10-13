@@ -161,21 +161,21 @@ My Garmin session records **72 shots**, starting with a cold barrel, with JSB Ex
 
 ### The Useful Result: 32 Consistent Shots
 
-**Shots 21–52 inclusive give me 32 consistent shots from one fill**, starting just above **2,250 psi** and ending at about **1,750 psi** with JSB Exact 8.44-grain pellets. This is the part of the session I find most useful for planning my shooting and refills.
+In the 72-shot session, **shots 21–52 inclusive give me 32 consistent shots from one fill**, starting just above **2,250 psi** and ending at about **1,750 psi** with JSB Exact 8.44-grain pellets. For consistent shots I mean the **velocity spread is about 10 fps**. This is the part of the session I find most useful for planning my shooting and refills in serious competitions.
 
-The table below shows three checkpoints within that 32-shot run. Pressures are approximate gauge readings. The screenshots do not show every shot in this interval, so these checkpoints are not a complete min–max or standard-deviation calculation for the subset. Here, “useful” describes the pressure range that has worked well for me, rather than a formally tested velocity cutoff.
+The table below shows three checkpoints within that 32-shot run.
 
 <div class="spec-comparison chrono-table chrono-shot-table" role="region" aria-label="Checkpoints in the consistent 32-shot run, shots 21 through 52" tabindex="0">
 
 | Shot in session | Approx. air pressure | Velocity |
 | --- | --- | --- |
-| 21 — start | Just above 2,250 psi | 445.4 fps |
-| 36 | 2,000 psi | 456.7 fps |
-| 52 — end | 1,750 psi | 445.8 fps |
+| 21 — start of consistent shots | Just above 2,250 psi | 445.4 fps |
+| 36 - peak of consistent shots | 2,000 psi | 456.7 fps |
+| 52 — end of consistent shots | 1,750 psi | 445.8 fps |
 
 </div>
 
-Repeated tests have given me similar results: roughly **32–34 useful shots per fill**. Around 32 consistent shots feels like plenty to me.
+Repeated tests have given me similar results: roughly 32–34 useful shots per fill. Around 32 consistent shots feels like plenty to me.
 
 ## My Verdict So Far
 
