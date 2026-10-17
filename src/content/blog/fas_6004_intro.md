@@ -1,9 +1,9 @@
 ---
-title: 'FAS 6004 Shooting Impressions and Chronograph Results'
-description: 'My initial impressions of the FAS 6004: its design, match grip and sight picture, comparisons with other air pistols, and chronograph results with RWS R10 Match pellets.'
+title: 'FAS 6004 Owner Review'
+description: 'My impressions of the FAS 6004: its design, match grip and sight picture, comparisons with other air pistols, and chronograph results from two pistols with RWS R10 Match pellets.'
 tags: ['FAS 6004', 'Reviews', '10m Air Pistol']
 pubDate: 'Sep 27 2026'
-updatedDate: 'Sep 28 2026'
+updatedDate: 'Oct 17 2026'
 heroImage: '../../assets/fas_intro/fas_cased.jpg'
 ---
 
@@ -96,15 +96,15 @@ The FAS 6004, Weihrauch HW75, and Air Venturi V10 are all single-shot, .177-cali
 
 </div>
 
-These velocities are manufacturer figures, rather than results from a common test with the same pellet. Chiappa's current product page gives approximately 330 fps, although its [older FAS 6004 technical sheet](https://cloud.chiappafirearms.com/vfm-admin/vfm-downloader.php?h=512b8b04f3477968c784b97c7cda29d0&q=dXBsb2Fkcy9DaGlhcHBhLUZpcmVhcm1zLzAwNl9JTUFHRVMvUHJvZHVjdC1JbWFnZXMvRkFTLTYwMDQvVGVjaC1TaGVldC9TcGVjcy00NDAtMDQwXzA0MS0wNDNfRkFTLTYwMDQucGRm) lists approximately 400 fps. Actual velocity depends on the pellet and the individual pistol. In fact, my pistol consistently delivered around **355–365 fps with RWS R10 Match pellets** in my testing, averaging 359.5 fps across 25 shots. Please see the [chronograph results below](#consistency-on-the-chronograph) for the full results.
+These velocities are manufacturer figures, rather than results from a common test with the same pellet. Chiappa's current product page gives approximately 330 fps, although its [older FAS 6004 technical sheet](https://cloud.chiappafirearms.com/vfm-admin/vfm-downloader.php?h=512b8b04f3477968c784b97c7cda29d0&q=dXBsb2Fkcy9DaGlhcHBhLUZpcmVhcm1zLzAwNl9JTUFHRVMvUHJvZHVjdC1JbWFnZXMvRkFTLTYwMDQvVGVjaC1TaGVldC9TcGVjcy00NDAtMDQwXzA0MS0wNDNfRkFTLTYwMDQucGRm) lists approximately 400 fps. Actual velocity depends on the pellet and the individual pistol. My first pistol consistently delivered around **355–365 fps with RWS R10 Match pellets**, averaging 359.5 fps across 25 shots. My second FAS 6004 averaged **389.4 fps across 15 shots** in a separate session with R10 pellets. Please see the [chronograph results below](#chronograph-tests) for both tests.
 
 On paper, the FAS is the shortest of these three in its ambidextrous configuration. The HW75 is the heaviest, while the V10 pairs a longer barrel with a relatively low overall weight. The FAS's compact size and relatively low weight can make it easier to handle and less tiring to hold, especially compared with the heavier HW75. For a shooter who finds that size and weight comfortable, this can help maintain a steady hold and potentially improve practical accuracy. The benefit depends on grip fit and personal preference, rather than smaller size or lower weight alone guaranteeing better accuracy. Together with its adjustable trigger and distinctive styling, that manageable form is a large part of the FAS's appeal.
 
-## Consistency on the Chronograph
+## Chronograph Tests
+
+### First Pistol: 25 Shots
 
 I used RWS R10 Match pellets for this session. The Garmin chronograph recorded 25 shots on September 10, 2026, with the following results:
-
-![Garmin chronograph showing the FAS 6004 results for 25 shots with RWS R10 Match pellets](../../assets/fas_intro/fas_chrono.jpg)
 
 <div class="spec-comparison chrono-table" role="region" aria-label="Chronograph velocity results" tabindex="0">
 
@@ -122,9 +122,38 @@ The entire **25-shot string stayed within an 8.5 fps range**, about 2.4% of the 
 
 The measured average of 359.5 fps falls between Chiappa's current and older published figures. For target shooting, the small variation from shot to shot is the more interesting result here. A chronograph does not establish group size or accuracy on its own, but this string provides a useful indication of how consistently the pistol delivered velocity with RWS R10 Match pellets.
 
+### Second Pistol: 15 Shots
+
+I also tested my second FAS 6004 with RWS R10 Match pellets. The Garmin recorded 15 shots averaging 389.4 fps, with the first shot standing out. It was the first shot out of box, after that the remaining shots formed very tight band on the velocity chart.
+
+<div class="photo-pair">
+
+![Garmin summary for the second FAS 6004 showing 15 shots averaging 389.4 fps with R10 pellets](../../assets/fas/fas_second_chrono.png)
+
+![Garmin velocity chart for the second FAS 6004 showing the high first shot at 398.5 fps and the tighter cluster of shots 2–15](../../assets/fas/fas_second_velocity.png)
+
+</div>
+
+The table below shows the results from shots 2–15. It reports a **population SD of only 1.87 fps**, about 0.5% of their average velocity. The **6.3 fps spread** is about 1.6% of the average velocity. No doubt it is a very consistent velocity in the session.
+
+<div class="spec-comparison chrono-table" role="region" aria-label="Second FAS 6004 shots 2 through 15 chronograph results" tabindex="0">
+
+| Measurement | Shots 2–15 |
+| --- | ---: |
+| Shot count | 14 |
+| Minimum (fps / m/s) | 386.4 / 117.77 |
+| Average (fps / m/s) | 388.7 / 118.48 |
+| Maximum (fps / m/s) | 392.7 / 119.69 |
+| Extreme spread (fps / m/s) | 6.3 / 1.92 |
+| Standard deviation (fps / m/s) | 1.9 / 0.58 |
+
+</div>
+
+The second pistol's average was consistently 29 fps higher than the first pistol's. The encouraging result is that both examples have shown small shot-to-shot variation. That strengthens my impression of their velocity consistency.
+
 ## My Take So Far
 
-The looks were what persuaded me to buy the FAS 6004, and the consistency in this 25-shot session gives me another reason to appreciate it. For someone drawn to a compact SSP with a sculpted wooden grip and no separate air supply to manage, I think its appeal is easy to understand.
+The looks were what persuaded me to buy the FAS 6004, and the chronograph results from both of my pistols give me another reason to appreciate it. The second pistol ran faster in its test and was particularly consistent after the first shot. For someone drawn to a compact SSP with a sculpted wooden grip and no separate air supply to manage, I think its appeal is easy to understand.
 
 Shooting it has added to that appeal. The match grip feels comfortable and steady, and the crisp, simple sight picture suits me better than those of my HW45 and HW75. These are still my initial impressions, but the FAS is giving me reasons to enjoy it beyond its looks.
 
