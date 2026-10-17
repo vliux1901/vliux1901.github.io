@@ -78,6 +78,21 @@ Use `getBlogPosts()` from `src/lib/blog.ts` for any new blog listing, route, or 
 
 Commit and push draft Markdown/MDX files and their reviewed assets to back them up remotely. This flag controls article visibility, not privacy: draft source remains readable in a public GitHub repository, and Astro may still copy referenced draft images into the build output. Files under `tmp/`, including raw photo originals, are ignored and need a separate backup.
 
+## Review sorting
+
+Reviews are sorted newest first by the later of `pubDate` and optional
+`updatedDate`. If `updatedDate` is omitted or earlier than `pubDate`, the
+publication date is used. This applies to the home listing, tag pages, and RSS.
+To record an update, add a date to the review's frontmatter:
+
+```yaml
+pubDate: 'Oct 02 2026'
+updatedDate: 'Oct 17 2026'
+```
+
+`pubDate` remains the original publication date shown on listings and in RSS.
+`updatedDate` also controls the article's “Last updated” label.
+
 ## Batch image compression
 
 Put images under `tmp/raw_images/`, then run:

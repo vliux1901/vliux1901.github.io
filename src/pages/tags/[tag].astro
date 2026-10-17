@@ -9,9 +9,7 @@ import { SITE_TITLE } from '../../consts';
 import { type BlogTag, BLOG_TAGS, TAG_DESCRIPTIONS, tagSlug } from '../../tags';
 
 export async function getStaticPaths() {
-	const posts = (await getBlogPosts()).sort(
-		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
-	);
+	const posts = await getBlogPosts();
 	return BLOG_TAGS.flatMap((tag) => {
 		const matchingPosts = posts.filter((post) => post.data.tags.includes(tag));
 		// Only publish a topic page when it has something to read.

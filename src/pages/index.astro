@@ -10,9 +10,7 @@ import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 import { BLOG_TAGS } from '../tags';
 
-const posts = (await getBlogPosts()).sort(
-	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
-);
+const posts = await getBlogPosts();
 const tagCounts = BLOG_TAGS.map((tag) => ({
 	tag,
 	count: posts.filter((post) => post.data.tags.includes(tag)).length,
