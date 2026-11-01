@@ -1,0 +1,233 @@
+---
+title: 'HW40 Air Pistol Review'
+description: 'My Weihrauch HW40 impressions: solid polymer construction, light weight, a high barrel position, and a consistent 25-shot chronograph string.'
+tags: ['HW40', 'Reviews', 'Air Pistol']
+pubDate: 'Nov 01 2026'
+heroImage: '../../assets/hw40/hw40_hero.jpg'
+draft: true
+---
+
+## A Brief Introduction
+
+The Weihrauch HW40 is a pistol I find very accurate, solidly built, and easy to hold without much fatigue. I am less fond of its looks, and its light weight has a drawback: I find it more responsive to my own body movements, which makes that accuracy harder to realize on target.
+
+Its single-stroke pneumatic action needs no CO₂ cartridges or external air supply. Compared with my [HW45](/blog/hw45_intro/), the firing cycle also feels much smoother.
+
+My **25-shot chronograph string averaged 426.5 fps with Meisterkugeln 7-grain pellets**, with just 7.3 fps between the slowest and fastest shots. That supports its excellent velocity consistency; measured target groups are still to be added to this review.
+
+## First Impressions
+
+### Compact Shape and Polymer Build
+
+The black polymer exterior gives the HW40 a very different appearance from the metalwork and wood grips of my HW45 and HW75. The squared upper assembly resembles a pistol slide, but hinges forward to expose the compression mechanism and barrel breech.
+
+Despite the plastic main frame, **the construction feels solid to me**. Visually, I think the design could be more refined. That is a matter of taste, separate from how well it is put together.
+
+![Right-side profile of the HW40 showing its polymer frame, curved trigger, and compact grip](../../assets/hw40/hw40_right_profile.jpg)
+
+My example is marked **.177 / 4.5 mm** and wears open sights. [Weihrauch lists](https://www.weihrauch-sport.de/air-pistols/hw-40-pca?lang=en) a weight of 780 g, overall length of 240 mm, and barrel length of 170 mm. These are manufacturer specifications, not my own measurements.
+
+**TBD:** Ownership duration, approximate shot count, and any modifications or adjustments.
+
+### Grip and Balance
+
+The molded grip has shallow finger grooves and no adjustable palm shelf. Weihrauch describes it as suitable for either hand. The photo below shows the grip proportions and the upward curve where the trigger guard meets the middle finger.
+
+![HW40 held in one hand, showing the grip proportions and curved trigger-guard undercut](../../assets/hw40/hw40_grip_in_hand.jpg)
+
+For my hand, **the grip feels too plain and thin**. I would like more shape and support to help me settle into the same hold each time. That could be a weak point in competition, where a repeatable grip matters throughout a string of shots.
+
+A rubber grip sleeve or grip putty could add thickness and contour. These are possibilities to explore; I do not yet have results showing how either would affect my shooting with this pistol.
+
+The low weight makes handling less tiring for me. However, **the barrel still sits higher above my hand than I would like**, a complaint I also have with my other Weihrauch pistols. The curved undercut does not fully resolve that feeling.
+
+I also find the light body more sensitive to my own movements. It is easier to hold up, but keeping the sights settled still takes care. This is my handling impression, rather than a measured comparison of hold stability.
+
+**TBD:** Trigger reach and where the balance sits in my hand.
+
+## Trigger and Sights
+
+### A Trigger Worth Examining Closely
+
+The HW40 has a two-stage trigger. Its curved silver-colored blade and adjustment screw stand out against the black frame.
+
+![Close-up of the HW40 trigger blade and sliding safety, with the red safety mark covered](../../assets/hw40/hw40_trigger_safety.jpg)
+
+Trigger feel is a recurring positive in [this HW40 owner discussion](https://airgunforums.co.uk/threads/weihrauch-hw40-pistol-review.650/). In July 2025, an owner who had shot both the HW40 and Beeman P17 described the HW40's crisper, lighter release as the deciding difference for him. That is an individual comparison, not proof that every HW40 will feel better than every P17.
+
+According to the [HW40 manual](https://www.weihrauch-sport.de/wp-content/uploads/2016/01/HW-40-de-fr.engl_..pdf#page=25), adjustment screw **(a)** changes the let-off travel: counterclockwise shortens it, clockwise lengthens it. The pistol must be unloaded, uncocked, and on safe; Weihrauch recommends retaining the factory setting or having a qualified airgunsmith make adjustments.
+
+**TBD:** My first-stage travel, second-stage wall, creep, release, and any measured pull weight.
+
+### Fiber-Optic Sights
+
+The front sight carries a red insert, with two green dots at the rear. The rear sight adjusts for windage and elevation, and Weihrauch specifies an 11 mm dovetail for an optic.
+
+<div class="photo-pair">
+
+![HW40 front sight with its exposed red fiber-optic rod](../../assets/hw40/hw40_front_sight.jpg)
+
+![View along the HW40 sights, showing the red front dot and two green rear dots](../../assets/hw40/hw40_sight_picture.jpg)
+
+</div>
+
+The fiber-optic dots make the sights easy to pick up for recreational shooting. For **10-meter-style target shooting**, however, I find them less helpful. When I concentrate on aligning the front blade in the rear notch, the red dot appears offset toward the right side of the front blade in my view. I do not know what causes that appearance, but it distracts from the precise sight picture I want.
+
+For me, these sights suit recreational shooting and informal target practice better than dedicated 10-meter shooting. Their visibility can be an advantage or a drawback, depending on how I am aiming.
+
+The exposed front insert also deserves care. I broke the similar insert on my HW45 when it struck a table; the HW40 insert shown here remains intact.
+
+## Shooting Experience
+
+### Cocking Effort and Loading Access
+
+The hammer-shaped rear latch releases the upper assembly. Opening it exposes the barrel breech; closing it compresses the air for the next shot. The [manual's operating instructions](https://www.weihrauch-sport.de/wp-content/uploads/2016/01/HW-40-de-fr.engl_..pdf#page=13) explain this sequence and the increased resistance during closing.
+
+![HW40 with its upper assembly partly open, exposing the compression cylinder and rear latch](../../assets/hw40/hw40_open_action.jpg)
+
+This is the practical tradeoff of the self-contained action: **each shot requires a compression stroke and a separately loaded pellet**. Owners in the [HW40 forum thread](https://airgunforums.co.uk/threads/weihrauch-hw40-pistol-review.650/) report firm closing effort and the possibility of pinching skin as the action shuts. The manual also calls for keeping fingers and clothing clear during operation.
+
+For me, **the final push to close the upper frame is heavy relative to the pistol's power and light weight**. It feels noticeably stiffer and requires more effort than closing my HW75, which feels much softer and smoother through this part of the stroke. This is a comparison of feel; I have not measured the closing force.
+
+The pellet enters the breech beneath the raised upper assembly. The close-up shows how the surrounding housing limits the space around the barrel opening.
+
+![HW40 barrel breech beneath the upper assembly, showing the pellet-loading opening and retaining strap](../../assets/hw40/hw40_loading_port.jpg)
+
+**TBD:** Ease of seating pellets and whether the loading routine becomes tiring or awkward during a longer session.
+
+### Automatic Safety
+
+The safety engages automatically **every time the pistol is cocked**. The rearward position covers the red mark; moving the slider forward exposes it, as shown below. The positions and operation are illustrated in the [manual](https://www.weihrauch-sport.de/wp-content/uploads/2016/01/HW-40-de-fr.engl_..pdf#page=25).
+
+I find having to disengage it before every shot an extra, repetitive step in the shooting routine. Other shooters may appreciate the automatic engagement, so whether it feels helpful or cumbersome is a matter of preference.
+
+![HW40 safety slider forward with the red mark exposed](../../assets/hw40/hw40_safety_off.jpg)
+
+### A Smooth Firing Cycle
+
+In my earlier [HW45](/blog/hw45_intro/) and [HW75](/blog/hw75_intro/) reviews, I described the HW40 as smoother in firing. The HW45 produces much stronger mechanical vibration, and I also notice more vibration from the HW75 than from the HW40. Those are impressions from shooting these pistols, not instrumented recoil measurements.
+
+**TBD:** Follow-through, perceived muzzle report versus pellet-trap impact, and any sensitivity to grip or support position.
+
+## Chronograph Results
+
+I used a **Garmin C1 chronograph** for this 25-shot string with Meisterkugeln 7-grain pellets. The velocity statistics below are transcribed from the app screenshots; no subset has been selected for this review.
+
+| Measurement | Result |
+| --- | --- |
+| Pellet | Meisterkugeln, 7 gr nominal |
+| Shot range | 1–25; 25 shots |
+| Average velocity | **426.5 fps** |
+| Minimum–maximum | 423.0–430.3 fps |
+| Extreme spread | **7.3 fps** |
+| Standard deviation | 2.0 fps, as reported by the app; convention unconfirmed |
+| Calculated energy at average velocity | Approximately **2.83 ft-lb / 3.83 J** |
+
+<div class="photo-pair">
+
+![HW40 chronograph summary showing 25 shots, 426.5 fps average, 7.3 fps spread, and 2.0 fps standard deviation](../../assets/hw40/hw40_chronograph_summary.png)
+
+![HW40 velocity chart for shots 1 through 25, with a minimum of 423.0 fps and maximum of 430.3 fps](../../assets/hw40/hw40_chronograph_string.png)
+
+</div>
+
+The energy estimate uses the nominal 7-grain pellet weight and average velocity. It is calculated separately because the app's summary does not display an energy result.
+
+The narrow velocity range is encouraging for this pistol and pellet combination. It does **not establish group size or pellet preference**; those need target testing.
+
+**TBD:** Measurement distance, temperature, test date, shot cadence, and any warm-up shots. The screenshots preserve the summary and chart, but the complete numerical shot list still needs to be added. Confirm whether the app uses sample or population SD.
+
+## Accuracy
+
+**My shooting impression is that the HW40 is very accurate.** At the same time, I find its light weight allows my body movements to disturb the aim more readily, affecting the results I actually achieve.
+
+The chronograph results are encouraging, but cannot rank its accuracy against the rest of the Weihrauch pistol range. That comparison would need measured groups under comparable conditions.
+
+**TBD — target results have not yet been added.** The next part of this review needs target photos with distance, pellet, sights, shooting position, rest contact point, and shots per group recorded. Group sizes should be measured center-to-center, with several groups showing typical results as well as the best one.
+
+Pellet choice should remain an open question. Even within the [same HW40 owner thread](https://airgunforums.co.uk/threads/weihrauch-hw40-pistol-review.650/), one owner found Geco pellets satisfactory while another reported poor results with them. My chronograph string alone cannot establish whether Meisterkugeln is the best choice for this barrel.
+
+## HW40 Compared with the HW75
+
+Both are single-stroke pneumatic pistols, but they feel quite different in use. The HW40 is compact and light, while the HW75's metal frame and walnut grip give it the more substantial feel I described in my [HW75 review](/blog/hw75_intro/).
+
+![HW75 above the smaller HW40, comparing the metal frame and walnut grip with the HW40's polymer exterior](../../assets/hw75_intro/hw75_vs_hw40.jpg)
+
+Weihrauch lists the [HW40](https://www.weihrauch-sport.de/air-pistols/hw-40-pca?lang=en) at **780 g and 240 mm long**, and the [HW75](https://www.weihrauch-sport.de/air-pistols/hw-75?lang=en) at **1,060 g and 280 mm long**. The HW40 is therefore 280 g lighter and 40 mm shorter by the published specifications; both have a listed 170 mm barrel.
+
+### Handling and Grip Fit
+
+| Detail | HW40 | HW75 |
+| --- | --- | --- |
+| Closing effort, in my experience | Stiffer final push | Softer, smoother closing stroke |
+| Firing feel, in my experience | Smoother, with less noticeable vibration | More noticeable mechanical vibration |
+| Grip fit for my hand | Plain and thin; I would like more contour and support | Textured walnut, but still slim around the thumb–index web |
+| Shooting routine | Safety engages automatically with each cocking cycle | Separate hammer cocking and manual safety |
+
+The HW75's more sculpted grip does not automatically mean a better fit for me. Its flat trigger-guard undercut leaves much of the weight on my middle finger, while the HW40 curves upward at that point. The photos show the HW75 on the left and HW40 on the right, with arrows marking this contact area.
+
+<div class="photo-pair">
+
+![HW75 grip in the hand, with an arrow showing the flat trigger-guard undercut above the middle finger](../../assets/hw75_intro/hw75_trigger_undercut.jpg)
+
+![HW40 grip in the hand, with an arrow showing the curved trigger-guard undercut above the middle finger](../../assets/hw75_intro/hw40_trigger_undercut.jpg)
+
+</div>
+
+Both pistols still place the barrel higher above my hand than I prefer. The HW40 reduces holding fatigue, but its light weight and simple grip do not give me all the steadiness and support I would want for competition.
+
+### Chronograph Comparison
+
+These are the **complete 25-shot strings from separate sessions, both using Meisterkugeln 7-grain pellets**. The HW75 figures come from my [earlier chronograph results](/blog/hw75_intro/#muzzle-velocity), including its initial cold-bore shots.
+
+| Measurement | HW40, shots 1–25 | HW75, shots 1–25 |
+| --- | --- | --- |
+| Pellet | Meisterkugeln, 7 gr nominal | Meisterkugeln, 7 gr nominal |
+| Average velocity | **426.5 fps** | **430.1 fps** |
+| Minimum–maximum | 423.0–430.3 fps | 421.8–434.7 fps |
+| Extreme spread | **7.3 fps** | **12.9 fps** |
+| Standard deviation | 2.0 fps, app convention unconfirmed | 3.50 fps, population |
+
+![Garmin Xero displaying the HW75's 25-shot results: 430.1 fps average, 421.8 fps minimum, and 434.7 fps maximum; the large 433.6 fps reading is the latest shot](../../assets/hw75_intro/hw75_chronograph_results.jpg)
+
+The recorded averages differ by just **3.6 fps**, and the HW40 had the smaller extreme spread in these sessions. The HW75 settled after its early shots: its separately reported shots 8–25 averaged 431.6 fps with a 9.9 fps spread. The table retains the full string for both pistols.
+
+Although the pellet model and nominal weight match, the test conditions have not been matched. The SD figures also use different or unconfirmed reporting conventions. The HW40 showed better velocity consistency in these recorded strings, but repeated tests under the same conditions would be needed to establish whether that advantage holds. These results do not show which pistol shoots tighter groups.
+
+## Ownership and Reliability
+
+The compression mechanism and its seals are easy to see with the action open. The photos below show the piston linkage and the seal around the air outlet where it meets the barrel breech.
+
+<div class="photo-pair">
+
+![HW40 piston linkage exposed with the upper assembly fully open](../../assets/hw40/hw40_piston_linkage.jpg)
+
+![Close-up of the HW40 air outlet and surrounding seal](../../assets/hw40/hw40_transfer_port_seal.jpg)
+
+</div>
+
+**TBD:** My maintenance history, approximate use, and any leaks, loose parts, or other issues. A consistent 25-shot string is useful evidence of short-session performance, but cannot establish long-term reliability.
+
+## My Take So Far
+
+The HW40's appeal to me is its solid construction, low weight, and accuracy in use. The **consistent 25-shot velocity string** adds measured support for its pneumatic performance, while the self-contained air supply keeps the equipment needed for a session simple.
+
+### What I Like
+
+- Very accurate in my shooting experience; measured groups are still to come.
+- Excellent velocity consistency in the recorded 25-shot string.
+- Solid construction despite the polymer main frame.
+- Light weight that reduces handling fatigue.
+- Fiber-optic sights that are easy to pick up for recreational shooting.
+
+### What I Dislike
+
+- I think the visual design could be more refined.
+- The barrel sits higher above my hand than I would like.
+- The grip feels too plain and thin for the support I would want in competition.
+- The light body feels more sensitive to my movements, making steady aiming more demanding.
+- The final closing stroke feels heavy for its power and weight, and noticeably stiffer than my HW75.
+- The red front dot appears offset to my eye during precise aiming, making these sights a poor fit for my 10-meter-style shooting.
+- Disengaging the automatic safety before every shot feels repetitive to me.
+
+For my use, the HW40 is better suited to recreational shooting and informal target practice than dedicated 10-meter shooting with its supplied sights. My assessment remains provisional until the measured target results and detailed trigger notes are complete.

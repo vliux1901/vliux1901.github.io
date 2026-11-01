@@ -247,6 +247,8 @@ hr {
 	--verdict-border: #c6dfcf;
 }
 .prose :is(
+	#what-i-dislike,
+	#what-i-dislike + :is(ul, ol),
 	#what-i-dont-like,
 	#what-i-dont-like + :is(ul, ol),
 	#what-i-would-change,
@@ -256,7 +258,7 @@ hr {
 	--verdict-background: #fff7ec;
 	--verdict-border: #ead4b7;
 }
-.prose :is(#what-i-like, #what-i-dont-like, #what-i-would-change) {
+.prose :is(#what-i-like, #what-i-dislike, #what-i-dont-like, #what-i-would-change) {
 	margin: 1.75rem 0 0;
 	padding: 1.2rem 1.4rem 0.8rem;
 	border: 1px solid var(--verdict-border);
@@ -268,7 +270,7 @@ hr {
 	font-size: 1.35em;
 	line-height: 1.3;
 }
-.prose :is(#what-i-like, #what-i-dont-like, #what-i-would-change) + :is(ul, ol) {
+.prose :is(#what-i-like, #what-i-dislike, #what-i-dont-like, #what-i-would-change) + :is(ul, ol) {
 	margin: 0 0 2rem;
 	padding: 0 1.4rem 1.2rem 2.8rem;
 	border: 1px solid var(--verdict-border);
@@ -278,15 +280,15 @@ hr {
 	background: var(--verdict-background);
 	line-height: 1.6;
 }
-.prose :is(#what-i-like, #what-i-dont-like, #what-i-would-change) + :is(ul, ol) > li {
+.prose :is(#what-i-like, #what-i-dislike, #what-i-dont-like, #what-i-would-change) + :is(ul, ol) > li {
 	padding-left: 0.25rem;
 }
-.prose :is(#what-i-like, #what-i-dont-like, #what-i-would-change) + :is(ul, ol) > li + li {
+.prose :is(#what-i-like, #what-i-dislike, #what-i-dont-like, #what-i-would-change) + :is(ul, ol) > li + li {
 	margin-top: 0.8rem;
 	padding-top: 0.8rem;
 	border-top: 1px solid var(--verdict-border);
 }
-.prose :is(#what-i-like, #what-i-dont-like, #what-i-would-change) + :is(ul, ol) > li::marker {
+.prose :is(#what-i-like, #what-i-dislike, #what-i-dont-like, #what-i-would-change) + :is(ul, ol) > li::marker {
 	color: var(--verdict-accent);
 	font-weight: 700;
 }

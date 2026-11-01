@@ -130,7 +130,7 @@ The red arrows in the photos below highlight this contact area: the HW75's flatt
 
 ### Muzzle Velocity
 
-Starting with a cold bore, I recorded 25 shots with a Garmin Xero chronograph.
+Starting with a cold bore, I recorded 25 shots with a Garmin Xero chronograph, using **Meisterkugeln 7-grain pellets**.
 
 | Measurement | Full session (shots 1–25) | Shots 8–25 |
 | --- | --- | --- |
