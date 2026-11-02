@@ -37,17 +37,16 @@ For my hand, **the grip feels a little bit plain and thin**. I would like more s
 
 A rubber grip sleeve or grip putty could add thickness and contour. These are possibilities to explore; I do not yet have results showing how either would affect my shooting with this pistol.
 
-The low weight makes handling less tiring for me. However, **the barrel still sits higher above my hand than I would like**, a complaint I also have with my other Weihrauch pistols.
+The pistol feels well balanced in my hand, neither muzzle-heavy nor rear-heavy. The low weight also makes handling less tiring for me. However, **the barrel still sits higher above my hand than I would like**, a complaint I also have with my other Weihrauch pistols.
 
 I also find the light body more sensitive to my own movements. It is easier to hold up, but keeping the sights settled still takes care. This is my handling impression, rather than a measured comparison of hold stability.
 
-**TBD:** Trigger reach and where the balance sits in my hand.
 
 ## Trigger and Sights
 
 ### A Trigger I Have Come to Appreciate
 
-The HW40 has a two-stage trigger. Its curved silver-colored blade and adjustment screw stand out against the black frame. In use, I enjoy it at least as much as the trigger on my HW75.
+Weihrauch confirms that the HW40 has a **[two-stage trigger](https://www.weihrauch-sport.de/air-pistols/hw-40-pca?lang=en)**. Its curved silver-colored blade and adjustment screw stand out against the black frame. In use, I enjoy it at least as much as the trigger on my HW75.
 
 ![Close-up of the HW40 trigger blade and sliding safety, with the red safety mark covered](../../assets/hw40/hw40_trigger_safety.jpg)
 
@@ -85,11 +84,13 @@ This is the practical tradeoff of the self-contained action: **each shot require
 
 For me, **the final push to close the upper frame is heavy relative to the pistol's power and light weight**. It feels noticeably stiffer and requires more effort than closing my HW75, which feels much softer and smoother through this part of the stroke. This is a comparison of feel; I have not measured the closing force.
 
+The 11 mm dovetail has **sharp edges** that press painfully into my palm during cocking. This adds to the discomfort of the heavy final closing stroke.
+
 The pellet enters the breech beneath the raised upper assembly. The close-up shows how the surrounding housing limits the space around the barrel opening.
 
 ![HW40 barrel breech beneath the upper assembly, showing the pellet-loading opening and retaining strap](../../assets/hw40/hw40_loading_port.jpg)
 
-**TBD:** Ease of seating pellets and whether the loading routine becomes tiring or awkward during a longer session.
+The barrel feels very well made to me, with the same premium quality I appreciate in my HW75. **Seating pellets feels smooth and consistent**, which makes this part of the loading routine satisfying.
 
 ### Automatic Safety
 
@@ -181,6 +182,8 @@ These are the **complete 25-shot strings from separate sessions, both using Meis
 
 The recorded averages differ by just **3.6 fps**, and the HW40 had the smaller extreme spread in these sessions. The HW75 settled after its early shots: its separately reported shots 8–25 averaged 431.6 fps with a 9.9 fps spread. The table retains the full string for both pistols.
 
+The HW40 chart shows no obvious early settling period like the one in my HW75 string. **Based on this recorded session, the HW40 did not appear to need warm-up shots to produce consistent velocity.** This describes the pattern in these results; it does not establish that either pistol will behave the same way in every session.
+
 From those test results, the HW40 showed better velocity consistency in these recorded strings, but repeated tests under the same conditions would be needed to establish whether that advantage holds. These results do not show which pistol shoots tighter groups, but it's also an indicator that HW40 can be as accurate / consistent as HW75. Be aware that HW75 costs twice as HW40 ($600+ vs $300+ as of 2026).
 
 ## Ownership and Reliability
@@ -203,10 +206,11 @@ My reservations about the thin grip and fiber-optic sight picture remain, especi
 
 ### What I Like
 
-- Very accurate in my shooting experience.
+- Very accurate in my shooting experience. The gun can shoot very consistently without warm-up.
 - Excellent velocity consistency in the recorded 25-shot string.
 - Solid construction despite the polymer main frame.
-- Light weight that reduces handling fatigue.
+- Light weight that reduces handling fatigue, with neither a muzzle-heavy nor rear-heavy balance.
+- A barrel that feels as well made as my HW75's, with smooth, consistent pellet seating.
 - A trigger I enjoy as much as my HW75's.
 - Fiber-optic sights that are easy to pick up for recreational shooting.
 
@@ -217,6 +221,7 @@ My reservations about the thin grip and fiber-optic sight picture remain, especi
 - The grip feels plain and thin for the support I would want in competition.
 - The light body feels more sensitive to my movements, making steady aiming more demanding.
 - The final closing stroke feels heavy for its power and weight, and noticeably stiffer than my HW75.
+- Sharp edges on the 11 mm dovetail press painfully into my palm during cocking.
 - The red front dot appears offset to my eye during precise aiming, making these sights a poor fit for my 10-meter-style shooting.
 - Disengaging the automatic safety before every shot feels repetitive to me.
 
