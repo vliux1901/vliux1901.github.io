@@ -9,11 +9,9 @@ draft: true
 
 ## A Brief Introduction
 
-I did not like the Weihrauch HW40 at first. Its appearance and plastic exterior gave me a toy-like impression, and I even considered selling it while keeping my HW45 and HW75.
+HW40 was not in my favorite list at first. Its appearance and plastic exterior gave me a toy-like impression, and I even considered selling it while keeping my HW45 and HW75. However, the more I shot it, the more I enjoyed it. Its accuracy, trigger, and overall shooting experience feel at least as good as my HW75's, and in some respects better. The construction feels solid in use, and its low weight makes it easy to hold without much fatigue.
 
-However, **the more I shot it, though, the more I enjoyed it**. Its accuracy, trigger, and overall shooting experience feel at least as good as my HW75's, and in some respects better. The construction feels solid in use, and its low weight makes it easy to hold without much fatigue.
-
-My 25-shot chronograph string averaged 426.5 fps with Meisterkugeln 7-grain pellets, with just 7.3 fps spread and 2.0 fps STD DEV. That supports its excellent velocity consistency.
+My 25-shot chronograph string averaged 426.5 fps with Meisterkugeln 7-grain pellets, with just 7.3 fps spread and **only 2.0 fps STD DEV** (better than my HW75!). That supports its excellent velocity consistency.
 
 ## First Impressions
 
@@ -31,9 +29,9 @@ My example is marked **.177 / 4.5 mm** and wears open sights. [Weihrauch lists](
 
 The molded grip has shallow finger grooves and no adjustable palm shelf. Weihrauch describes it as suitable for either hand. The photo below shows the grip proportions and the upward curve where the trigger guard meets the middle finger.
 
-![HW40 held in one hand, showing the grip proportions and curved trigger-guard undercut](../../assets/hw40/hw40_grip_in_hand.jpg)
+![HW40 held in one hand, showing the curved trigger-guard undercut and a visible gap between the lower grip and the palm](../../assets/hw40/hw40_grip_in_hand.jpg)
 
-For my hand, **the grip feels a little bit plain and thin**. I would like more shape and support to help me settle into the same hold each time. That could be a weak point in competition, where a repeatable grip matters throughout a string of shots.
+For my hand, **the grip feels a little bit plain and thin**. As the photo shows, there is a noticeable gap between the lower part of the grip and my palm. I would like more shape and support to help me settle into the same hold each time. That could be a weak point in competition, where a repeatable grip matters throughout a string of shots.
 
 A rubber grip sleeve or grip putty could add thickness and contour. These are possibilities to explore; I do not yet have results showing how either would affect my shooting with this pistol.
 
