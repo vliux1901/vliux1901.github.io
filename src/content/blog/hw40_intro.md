@@ -23,7 +23,7 @@ Despite the plastic main frame, **the construction feels solid**. Visually, I th
 
 ![Right-side profile of the HW40 showing its polymer frame, curved trigger, and compact grip](../../assets/hw40/hw40_right_profile.jpg)
 
-My example is marked **.177 / 4.5 mm** and wears open sights. [Weihrauch lists](https://www.weihrauch-sport.de/air-pistols/hw-40-pca?lang=en) a weight of 780 g, overall length of 240 mm, and barrel length of 170 mm. These are manufacturer specifications, not my own measurements.
+It is marked **.177 / 4.5 mm** and wears open sights. [Weihrauch lists](https://www.weihrauch-sport.de/air-pistols/hw-40-pca?lang=en) a weight of 780 g, overall length of 240 mm, and barrel length of 170 mm.
 
 ### Grip and Balance
 
@@ -31,11 +31,9 @@ The molded grip has shallow finger grooves and no adjustable palm shelf. Weihrau
 
 ![HW40 held in one hand, showing the curved trigger-guard undercut and a visible gap between the lower grip and the palm](../../assets/hw40/hw40_grip_in_hand.jpg)
 
-For my hand, **the grip feels a little bit plain and thin**. As the photo shows, there is a noticeable gap between the lower part of the grip and my palm. I would like more shape and support to help me settle into the same hold each time. That could be a weak point in competition, where a repeatable grip matters throughout a string of shots.
+For my hand, **the grip feels a little bit plain and thin**. As the photo shows, there is a noticeable gap between the lower part of the grip and my palm. I would like more shape and support to help me settle into the same hold each time. That could be a weak point in precision shooting, where a repeatable grip matters throughout a string of shots. However, a rubber grip sleeve or grip putty could add thickness and contour. These are possibilities to explore.
 
-A rubber grip sleeve or grip putty could add thickness and contour. These are possibilities to explore; I do not yet have results showing how either would affect my shooting with this pistol.
-
-The pistol feels well balanced in my hand, neither muzzle-heavy nor rear-heavy. The low weight also makes handling less tiring for me. However, **the barrel still sits higher above my hand than I would like**, a complaint I also have with my other Weihrauch pistols.
+The pistol feels **well balanced** in my hand, neither muzzle-heavy nor rear-heavy. The low weight also makes handling less tiring for me. The barrel still sits higher above my hand than I would like, a complaint I also have with my other Weihrauch pistols.
 
 I also find the light body more sensitive to my own movements. It is easier to hold up, but keeping the sights settled still takes care. This is my handling impression, rather than a measured comparison of hold stability.
 
@@ -54,7 +52,7 @@ According to the [HW40 manual](https://www.weihrauch-sport.de/wp-content/uploads
 
 ### Fiber-Optic Sights
 
-The front sight carries a red insert, with two green dots at the rear. The rear sight adjusts for windage and elevation, and Weihrauch specifies an 11 mm dovetail for an optic.
+The front sight carries a red insert, with two green dots at the rear. The rear sight adjusts for windage and elevation, and Weihrauch specifies an **11 mm dovetail** for an optic.
 
 <div class="photo-pair">
 
@@ -66,7 +64,7 @@ The front sight carries a red insert, with two green dots at the rear. The rear 
 
 The fiber-optic dots make the sights easy to pick up for recreational shooting. For 10-meter-style target shooting, however, I find them less helpful -- when I concentrate on aligning the front blade in the rear notch, the red dot appears offset toward the right side of the front blade in my view. I do not know what causes that appearance, but it distracts from the precise sight picture I want.
 
-For me, these sights suit recreational shooting and informal target practice better than dedicated competition shooting. Their visibility can be an advantage or a drawback, depending on how I am aiming.
+For me, these sights suit recreational shooting and target practice better than dedicated competition shooting. Their visibility can be an advantage or a drawback, depending on how I am aiming.
 
 The exposed front insert also deserves care. I broke the similar insert on my HW45 when it struck a table; the HW40 insert shown here remains intact.
 
@@ -78,7 +76,7 @@ The hammer-shaped rear latch releases the upper assembly. Opening it exposes the
 
 ![HW40 with its upper assembly partly open, exposing the compression cylinder and rear latch](../../assets/hw40/hw40_open_action.jpg)
 
-This is the practical tradeoff of the self-contained action: **each shot requires a compression stroke and a separately loaded pellet**. Owners in the [HW40 forum thread](https://airgunforums.co.uk/threads/weihrauch-hw40-pistol-review.650/) report firm closing effort and the possibility of pinching skin as the action shuts. The manual also calls for keeping fingers and clothing clear during operation.
+This is the practical tradeoff of the self-contained action: each shot requires a compression stroke and a separately loaded pellet. Owners in the [HW40 forum thread](https://airgunforums.co.uk/threads/weihrauch-hw40-pistol-review.650/) report firm closing effort and the possibility of pinching skin as the action shuts. The manual also calls for keeping fingers and clothing clear during operation.
 
 For me, **the final push to close the upper frame is heavy relative to the pistol's power and light weight**. It feels noticeably stiffer and requires more effort than closing my HW75, which feels much softer and smoother through this part of the stroke. This is a comparison of feel; I have not measured the closing force.
 
@@ -88,7 +86,7 @@ The pellet enters the breech beneath the raised upper assembly. The close-up sho
 
 ![HW40 barrel breech beneath the upper assembly, showing the pellet-loading opening and retaining strap](../../assets/hw40/hw40_loading_port.jpg)
 
-The barrel feels very well made to me, with the same premium quality I appreciate in my HW75. **Seating pellets feels smooth and consistent**, which makes this part of the loading routine satisfying.
+The barrel feels very well made, with the same premium quality I appreciate in my HW75. **Seating pellets feels very smooth and consistent**, which makes this part of the loading routine satisfying.
 
 ### Automatic Safety
 
@@ -100,12 +98,11 @@ I find having to disengage it before every shot an extra, repetitive step in the
 
 ### A Smooth Firing Cycle
 
-In my earlier [HW45](/blog/hw45_intro/) and [HW75](/blog/hw75_intro/) reviews, I described the HW40 as smoother in firing. The HW45 produces much stronger mechanical vibration, and I also notice more vibration from the HW75 than from the HW40. Those are impressions from shooting these pistols, not instrumented recoil measurements.
+In my earlier [HW45](/blog/hw45_intro/) and [HW75](/blog/hw75_intro/) reviews, I described the HW40 as smoother in firing. The HW45 produces much stronger mechanical vibration, and I also notice more vibration from my HW75 than from the HW40. Those are impressions from shooting these pistols, not instrumented recoil measurements.
 
 ## Chronograph Results
 
-I used a **Garmin C1 chronograph** for this 25-shot string with Meisterkugeln 7-grain pellets. The velocity statistics below are transcribed from the app screenshots; no subset has been selected for this review.
-
+I used a Garmin C1 chronograph for this 25-shot string with Meisterkugeln 7-grain pellets.
 | Measurement | Result |
 | --- | --- |
 | Pellet | Meisterkugeln, 7 gr nominal |
@@ -113,8 +110,8 @@ I used a **Garmin C1 chronograph** for this 25-shot string with Meisterkugeln 7-
 | Average velocity | **426.5 fps** |
 | Minimum–maximum | 423.0–430.3 fps |
 | Extreme spread | **7.3 fps** |
-| Standard deviation | 2.0 fps, as reported by the app; convention unconfirmed |
-| Calculated energy at average velocity | Approximately **2.83 ft-lb / 3.83 J** |
+| Standard deviation | **2.0 fps** |
+| Calculated energy at average velocity | Approximately 2.83 ft-lb / 3.83 J |
 
 <div class="photo-pair">
 
@@ -125,18 +122,6 @@ I used a **Garmin C1 chronograph** for this 25-shot string with Meisterkugeln 7-
 </div>
 
 The narrow velocity range is encouraging for this pistol and pellet combination. It does not establish group size or pellet preference; those need target testing.
-
-**TBD:** Measurement distance, temperature, test date, shot cadence, and any warm-up shots. The screenshots preserve the summary and chart, but the complete numerical shot list still needs to be added. Confirm whether the app uses sample or population SD.
-
-## Accuracy
-
-**My shooting impression is that the HW40 is very accurate.** At the same time, I find its light weight allows my body movements to disturb the aim more readily, affecting the results I actually achieve.
-
-The chronograph results are encouraging, but cannot rank its accuracy against the rest of the Weihrauch pistol range. That comparison would need measured groups under comparable conditions.
-
-**TBD — target results have not yet been added.** The next part of this review needs target photos with distance, pellet, sights, shooting position, rest contact point, and shots per group recorded. Group sizes should be measured center-to-center, with several groups showing typical results as well as the best one.
-
-Pellet choice should remain an open question. Even within the [same HW40 owner thread](https://airgunforums.co.uk/threads/weihrauch-hw40-pistol-review.650/), one owner found Geco pellets satisfactory while another reported poor results with them. My chronograph string alone cannot establish whether Meisterkugeln is the best choice for this barrel.
 
 ## HW40 Compared with the HW75
 
@@ -169,7 +154,7 @@ Both pistols still place the barrel higher above my hand than I prefer. The HW40
 
 ### Chronograph Comparison
 
-These are the **complete 25-shot strings from separate sessions, both using Meisterkugeln 7-grain pellets**. The HW75 figures come from my [earlier chronograph results](/blog/hw75_intro/#muzzle-velocity), including its initial cold-bore shots.
+These are the complete 25-shot strings from separate sessions, both using Meisterkugeln 7-grain pellets. The HW75 figures come from my [earlier chronograph results](/blog/hw75_intro/#muzzle-velocity), including its initial cold-bore shots.
 
 | Measurement | HW40, shots 1–25 | HW75, shots 1–25 |
 | --- | --- | --- |
@@ -178,9 +163,9 @@ These are the **complete 25-shot strings from separate sessions, both using Meis
 | Extreme spread | **7.3 fps** | **12.9 fps** |
 | Standard deviation | 2.0 fps | 3.50 fps, population |
 
-The recorded averages differ by just **3.6 fps**, and the HW40 had the smaller extreme spread in these sessions. The HW75 settled after its early shots: its separately reported shots 8–25 averaged 431.6 fps with a 9.9 fps spread. The table retains the full string for both pistols.
+The recorded averages differ by just **3.6 fps**, and the **HW40 had the smaller extreme spread** in these sessions. The HW75 settled after its early shots: its separately reported shots 8–25 averaged 431.6 fps with a 9.9 fps spread. The table retains the full string for both pistols.
 
-The HW40 chart shows no obvious early settling period like the one in my HW75 string. **Based on this recorded session, the HW40 did not appear to need warm-up shots to produce consistent velocity.** This describes the pattern in these results; it does not establish that either pistol will behave the same way in every session.
+The HW40 chart shows no obvious early settling period like the one in my HW75 string. Based on this recorded session, the HW40 did not appear to need warm-up shots to produce consistent velocity. This describes the pattern in these results; it may not establish that either pistol will behave the same way in every session.
 
 From those test results, the HW40 showed better velocity consistency in these recorded strings, but repeated tests under the same conditions would be needed to establish whether that advantage holds. These results do not show which pistol shoots tighter groups, but it's also an indicator that HW40 can be as accurate / consistent as HW75. Be aware that HW75 costs twice as HW40 ($600+ vs $300+ as of 2026).
 
@@ -198,9 +183,9 @@ The compression mechanism and its seals are easy to see with the action open. Th
 
 ## My Take So Far
 
-The HW40 has grown on me enough to change which pistol I would choose. Today, if I had to pick from my **HW40, HW70A, HW45, and HW75 for a competition today, I would probably choose the HW40**, even over the HW75. Its accuracy, trigger, and shooting feel matter more to me now than the appearance that initially put me off.
+The HW40 has grown on me enough to change which pistol I would choose. Today, if I had to pick from my HW40, HW70A, HW45, and HW75 for a competition today, I would probably choose the HW40, even over the HW75. Its consistency, trigger, and shooting feel matter more to me now than the appearance that initially put me off.
 
-My reservations about the thin grip and fiber-optic sight picture remain, especially for dedicated 10-meter shooting. Even with those limitations, the HW40 would now be my likely choice among these four. That is my preference from shooting them; measured target comparisons are still to come.
+My reservations about the thin grip and fiber-optic sight picture remain, especially for dedicated competition shooting. Even with those limitations, the HW40 would now be my likely choice among these four. That is my preference from shooting them; measured target comparisons are still to come.
 
 ### What I Like
 
