@@ -4,7 +4,6 @@ description: 'My Weihrauch HW40 impressions: solid polymer construction, light w
 tags: ['HW40', 'Reviews', 'Air Pistol']
 pubDate: 'Nov 01 2026'
 heroImage: '../../assets/hw40/hw40_hero.jpg'
-draft: true
 ---
 
 ## A Brief Introduction
