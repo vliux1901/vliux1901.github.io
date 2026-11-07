@@ -76,6 +76,8 @@ The hammer-shaped rear latch releases the upper assembly. Opening it exposes the
 
 ![HW40 with its upper assembly partly open, exposing the compression cylinder and rear latch](../../assets/hw40/hw40_open_action.jpg)
 
+The build quality feels excellent. When I open and close the upper frame, there is **zero wobble or unexpected movement**. It feels steady and as solid as my all-metal HW75, despite the HW40's plastic frame.
+
 This is the practical tradeoff of the self-contained action: each shot requires a compression stroke and a separately loaded pellet. Owners in the [HW40 forum thread](https://airgunforums.co.uk/threads/weihrauch-hw40-pistol-review.650/) report firm closing effort and the possibility of pinching skin as the action shuts. The manual also calls for keeping fingers and clothing clear during operation.
 
 For me, **the final push to close the upper frame is heavy relative to the pistol's power and light weight**. It feels noticeably stiffer and requires more effort than closing my HW75, which feels much softer and smoother through this part of the stroke. This is a comparison of feel; I have not measured the closing force.
@@ -103,6 +105,9 @@ In my earlier [HW45](/blog/hw45_intro/) and [HW75](/blog/hw75_intro/) reviews, I
 ## Chronograph Results
 
 I used a Garmin C1 chronograph for this 25-shot string with Meisterkugeln 7-grain pellets.
+
+<div class="spec-comparison chrono-table" role="region" aria-label="HW40 chronograph results" tabindex="0">
+
 | Measurement | Result |
 | --- | --- |
 | Pellet | Meisterkugeln, 7 gr nominal |
@@ -113,6 +118,8 @@ I used a Garmin C1 chronograph for this 25-shot string with Meisterkugeln 7-grai
 | Standard deviation | **2.0 fps** |
 | Calculated energy at average velocity | Approximately 2.83 ft-lb / 3.83 J |
 
+</div>
+
 <div class="photo-pair">
 
 ![HW40 chronograph summary showing 25 shots, 426.5 fps average, 7.3 fps spread, and 2.0 fps standard deviation](../../assets/hw40/hw40_chronograph_summary.png)
@@ -121,7 +128,7 @@ I used a Garmin C1 chronograph for this 25-shot string with Meisterkugeln 7-grai
 
 </div>
 
-The narrow velocity range is encouraging for this pistol and pellet combination. It does not establish group size or pellet preference; those need target testing.
+With a **standard deviation of only 2.0 fps**, the HW40 delivered excellent shot-to-shot velocity consistency in this 25-shot string. That is less than 0.5% of its average velocity. It does not establish group size or pellet preference; those need target testing.
 
 ## HW40 Compared with the HW75
 
@@ -133,12 +140,16 @@ Weihrauch lists the [HW40](https://www.weihrauch-sport.de/air-pistols/hw-40-pca?
 
 ### Handling and Grip Fit
 
+<div class="spec-comparison" role="region" aria-label="HW40 and HW75 handling comparison" tabindex="0">
+
 | Detail | HW40 | HW75 |
 | --- | --- | --- |
 | Closing effort, in my experience | Stiffer final push | Softer, smoother closing stroke |
 | Firing feel, in my experience | Smoother, with less noticeable vibration | More noticeable mechanical vibration |
 | Grip fit for my hand | Plain and thin; I would like more contour and support | Textured walnut, but still slim around the thumb–index web |
 | Shooting routine | Safety engages automatically with each cocking cycle | Separate hammer cocking and manual safety |
+
+</div>
 
 The HW75's more sculpted grip does not automatically mean a better fit for me. Its flat trigger-guard undercut leaves much of the weight on my middle finger, while the HW40 curves upward at that point. The photos show the HW75 on the left and HW40 on the right, with arrows marking this contact area.
 
@@ -156,12 +167,16 @@ Both pistols still place the barrel higher above my hand than I prefer. The HW40
 
 These are the complete 25-shot strings from separate sessions, both using Meisterkugeln 7-grain pellets. The HW75 figures come from my [earlier chronograph results](/blog/hw75_intro/#muzzle-velocity), including its initial cold-bore shots.
 
+<div class="spec-comparison" role="region" aria-label="HW40 and HW75 chronograph comparison" tabindex="0">
+
 | Measurement | HW40, shots 1–25 | HW75, shots 1–25 |
 | --- | --- | --- |
 | Average velocity | **426.5 fps** | **430.1 fps** |
 | Minimum–maximum | 423.0–430.3 fps | 421.8–434.7 fps |
 | Extreme spread | **7.3 fps** | **12.9 fps** |
 | Standard deviation | 2.0 fps | 3.50 fps, population |
+
+</div>
 
 The recorded averages differ by just **3.6 fps**, and the **HW40 had the smaller extreme spread** in these sessions. The HW75 settled after its early shots: its separately reported shots 8–25 averaged 431.6 fps with a 9.9 fps spread. The table retains the full string for both pistols.
 

@@ -37,6 +37,8 @@ All 17 photos and both chronograph screenshots were viewed individually before a
 
 Raw originals were renamed in `tmp/raw_images/hw40/` and retained byte-for-byte (SHA-256 verified). Copies in `src/assets/hw40/` use auto-orientation, sRGB, metadata stripping, maximum 2040-pixel JPEG dimensions, and JPEG quality 82. PNG screenshots retain their original dimensions for text readability. The global compression script was not run because it deletes raw inputs and processes unrelated folders.
 
+November 5 cleanup: removed six unused assets from `src/assets/hw40/`: `hw40_left_profile.jpg`, `hw40_top_sights.jpg`, `hw40_open_action_top.jpg`, `hw40_piston_linkage_detail.jpg`, `hw40_barrel_breech.jpg`, and `hw40_action_latch.jpg`. None had site references. The table below records the original import inventory.
+
 | Original filename | Renamed raw file / asset filename | Asset bytes |
 | --- | --- | ---: |
 | `PXL_20261031_224008287.jpg` | `hw40_left_profile.jpg` | 924,871 |
